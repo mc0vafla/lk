@@ -1,0 +1,24 @@
+{
+  "Applications": [
+    "/usr/share/applications/spotify.desktop",
+    "/usr/share/applications/gparted.desktop",
+    "/home/helminth/.local/share/applications/steam.desktop",
+    "/usr/share/applications/kdesystemsettings.desktop",
+    "/usr/share/applications/org.prismlauncher.PrismLauncher.desktop",
+    "/usr/share/applications/zen.desktop",
+    "/usr/share/applications/helium.desktop",
+    "/home/helminth/.local/share/applications/cyberpunk.desktop",
+    "/usr/share/applications/nwg-look.desktop",
+    "/usr/share/applications/org.kde.krita.desktop",
+    "/usr/share/applications/xfce4-appfinder.desktop",
+    "/usr/share/applications/proton-launcher-config.desktop",
+    "/usr/share/applications/com.obsproject.Studio.desktop",
+    "/usr/share/applications/kitty.desktop",
+    "/usr/share/applications/pcmanfm.desktop",
+    "/usr/share/applications/thunar.desktop",
+    "/usr/share/applications/r2modman.desktop",
+    "/usr/share/applications/nvidia-settings.desktop",
+    "/usr/share/applications/xterm.desktop",
+    "/home/helminth/.local/share/applications/havoc.desktop"
+  ]
+}

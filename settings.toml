@@ -1,0 +1,193 @@
+config_version = 8
+
+[bar.default]
+background_opacity = 0.79999998211860657
+center = [ "clock", "spacer_4", "keyboard_layout" ]
+contact_shadow = true
+end = [ "tray", "spacer_3", "volume" ]
+margin_ends = 5
+start = [ "ram", "spacer_2", "workspaces" ]
+thickness = 26
+
+[control_center]
+hidden_tabs = [ "bluetooth" ]
+sidebar = "full"
+
+    [[control_center.shortcuts]]
+    type = "wifi"
+
+    [[control_center.shortcuts]]
+    type = "nightlight"
+
+    [[control_center.shortcuts]]
+    type = "notification"
+
+    [[control_center.shortcuts]]
+    type = "power_profile"
+
+[desktop_widgets]
+enabled = false
+
+[location]
+address = "Belgrade"
+
+[lockscreen]
+blur_intensity = 0.43999999016523361
+fingerprint = false
+tint_intensity = 0.52999998815357685
+wallpaper = "/home/helminth/Pictures/1.png"
+
+[lockscreen_widgets]
+enabled = false
+schema_version = 2
+widget_order = [ "lockscreen-login-box@HDMI-A-1", "lockscreen-login-box@eDP-1" ]
+
+    [lockscreen_widgets.grid]
+    cell_size = 16
+    major_interval = 4
+    visible = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1"]
+    box_height = 213.0
+    box_width = 810.0
+    cx = 960.0
+    cy = 889.5
+    output = "HDMI-A-1"
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@HDMI-A-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_session_buttons = true
+
+    [lockscreen_widgets.widget."lockscreen-login-box@eDP-1"]
+    box_height = 213.0
+    box_width = 810.0
+    cx = 960.0
+    cy = 889.5
+    output = "eDP-1"
+    rotation = 0.0
+    type = "login_box"
+
+        [lockscreen_widgets.widget."lockscreen-login-box@eDP-1".settings]
+        background_color = "surface_variant"
+        background_opacity = 0.88
+        background_radius = 12.0
+        center_password_text = false
+        input_opacity = 1.0
+        input_radius = 6.0
+        layout = "regular"
+        show_caps_lock = true
+        show_keyboard_layout = true
+        show_login_button = true
+        show_session_buttons = true
+
+[notification]
+monitors = [ "HDMI-A-1" ]
+position = "bottom_right"
+
+[osd]
+monitors = [ "HDMI-A-1" ]
+position = "bottom_right"
+position_vertical = "bottom_right"
+
+    [osd.kinds]
+    keyboard_backlight = false
+    keyboard_layout = false
+    media = false
+
+[plugins]
+enabled = [ "radimous/prismlauncher-instances", "alexander/game-launcher" ]
+
+[shell]
+font_family = "Departure Mono"
+password_style = "random"
+polkit_agent = true
+show_location = false
+
+    [shell.launcher]
+    categories = false
+
+    [shell.screenshot]
+    directory = "/home/helminth/Pictures/Screenshots"
+
+    [[shell.session.actions]]
+    action = "lock"
+    countdown_seconds = 0.0
+    enabled = false
+    shortcut = "1"
+    variant = "default"
+
+    [[shell.session.actions]]
+    action = "logout"
+    countdown_seconds = 0.0
+    enabled = true
+    shortcut = "1"
+    variant = "default"
+
+    [[shell.session.actions]]
+    action = "lock_and_suspend"
+    countdown_seconds = 0.0
+    enabled = false
+    shortcut = "3"
+    variant = "default"
+
+    [[shell.session.actions]]
+    action = "reboot"
+    countdown_seconds = 0.0
+    enabled = true
+    shortcut = "2"
+    variant = "default"
+
+    [[shell.session.actions]]
+    action = "shutdown"
+    countdown_seconds = 0.0
+    enabled = true
+    shortcut = "3"
+    variant = "destructive"
+
+[theme]
+community_palette = "Murata"
+source = "community"
+
+    [theme.templates]
+    builtin_ids = [ "btop", "cava", "hyprland", "mango", "niri" ]
+    community_ids = [ "zen-browser", "bat" ]
+
+[wallpaper]
+directory = "/home/helminth/Pictures"
+
+    [wallpaper.last]
+    path = "/home/helminth/Pictures/wp15132175-milk-outside-a-bag-of-milk-outside-a-bag-of-milk-wallpapers.jpg"
+
+    [wallpaper.monitors.HDMI-A-1]
+    path = "/home/helminth/Pictures/2.png"
+
+    [wallpaper.monitors.eDP-1]
+    path = "/home/helminth/Pictures/wp15132175-milk-outside-a-bag-of-milk-outside-a-bag-of-milk-wallpapers.jpg"
+
+[widget.keyboard_layout]
+show_icon = false
+
+[widget.spacer_2]
+length = 40
+type = "spacer"
+
+[widget.spacer_3]
+length = 40
+type = "spacer"
+
+[widget.spacer_4]
+type = "spacer"
+
+[widget.workspaces]
+hide_when_empty = true

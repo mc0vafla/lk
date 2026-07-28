@@ -1,0 +1,28 @@
+{
+  "Applications": {
+    "/home/helminth/.local/share/applications/cyberpunk.desktop": 11,
+    "/home/helminth/.local/share/applications/havoc.desktop": 2,
+    "/home/helminth/.local/share/applications/steam.desktop": 22,
+    "/usr/share/applications/com.obsproject.Studio.desktop": 46,
+    "/usr/share/applications/gparted.desktop": 9,
+    "/usr/share/applications/helium.desktop": 9,
+    "/usr/share/applications/kdesystemsettings.desktop": 1,
+    "/usr/share/applications/kitty.desktop": 2,
+    "/usr/share/applications/nvidia-settings.desktop": 1,
+    "/usr/share/applications/nwg-look.desktop": 2,
+    "/usr/share/applications/org.gnome.seahorse.Application.desktop": 1,
+    "/usr/share/applications/org.kde.krita.desktop": 1,
+    "/usr/share/applications/org.prismlauncher.PrismLauncher.desktop": 16,
+    "/usr/share/applications/org.telegram.desktop.desktop": 4,
+    "/usr/share/applications/pcmanfm.desktop": 1,
+    "/usr/share/applications/proton-launcher-config.desktop": 1,
+    "/usr/share/applications/r2modman.desktop": 1,
+    "/usr/share/applications/spotify.desktop": 28,
+    "/usr/share/applications/steam.desktop": 2,
+    "/usr/share/applications/thunar.desktop": 1,
+    "/usr/share/applications/vesktop.desktop": 2,
+    "/usr/share/applications/xfce4-appfinder.desktop": 2,
+    "/usr/share/applications/xterm.desktop": 1,
+    "/usr/share/applications/zen.desktop": 23
+  }
+}
