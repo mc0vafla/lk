@@ -1,0 +1,41 @@
+/* Подключаем шрифт и базовые свойства из твоего конфига */
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "DepartureMono", monospace;
+    font-size: 12px;
+    min-height: 0;
+}
+
+/* Сам Waybar полностью прозрачный */
+window#waybar {
+    background-color: transparent;
+    color: #d3c6aa; /* foreground */
+}
+
+/* Капсулы для модулей (Tray, Clock, Pulseaudio) */
+#tray,
+#clock,
+#pulseaudio {
+    /* Фоновый цвет background (#392b2b) с небольшой прозрачностью */
+    background-color: rgba(57, 43, 43, 0.85); 
+    color: #d3c6aa;                           /* foreground */
+    border: 1px solid #5c4b4b;                 /* colors.normal.black */
+    border-radius: 20px;                       /* Капсула */
+    padding: 6px 14px;
+    margin: 2px 0px;
+}
+
+/* Ховер-эффект при наведении мышкой */
+#pulseaudio:hover,
+#clock:hover {
+    background-color: #5c4b4b;                 /* colors.normal.black */
+    color: #f5e6e6;                           /* colors.bright.white */
+}
+
+/* Если звук выключен (Muted) */
+#pulseaudio.muted {
+    background-color: rgba(230, 126, 128, 0.2); /* Красный цвет акцента */
+    color: #e67e80;                             /* colors.normal.red */
+    border-color: #e67e80;
+}

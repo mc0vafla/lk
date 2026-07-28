@@ -1,0 +1,61 @@
+[window.padding]
+x = 12
+y = 8
+
+[font]
+size = 12.0
+
+[font.normal]
+family = "DepartureMono"
+style = "Regular"
+
+[font.bold]
+family = "DepartureMono"
+style = "Bold"
+
+[font.italic]
+family = "DepartureMono"
+style = "Italic"
+
+[colors.primary]
+# background = "#392b2b"
+background = "#2b1e1e"
+# background = "#211515"
+foreground = "#d3c6aa"
+
+[colors.cursor]
+text = "CellBackground"
+cursor = "#e67e80"
+
+[colors.normal]
+black   = "#5c4b4b"
+red     = "#e67e80"
+green   = "#e68d80"
+yellow  = "#e6a080"
+blue    = "#e680a0"
+magenta = "#e680c0"
+cyan    = "#e68080"
+white   = "#e6cccc"
+
+[colors.bright]
+black   = "#725c5c"
+red     = "#f09496"
+green   = "#f0a294"
+yellow  = "#f0b594"
+blue    = "#f094b5"
+magenta = "#f094d5"
+cyan    = "#f09494"
+white   = "#f5e6e6"
+
+[terminal]
+shell = "fish"
+
+[[keyboard.bindings]]
+key = "i"
+mods = "Alt"
+action = "ToggleViMode"
+
+[[keyboard.bindings]]
+key = "o"
+mods = "Alt"
+action = "SearchForward"

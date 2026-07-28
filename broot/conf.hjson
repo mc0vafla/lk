@@ -1,0 +1,204 @@
+###############################################################
+# This configuration file lets you
+# - define new commands
+# - change the shortcut or triggering keys of built-in verbs
+# - change the colors
+# - set default values for flags
+# - set special behaviors on specific paths
+# - and more...
+#
+# Configuration documentation is available at
+#     https://dystroy.org/broot
+#
+# This file's format is Hjson ( https://hjson.github.io/ ). Some
+# properties are commented out. To enable them, remove the `#`.
+#
+###############################################################
+show_status_line: false
+###############################################################
+# Default flags
+#
+# default_flags:
+
+###############################################################
+# Terminal's title
+#
+terminal_title: "[broot] {git-name}"
+
+###############################################################
+# Date/Time format
+#
+date_time_format: %Y/%m/%d %R
+
+###############################################################
+# Modal mode
+#
+# modal: true
+
+###############################################################
+# Whether to mark the selected line with a triangle
+#
+show_selection_mark: true
+
+###############################################################
+# Column order
+#
+# cols_order: [ ... ]
+
+###############################################################
+# True Colors
+#
+true_colors: true
+
+###############################################################
+# Icons
+icon_theme: nerdfonts
+
+###############################################################
+# Special paths
+#
+special_paths: {
+    "trav": {
+        show: always
+        list: "always",
+        sum: "never"
+    }
+    ".*": { "show": "always" }
+}
+
+###############################################################
+# Quit on last cancel
+# 
+# quit_on_last_cancel: true
+
+###############################################################
+# Search modes
+#
+# search_modes: {
+#     <empty>: fuzzy name
+#     /: regex name
+# }
+
+###############################################################
+# File Extension Colors
+#
+# ext_colors: { ... }
+
+###############################################################
+# Max file size for content search
+content_search_max_file_size: 10MB
+
+###############################################################
+# Max Panels Count
+# max_panels_count: 2
+
+###############################################################
+# Update work dir
+#
+update_work_dir: true
+
+###############################################################
+# Kitty Keyboard extension
+enable_kitty_keyboard: false
+
+###############################################################
+# lines around matching line in filtered preview
+lines_before_match_in_preview: 1
+lines_after_match_in_preview: 1
+
+###############################################################
+# transformations before preview
+preview_transformers: [ ]
+
+###############################################################
+# Цветовая схема (Темно-красная тема)
+skin: {
+    # Текст по умолчанию (Светлый кремовый для контраста)
+    default: "#d3c6aa none"
+
+    # Дерево и структура
+    tree: "#5c4040 none"
+
+    # Обычные файлы и папки
+    file: "#d3c6aa none"
+    directory: "#e67e80 none bold"
+    
+    # Выбранная строка: глубокий темно-красный фон
+    selected_line: "#f2e5bc #392b2b"
+    
+    # Даты, размеры и права — приглушенные, чтобы не перетягивали внимание
+    dates: "#857373 none"
+    size: "#857373 none"
+    permissions: "#857373 none"
+    
+    # Поисковый инпут и совпадения (более яркий красный для акцента)
+    input: "#e67e80 none"
+    char_match: "#ff9193 none bold"
+
+    # Дополнительные элементы
+    git_status: "#dbbc7f none"
+    flag_label: "#e67e80 none"
+    flag_value: "#dbbc7f none"
+    
+    # Статус-бар: очень темный, почти черный красноватый тон
+    status_normal: "#d3c6aa #201818"
+}
+
+###############################################################
+# Кастомное поведение клавиш (Горячие клавиши)
+#
+verbs: [
+    {
+        invocation: edit
+        key: enter
+        shortcut: e
+        apply_to: "file"
+        execution: "nvim {file}"
+        leave_broot: false
+    }
+    {
+        name: "enter_dir"
+        key: enter
+        mime_filter: "directory"
+        internal: "focus"
+    }
+    {
+        key: ctrl-x
+        apply_to: "file"
+        internal: "open_stay"
+    }
+    {
+        invocation: terminal
+        key: ctrl-d
+        execution: "$SHELL"
+        set_working_dir: true
+        leave_broot: false
+    }
+    {
+        key: ctrl-k
+        execution: ":line_up"
+    }
+    {
+        key: ctrl-j
+        execution: ":line_down"
+    }
+    {
+        key: ctrl-u
+        execution: ":page_up"
+    }
+    {
+        key: ctrl-d
+        execution: ":page_down"
+    }
+    {
+        key: alt-g
+        execution: ":toggle_git_status"
+    }
+]
+
+###############################################################
+# Imports
+#
+imports: [
+    verbs.hjson
+]

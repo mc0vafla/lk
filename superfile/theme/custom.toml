@@ -1,0 +1,26 @@
+gradient_color = ["#e67e80", "#e6a080"]
+main_color = ["#e67e80", "#e6a080"]
+
+file_panel_background = "#2b1e1e"
+file_panel_text = "#d3c6aa"
+file_panel_cursor = "#e67e80"
+file_panel_select = "#5c4b4b"
+
+sidebar_background = "#2b1e1e"
+sidebar_text = "#d3c6aa"
+sidebar_select = "#5c4b4b"
+
+preview_background = "#2b1e1e"
+preview_text = "#d3c6aa"
+
+border_color = "#5c4b4b"
+border_active_color = "#e67e80"
+
+statusbar_background = "#2b1e1e"
+statusbar_text = "#d3c6aa"
+
+command_line_background = "#2b1e1e"
+command_line_text = "#d3c6aa"
+
+notification_background = "#2b1e1e"
+notification_text = "#d3c6aa"

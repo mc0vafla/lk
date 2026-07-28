@@ -1,0 +1,66 @@
+[global]
+    monitor = 0
+    follow = mouse
+    
+    # Updated to the new min/max syntax to prevent deprecation warnings
+    width = (0, 350)
+    height = (0, 300)
+    
+    origin = top-right
+    
+    # Fixed the offset syntax from 12x12 to a tuple
+    offset = (12, 12)
+    
+    scale = 1
+    notification_limit = 5
+
+    progress_bar = true
+    progress_bar_height = 8
+    progress_bar_frame_width = 1
+    progress_bar_min_width = 150
+    progress_bar_max_width = 300
+
+    font = DepartureMono Nerd Font 10
+    frame_width = 2
+    separator_height = 2
+    padding = 12
+    horizontal_padding = 12
+    text_icon_padding = 10
+    corner_radius = 6
+    
+    separator_color = frame
+
+    sort = yes
+    idle_threshold = 120
+    alignment = left
+    show_age_threshold = 60
+    ellipsize = middle
+    ignore_newline = no
+    stack_duplicates = true
+    hide_duplicate_count = false
+    show_indicators = yes
+
+    icon_position = left
+    min_icon_size = 32
+    max_icon_size = 64
+
+[urgency_low]
+    # Темно-красный фон, приглушенный текст
+    background = "#201818"
+    foreground = "#a38d8d"
+    frame_color = "#402d2d"
+    timeout = 2
+
+[urgency_normal]
+    # Основной красный стиль
+    background = "#251c1c"
+    foreground = "#d3c6aa"
+    frame_color = "#e67e80"
+    timeout = 2
+
+[urgency_critical]
+    # Выделяющийся акцент для критических событий
+    background = "#392b2b"
+    foreground = "#e67e80" 
+    frame_color = "#ff9193" 
+    timeout = 2
