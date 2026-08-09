@@ -1,5 +1,4 @@
 zoxide init fish | source
-export AMD_VULKAN_ICD=RADV
 set -gx EDITOR nvim
 
 if test (tty) = "/dev/tty1"
