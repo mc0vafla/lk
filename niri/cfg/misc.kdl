@@ -20,6 +20,8 @@ debug {
     disable-cursor-plane
     disable-direct-scanout
     wait-for-frame-completion-before-queueing
+    emulate-zero-presentation-time
+    disable-resize-throttling
 }
 
 hotkey-overlay {
