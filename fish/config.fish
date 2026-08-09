@@ -4,6 +4,7 @@ export WLR_NO_HARDWARE_CURSORS=1
 export WLR_RENDERER=vulkan
 export SDL_VIDEODRIVER=wayland
 export QT_QPA_PLATFORM=wayland
+export QT_WAYLAND_DISABLE_WINDOWDECORATION "1"
 
 if test (tty) = "/dev/tty1"
   rivalcfg --z1 52263E --z2 52263E --z3 52263E &
