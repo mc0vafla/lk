@@ -3,7 +3,6 @@ export AMD_VULKAN_ICD=RADV
 set -gx EDITOR nvim
 
 if test (tty) = "/dev/tty1"
-  # rivalcfg --z1 52263E --z2 52263E --z3 52263E &
   dbus-run-session niri --session 
 end
 
