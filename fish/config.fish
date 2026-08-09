@@ -1,6 +1,7 @@
 zoxide init fish | source
 set -gx EDITOR nvim
 export WLR_NO_HARDWARE_CURSORS=1
+export WLR_RENDERER=vulkan
 export SDL_VIDEODRIVER=wayland
 export QT_QPA_PLATFORM=wayland
 
