@@ -1,0 +1,5 @@
+proton_version = "UMU-Proton-10.0-4"
+use_umu = true
+mangohud = false
+gamescope = false
+gamemode = false

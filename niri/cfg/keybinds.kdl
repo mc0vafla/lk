@@ -1,0 +1,83 @@
+binds {
+
+    Mod+space       { switch-layout "next"; }
+    Mod+shift+e     { spawn-sh "noctalia msg settings-toggle"; }
+    Mod+e           { spawn-sh "noctalia msg panel-toggle control-center"; }
+    Mod+escape      { spawn-sh "pcmanfm -n ~/"; }
+    Mod+b           { spawn-sh "alacritty -e fish -c b"; }
+    mod+l           { spawn-sh "noctalia msg session lock"; }
+    mod+4           { spawn-sh "noctalia msg panel-toggle session"; }
+    mod+r           { spawn-sh "rofi -show drun"; }
+
+    alt+tab         { spawn-sh "noctalia msg media next"; }
+    alt+ctrl+tab    { spawn-sh "noctalia msg media previous"; }
+    alt+shift+tab   { spawn-sh "noctalia msg media toggle"; }
+
+    mod+n           { spawn-sh "alacritty -e fish -c nv"; }
+    mod+k           { spawn-sh "alacritty -e fish -c o"; }
+
+    Mod+return { spawn "alacritty"; }
+    Mod+Shift+return { spawn "alacritty"; }
+    mod+v { spawn-sh "noctalia msg panel-toggle launcher"; }
+
+    XF86AudioRaiseVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1+ -l 1.0"; }
+    XF86AudioLowerVolume allow-when-locked=true { spawn-sh "wpctl set-volume @DEFAULT_AUDIO_SINK@ 0.1-"; }
+    XF86AudioMute        allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle"; }
+    XF86AudioMicMute     allow-when-locked=true { spawn-sh "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle"; }
+
+    XF86AudioPlay        allow-when-locked=true { spawn-sh "playerctl play-pause"; }
+    XF86AudioPause       allow-when-locked=true { spawn-sh "playerctl play-pause"; }
+    XF86AudioStop        allow-when-locked=true { spawn-sh "playerctl stop"; }
+    XF86AudioPrev        allow-when-locked=true { spawn-sh "playerctl previous"; }
+    XF86AudioNext        allow-when-locked=true { spawn-sh "playerctl next"; }
+
+    XF86MonBrightnessUp allow-when-locked=true { spawn "brightnessctl" "--class=backlight" "set" "+10%"; }
+    XF86MonBrightnessDown allow-when-locked=true { spawn "brightnessctl" "--class=backlight" "set" "10%-"; }
+
+    Mod+Tab repeat=false { toggle-overview; }
+
+    Mod+Q repeat=false { close-window; }
+
+    Mod+a     { focus-column-left; }
+    Mod+d     { focus-column-right; }
+
+    Mod+Ctrl+a  { move-column-left; }
+    Mod+Ctrl+d { move-column-right; }
+
+    Mod+s     { focus-window-or-workspace-down; }
+    Mod+w     { focus-window-or-workspace-up; }
+    Mod+Ctrl+s     { move-window-down-or-to-workspace-down; }
+    Mod+Ctrl+w     { move-window-up-or-to-workspace-up; }
+
+    Mod+1  { focus-monitor-left; }
+    Mod+2 { focus-monitor-right; }
+
+    Mod+Ctrl+1 { move-column-to-monitor-left; }
+    Mod+ctrl+2 { move-column-to-monitor-right; }
+
+    Mod+Shift+WheelScrollDown      cooldown-ms=150 { focus-workspace-down; }
+    Mod+Shift+WheelScrollUp        cooldown-ms=150 { focus-workspace-up; }
+
+    Mod+WheelScrollDown      { focus-column-right; }
+    Mod+WheelScrollUp       { focus-column-left; }
+
+    Mod+Shift+a  { consume-or-expel-window-left; }
+    Mod+Shift+d  { consume-or-expel-window-right; }
+
+    mod+3 { maximize-column; }
+    Mod+F { fullscreen-window; }
+
+    alt+space { center-column; }
+
+    mod+x { set-column-width "-10%"; }
+    mod+c { set-column-width "+10%"; }
+
+    Mod+z       { toggle-window-floating; }
+
+    alt+1 { screenshot show-pointer=false; }
+    alt+2 { screenshot-screen show-pointer=false; }
+    alt+3 { screenshot-window show-pointer=false; }
+    alt+4 { spawn-sh "hyprpicker | wl-copy; noctalia msg notification-show Hyprpicker Color was copied";}
+
+    Mod+m { quit; }
+}

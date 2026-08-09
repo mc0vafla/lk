@@ -1,0 +1,31 @@
+// debug {
+//     render-drm-device "/dev/dri/renderD129"
+// }
+include "./cfg/animation.kdl"
+include "./cfg/keybinds.kdl"
+include "./cfg/input.kdl"
+include "./cfg/display.kdl"
+include "./cfg/layout.kdl"
+include "./cfg/rules.kdl"
+include "./cfg/misc.kdl"
+include "./cfg/autostart.kdl"
+include "./noctalia.kdl"
+
+gestures {
+    hot-corners {
+        off
+    }
+}
+recent-windows {
+    debounce-ms 750
+    open-delay-ms 100
+    highlight {
+        corner-radius 20
+    }
+}
+
+overview {
+    backdrop-color "#191b1c"
+    zoom 0.45
+}
+screenshot-path "~/Pictures/Screenshots/Screenshot from %Y-%m-%d %H-%M-%S.png"
