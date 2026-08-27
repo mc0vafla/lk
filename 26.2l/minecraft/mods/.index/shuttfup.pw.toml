@@ -1,0 +1,18 @@
+filename = 'Stfu-2.9.1-26.2.jar'
+name = 'Stfu'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.9.1-26.2'
+
+[download]
+hash = '03eb2672d7c48797e300edc9962f0e8664ee57bdf33d8543712e0bd132fa092e08b3e9e4319e9bc9f85faac0bc4f12f65ea129d689068386647511abcc97bacb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Rg9WdvvR/versions/dvsmI3QK/Stfu-2.9.1-26.2.jar'
+
+[update.modrinth]
+mod-id = 'Rg9WdvvR'
+version = 'dvsmI3QK'

@@ -1,0 +1,41 @@
+filename = 'WorldEditCUI-26.2+02.jar'
+name = 'WorldEdit CUI'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.2+02'
+
+[download]
+hash = '9f682e0170da8b56ff4753ea71bbf5b339e8a52b43e078851f86427097853c208c91fc94e3db5801c552b989efd73f9f7994b6ee6c9b8bcc13e98abc797b2f93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NSLJJooQ/versions/DXW8m2gO/WorldEditCUI-26.2%2B02.jar'
+
+[update.modrinth]
+mod-id = 'NSLJJooQ'
+version = 'DXW8m2gO'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'rIC2XJV4'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AANobbMI'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'VOYxIjFI'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'YL57xq9U'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1u6JkXh5'
+type = 'OPTIONAL'

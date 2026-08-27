@@ -1,0 +1,1039 @@
+---- Quilt Loader: Failed to load ----
+Date/Time: 2026/08/27 19:08:43.0773 [+0200]
+Quilt Loader Version: 0.30.0
+
+-- Error 1 --
+
+Fabric API requires version [0.19.3, ∞) of fabricloader, but only wrong versions are present:
+
+- version 0.19.2 provided by Quilt Loader from /home/helminth/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar
+
+Fabric API is loaded from <mods>/fabric-api-0.158.1+26.3.jar
+
+
+-- Plugin State --
+
+Cycle number = 1
+Cycle Step = SOLVE
+
+Loaded Plugins (2):
+ - 'quilt_loader' (Builtin)
+ - 'quilted_fabric_loader' (Builtin)
+
+
+
+
+-- Mod Table --
+
+| Mod                                                                          | ID                                     | Version                          | Plugin                | Flags | File Hash (SHA-1)                        | File(s)                                                                                                               | Sub-File                                                                                          |
+|------------------------------------------------------------------------------|----------------------------------------|----------------------------------|-----------------------|-------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Cape Provider                                                                | cape-provider                          | 5.6.0-SNAPSHOT                   | quilted_fabric_loader | ..    | 9584fb09c4516d910c6f484285f2664a7bf31e96 | <mods>/cape-provider-5.6.0-SNAPSHOT.jar                                                                               |                                                                                                   |
+| Concurrent Chunk Management Engine                                           | c2me                                   | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             |                                                                                                   |
+| Concurrent Chunk Management Engine (Base)                                    | c2me-base                              | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-base-mc26.3-snapshot-9-0.4.2-alpha.0.64-all.jar                        |
+| Concurrent Chunk Management Engine (Client/Uncap View Distance)              | c2me-client-uncapvd                    | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-client-uncapvd-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                  |
+| Concurrent Chunk Management Engine (Fixes/Chunk IO/Threading Issues)         | c2me-fixes-chunkio-threading-issues    | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-fixes-chunkio-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar  |
+| Concurrent Chunk Management Engine (Fixes/General/Threading Issues)          | c2me-fixes-general-threading-issues    | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-fixes-general-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar  |
+| Concurrent Chunk Management Engine (Fixes/WorldGen/Threading Issues)         | c2me-fixes-worldgen-threading-issues   | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-fixes-worldgen-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar |
+| Concurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs)             | c2me-fixes-worldgen-vanilla-bugs       | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-fixes-worldgen-vanilla-bugs-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar     |
+| Concurrent Chunk Management Engine (No Tick View Distance)                   | c2me-notickvd                          | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-notickvd-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                        |
+| Concurrent Chunk Management Engine (Optimizations/Chunk IO)                  | c2me-opts-chunkio                      | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-chunkio-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                    |
+| Concurrent Chunk Management Engine (Optimizations/Density Function Compiler) | c2me-opts-dfc                          | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-dfc-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                        |
+| Concurrent Chunk Management Engine (Optimizations/General WorldGen)          | c2me-opts-worldgen-general             | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-worldgen-general-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar           |
+| Concurrent Chunk Management Engine (Optimizations/Math)                      | c2me-opts-math                         | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-math-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                       |
+| Concurrent Chunk Management Engine (Optimizations/Memory Allocations)        | c2me-opts-allocs                       | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-allocs-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                     |
+| Concurrent Chunk Management Engine (Optimizations/Scheduling)                | c2me-opts-scheduling                   | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-scheduling-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                 |
+| Concurrent Chunk Management Engine (Optimizations/Vanilla WorldGen)          | c2me-opts-worldgen-vanilla             | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-worldgen-vanilla-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar           |
+| Concurrent Chunk Management Engine (Rewrites/Chunk IO)                       | c2me-rewrites-chunkio                  | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-rewrites-chunkio-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                |
+| Concurrent Chunk Management Engine (Rewrites/Chunk Serializer)               | c2me-rewrites-chunk-serializer         | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-rewrites-chunk-serializer-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar       |
+| Concurrent Chunk Management Engine (Rewrites/Chunk System)                   | c2me-rewrites-chunk-system             | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-rewrites-chunk-system-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar           |
+| Concurrent Chunk Management Engine (Server Utils)                            | c2me-server-utils                      | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-server-utils-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                    |
+| Concurrent Chunk Management Engine (Threading/Lighting)                      | c2me-threading-lighting                | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-threading-lighting-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar              |
+| Fabric API                                                                   | fabric-api                             | 0.158.1+26.3                     | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    |                                                                                                   |
+| Fabric API Base                                                              | fabric-api-base                        | 2.0.5+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-api-base-2.0.5+3434d6d97a.jar                                               |
+| Fabric API Lookup API (v1)                                                   | fabric-api-lookup-api-v1               | 2.0.21+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-api-lookup-api-v1-2.0.21+3434d6d97a.jar                                     |
+| Fabric Biome API (v1)                                                        | fabric-biome-api-v1                    | 20.0.6+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-biome-api-v1-20.0.6+3434d6d97a.jar                                          |
+| Fabric Block API (v1)                                                        | fabric-block-api-v1                    | 3.0.4+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-block-api-v1-3.0.4+3434d6d97a.jar                                           |
+| Fabric BlockGetter API (v2)                                                  | fabric-block-getter-api-v2             | 2.0.8+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-block-getter-api-v2-2.0.8+3434d6d97a.jar                                    |
+| Fabric Command API (v2)                                                      | fabric-command-api-v2                  | 3.1.1+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-command-api-v2-3.1.1+3434d6d97a.jar                                         |
+| Fabric Content Registries (v0)                                               | fabric-content-registries-v0           | 14.2.3+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-content-registries-v0-14.2.3+3434d6d97a.jar                                 |
+| Fabric Convention Tags (v2)                                                  | fabric-convention-tags-v2              | 4.9.3+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-convention-tags-v2-4.9.3+3434d6d97a.jar                                     |
+| Fabric Crash Report Info (v1)                                                | fabric-crash-report-info-v1            | 1.0.6+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-crash-report-info-v1-1.0.6+3434d6d97a.jar                                   |
+| Fabric Creative Tab API (v1)                                                 | fabric-creative-tab-api-v1             | 5.0.20+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-creative-tab-api-v1-5.0.20+3434d6d97a.jar                                   |
+| Fabric Data Attachment API (v1)                                              | fabric-data-attachment-api-v1          | 2.2.28+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-data-attachment-api-v1-2.2.28+3434d6d97a.jar                                |
+| Fabric Data Generation API (v1)                                              | fabric-data-generation-api-v1          | 27.1.5+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-data-generation-api-v1-27.1.5+3434d6d97a.jar                                |
+| Fabric Debug API (v1)                                                        | fabric-debug-api-v1                    | 1.0.3+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-debug-api-v1-1.0.3+3434d6d97a.jar                                           |
+| Fabric Dimensions API (v1)                                                   | fabric-dimensions-v1                   | 5.1.16+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-dimensions-v1-5.1.16+3434d6d97a.jar                                         |
+| Fabric Entity Events (v1)                                                    | fabric-entity-events-v1                | 6.0.3+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-entity-events-v1-6.0.3+3434d6d97a.jar                                       |
+| Fabric Events Interaction (v0)                                               | fabric-events-interaction-v0           | 5.3.5+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-events-interaction-v0-5.3.5+3434d6d97a.jar                                  |
+| Fabric Game Rule API (v1)                                                    | fabric-game-rule-api-v1                | 4.0.9+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-game-rule-api-v1-4.0.9+3434d6d97a.jar                                       |
+| Fabric Item API (v1)                                                         | fabric-item-api-v1                     | 14.5.1+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-item-api-v1-14.5.1+3434d6d97a.jar                                           |
+| Fabric Key Mapping API (v1)                                                  | fabric-key-mapping-api-v1              | 2.0.7+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-key-mapping-api-v1-2.0.7+3434d6d97a.jar                                     |
+| Fabric Lifecycle Events (v1)                                                 | fabric-lifecycle-events-v1             | 4.1.6+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-lifecycle-events-v1-4.1.6+3434d6d97a.jar                                    |
+| Fabric Loot API (v3)                                                         | fabric-loot-api-v3                     | 4.0.2+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-loot-api-v3-4.0.2+3434d6d97a.jar                                            |
+| Fabric Menu API (v1)                                                         | fabric-menu-api-v1                     | 2.0.24+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-menu-api-v1-2.0.24+3434d6d97a.jar                                           |
+| Fabric Message API (v1)                                                      | fabric-message-api-v1                  | 7.0.9+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-message-api-v1-7.0.9+3434d6d97a.jar                                         |
+| Fabric Model Loading API (v1)                                                | fabric-model-loading-api-v1            | 8.0.28+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-model-loading-api-v1-8.0.28+3434d6d97a.jar                                  |
+| Fabric Networking API (v1)                                                   | fabric-networking-api-v1               | 6.3.7+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-networking-api-v1-6.3.7+3434d6d97a.jar                                      |
+| Fabric Object Builder API (v1)                                               | fabric-object-builder-api-v1           | 24.1.7+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-object-builder-api-v1-24.1.7+3434d6d97a.jar                                 |
+| Fabric Particles (v1)                                                        | fabric-particles-v1                    | 5.0.23+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-particles-v1-5.0.23+3434d6d97a.jar                                          |
+| Fabric Permission API (v1)                                                   | fabric-permission-api-v1               | 1.0.6+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-permission-api-v1-1.0.6+3434d6d97a.jar                                      |
+| Fabric Placeholder                                                           | fabric-ph                              | 1.0.0                            | quilted_fabric_loader | ..    | a69e466e69d2fe2a220e6078c2e6eece6dfe8927 | <mods>/fabric-ph-1.0.0.jar                                                                                            |                                                                                                   |
+| Fabric Placeholder                                                           | fabric-ph                              | 1.0.0                            | quilted_fabric_loader | ..    | a69e466e69d2fe2a220e6078c2e6eece6dfe8927 | <mods>/fabric-ph-1.0.0.jar                                                                                            |                                                                                                   |
+| Fabric Recipe API (v1)                                                       | fabric-recipe-api-v1                   | 10.0.5+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-recipe-api-v1-10.0.5+3434d6d97a.jar                                         |
+| Fabric Registry Sync (v0)                                                    | fabric-registry-sync-v0                | 7.1.8+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-registry-sync-v0-7.1.8+3434d6d97a.jar                                       |
+| Fabric Renderer - Indigo                                                     | fabric-renderer-indigo                 | 9.1.15+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-renderer-indigo-9.1.15+3434d6d97a.jar                                       |
+| Fabric Renderer API (v1)                                                     | fabric-renderer-api-v1                 | 17.0.8+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-renderer-api-v1-17.0.8+3434d6d97a.jar                                       |
+| Fabric Rendering (v1)                                                        | fabric-rendering-v1                    | 27.0.9+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-rendering-v1-27.0.9+3434d6d97a.jar                                          |
+| Fabric Rendering Fluids (v1)                                                 | fabric-rendering-fluids-v1             | 6.0.5+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-rendering-fluids-v1-6.0.5+3434d6d97a.jar                                    |
+| Fabric Resource Conditions API (v1)                                          | fabric-resource-conditions-api-v1      | 6.1.4+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-resource-conditions-api-v1-6.1.4+3434d6d97a.jar                             |
+| Fabric Resource Loader (v0)                                                  | fabric-resource-loader-v0              | 3.3.25+4fc5413f7a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-resource-loader-v0-3.3.25+4fc5413f7a.jar                                    |
+| Fabric Resource Loader (v1)                                                  | fabric-resource-loader-v1              | 3.0.3+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-resource-loader-v1-3.0.3+3434d6d97a.jar                                     |
+| Fabric Screen API (v1)                                                       | fabric-screen-api-v1                   | 5.2.1+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-screen-api-v1-5.2.1+3434d6d97a.jar                                          |
+| Fabric Serialization API (v1)                                                | fabric-serialization-api-v1            | 2.0.5+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-serialization-api-v1-2.0.5+3434d6d97a.jar                                   |
+| Fabric Sound API (v1)                                                        | fabric-sound-api-v1                    | 2.0.6+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-sound-api-v1-2.0.6+3434d6d97a.jar                                           |
+| Fabric Tag API (v1)                                                          | fabric-tag-api-v1                      | 2.1.9+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-tag-api-v1-2.1.9+3434d6d97a.jar                                             |
+| Fabric Tag API (v1)                                                          | fabric-tag-api-v1                      | 2.1.9+3434d6d97a                 | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-tag-api-v1-2.1.9+3434d6d97a.jar                                             |
+| Fabric Transfer API (v1)                                                     | fabric-transfer-api-v1                 | 8.0.21+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-transfer-api-v1-8.0.21+3434d6d97a.jar                                       |
+| Fabric Transitive Access Wideners (v1)                                       | fabric-transitive-access-wideners-v1   | 8.1.13+3434d6d97a                | quilted_fabric_loader | ..    | 67d1b4bcc6c79280f906ba3e612baaa3e7b5292  | <mods>/fabric-api-0.158.1+26.3.jar                                                                                    | /META-INF/jars/fabric-transitive-access-wideners-v1-8.1.13+3434d6d97a.jar                         |
+| Minecraft                                                                    | minecraft                              | 26.3-alpha.9                     | quilt_loader          | ..    | 4815359f45cf77c9042296d98acb22a95df6a58a | <user>/.local/share/PrismLauncher/libraries/com/mojang/minecraft/26.3-snapshot-9/minecraft-26.3-snapshot-9-client.jar |                                                                                                   |
+| MixinExtras                                                                  | mixinextras                            | 0.5.4                            | quilted_fabric_loader | ..    | bdbfb507b9493fd5b8fbb8ffd05ca308f24dc67c | <user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar                   | /META-INF/jars/mixinextras-fabric-0.5.4.jar                                                       |
+| MixinExtras                                                                  | mixinextras                            | 0.5.4                            | quilted_fabric_loader | ..    | bdbfb507b9493fd5b8fbb8ffd05ca308f24dc67c | <user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar                   | /META-INF/jars/mixinextras-fabric-0.5.4.jar                                                       |
+| MixinSquared                                                                 | mixinsquared                           | 0.3.7-beta.1                     | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/mixinsquared-fabric-0.3.7-beta.1.jar                                               |
+| OpenJDK 64-Bit Server VM                                                     | java                                   | 25                               | quilt_loader          | ..    |                                          | <user>/.local/share/PrismLauncher/java/java-runtime-epsilon                                                           |                                                                                                   |
+| Quilt Loader                                                                 | quilt_loader                           | 0.30.0                           | quilt_loader          | ..    | bdbfb507b9493fd5b8fbb8ffd05ca308f24dc67c | <user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar                   |                                                                                                   |
+| Quilt Loader                                                                 | quilt_loader                           | 0.30.0                           | quilt_loader          | ..    | bdbfb507b9493fd5b8fbb8ffd05ca308f24dc67c | <user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar                   |                                                                                                   |
+| WI Zoom                                                                      | wi_zoom                                | 1.7-MC26.3-snapshot-10           | quilted_fabric_loader | ..    | 235afb83976a18218466d8b7d1defd317e921a81 | <mods>/WI-Zoom-1.7-MC26.3-snapshot-10.jar                                                                             |                                                                                                   |
+| asyncutil                                                                    | com_ibm_async_asyncutil                | 0.1.0                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/asyncutil-0.1.0.jar                                                                |
+| caffeine                                                                     | com_github_ben-manes_caffeine_caffeine | 3.2.1                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/caffeine-3.2.1.jar                                                                 |
+| core                                                                         | com_electronwill_night-config_core     | 3.6.5                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/core-3.6.5.jar                                                                     |
+| exp4j                                                                        | net_objecthunter_exp4j                 | 0.4.8                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/exp4j-0.4.8.jar                                                                    |
+| jctools-core                                                                 | org_jctools_jctools-core               | 4.0.5                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/jctools-core-4.0.5.jar                                                             |
+| reactive-streams                                                             | org_reactivestreams_reactive-streams   | 1.0.4                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/reactive-streams-1.0.4.jar                                                         |
+| rxjava                                                                       | io_reactivex_rxjava3_rxjava            | 3.1.12                           | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/rxjava-3.1.12.jar                                                                  |
+| toml                                                                         | com_electronwill_night-config_toml     | 3.6.5                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/toml-3.6.5.jar                                                                     |
+|------------------------------------------------------------------------------|----------------------------------------|----------------------------------|-----------------------|-------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+
+
+-- Mod Details --
+
+<mods>/WI-Zoom-1.7-MC26.3-snapshot-10.jar:
+##################################################
+#  Loaded by  'quilted_fabric_loader'            #
+#  Name     = 'WI Zoom'                          #
+#  ID       = 'wi_zoom'                          #
+#  Version  = '1.7-MC26.3-snapshot-10'           #
+#  LoadType = IF_POSSIBLE                        #
+#  Depends on 'fabricloader' [0.18.3, ∞)         #
+#  Depends on 'fabric-api' [0.155.1, ∞)          #
+#  Depends on 'minecraft' [26.3-alpha.4, 26.4-)  #
+#  Depends on 'java' [25, ∞)                     #
+#  Breaks  on 'wurst' (-∞, ∞)                    #
+##################################################
+
+<mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:
+########################################################################################################
+#  Loaded by  'quilted_fabric_loader'                                                                  #
+#  Name     = 'Concurrent Chunk Management Engine'                                                     #
+#  ID       = 'c2me'                                                                                   #
+#  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                                       #
+#  LoadType = IF_POSSIBLE                                                                              #
+#  Depends on 'fabricloader' [0.18.3, ∞)                                                               #
+#  Depends on 'java' [25, ∞)                                                                           #
+#  Depends on 'minecraft' (1.21.11, ∞)                                                                 #
+#  Depends on 'c2me-base' (-∞, ∞)                                                                      #
+#  Breaks  on 'tic_tacs' (-∞, ∞)                                                                       #
+#  Breaks  on 'optifabric' (-∞, ∞)                                                                     #
+#                                                                                                      #
+#  Contained Jars (28):                                                                                #
+#                                                                                                      #
+#  /META-INF/jars/asyncutil-0.1.0.jar:                                                                 #
+#  +----------------------------------------+                                                          #
+#  |  Loaded by  'quilted_fabric_loader'    |                                                          #
+#  |  Name     = 'asyncutil'                |                                                          #
+#  |  ID       = 'com_ibm_async_asyncutil'  |                                                          #
+#  |  Version  = '0.1.0'                    |                                                          #
+#  |  LoadType = IF_POSSIBLE                |                                                          #
+#  +----------------------------------------+                                                          #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-base-mc26.3-snapshot-9-0.4.2-alpha.0.64-all.jar:                         #
+#  +----------------------------------------------------------+                                        #
+#  |  Loaded by  'quilted_fabric_loader'                      |                                        #
+#  |  Name     = 'Concurrent Chunk Management Engine (Base)'  |                                        #
+#  |  ID       = 'c2me-base'                                  |                                        #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'           |                                        #
+#  |  LoadType = IF_POSSIBLE                                  |                                        #
+#  |  Depends on 'minecraft' (-∞, ∞)                          |                                        #
+#  |  Depends on 'fabricloader' (-∞, ∞)                       |                                        #
+#  +----------------------------------------------------------+                                        #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-client-uncapvd-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                   #
+#  +--------------------------------------------------------------------------------+                  #
+#  |  Loaded by  'quilted_fabric_loader'                                            |                  #
+#  |  Name     = 'Concurrent Chunk Management Engine (Client/Uncap View Distance)'  |                  #
+#  |  ID       = 'c2me-client-uncapvd'                                              |                  #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                 |                  #
+#  |  LoadType = IF_POSSIBLE                                                        |                  #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                |                  #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                             |                  #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                |                  #
+#  +--------------------------------------------------------------------------------+                  #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-fixes-chunkio-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:   #
+#  +-------------------------------------------------------------------------------------+             #
+#  |  Loaded by  'quilted_fabric_loader'                                                 |             #
+#  |  Name     = 'Concurrent Chunk Management Engine (Fixes/Chunk IO/Threading Issues)'  |             #
+#  |  ID       = 'c2me-fixes-chunkio-threading-issues'                                   |             #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                      |             #
+#  |  LoadType = IF_POSSIBLE                                                             |             #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                     |             #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                  |             #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                     |             #
+#  +-------------------------------------------------------------------------------------+             #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-fixes-general-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:   #
+#  +------------------------------------------------------------------------------------+              #
+#  |  Loaded by  'quilted_fabric_loader'                                                |              #
+#  |  Name     = 'Concurrent Chunk Management Engine (Fixes/General/Threading Issues)'  |              #
+#  |  ID       = 'c2me-fixes-general-threading-issues'                                  |              #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                     |              #
+#  |  LoadType = IF_POSSIBLE                                                            |              #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                    |              #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                 |              #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                    |              #
+#  +------------------------------------------------------------------------------------+              #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-fixes-worldgen-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:  #
+#  +-------------------------------------------------------------------------------------+             #
+#  |  Loaded by  'quilted_fabric_loader'                                                 |             #
+#  |  Name     = 'Concurrent Chunk Management Engine (Fixes/WorldGen/Threading Issues)'  |             #
+#  |  ID       = 'c2me-fixes-worldgen-threading-issues'                                  |             #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                      |             #
+#  |  LoadType = IF_POSSIBLE                                                             |             #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                     |             #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                  |             #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                     |             #
+#  |  Depends on 'c2me-fixes-general-threading-issues' (-∞, ∞)                           |             #
+#  +-------------------------------------------------------------------------------------+             #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-fixes-worldgen-vanilla-bugs-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:      #
+#  +---------------------------------------------------------------------------------+                 #
+#  |  Loaded by  'quilted_fabric_loader'                                             |                 #
+#  |  Name     = 'Concurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs)'  |                 #
+#  |  ID       = 'c2me-fixes-worldgen-vanilla-bugs'                                  |                 #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                  |                 #
+#  |  LoadType = IF_POSSIBLE                                                         |                 #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                 |                 #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                              |                 #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                 |                 #
+#  +---------------------------------------------------------------------------------+                 #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-notickvd-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                         #
+#  +---------------------------------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'                                       |                       #
+#  |  Name     = 'Concurrent Chunk Management Engine (No Tick View Distance)'  |                       #
+#  |  ID       = 'c2me-notickvd'                                               |                       #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                            |                       #
+#  |  LoadType = IF_POSSIBLE                                                   |                       #
+#  |  Depends on 'minecraft' (-∞, ∞)                                           |                       #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                        |                       #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                           |                       #
+#  |  Depends on 'c2me-rewrites-chunk-system' (-∞, ∞)                          |                       #
+#  +---------------------------------------------------------------------------+                       #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-allocs-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                      #
+#  +--------------------------------------------------------------------------------------+            #
+#  |  Loaded by  'quilted_fabric_loader'                                                  |            #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Memory Allocations)'  |            #
+#  |  ID       = 'c2me-opts-allocs'                                                       |            #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                       |            #
+#  |  LoadType = IF_POSSIBLE                                                              |            #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                      |            #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                   |            #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                      |            #
+#  +--------------------------------------------------------------------------------------+            #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-chunkio-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                     #
+#  +----------------------------------------------------------------------------+                      #
+#  |  Loaded by  'quilted_fabric_loader'                                        |                      #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Chunk IO)'  |                      #
+#  |  ID       = 'c2me-opts-chunkio'                                            |                      #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                             |                      #
+#  |  LoadType = IF_POSSIBLE                                                    |                      #
+#  |  Depends on 'minecraft' (-∞, ∞)                                            |                      #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                         |                      #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                            |                      #
+#  +----------------------------------------------------------------------------+                      #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-dfc-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                         #
+#  +---------------------------------------------------------------------------------------------+     #
+#  |  Loaded by  'quilted_fabric_loader'                                                         |     #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Density Function Compiler)'  |     #
+#  |  ID       = 'c2me-opts-dfc'                                                                 |     #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                              |     #
+#  |  LoadType = IF_POSSIBLE                                                                     |     #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                             |     #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                          |     #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                             |     #
+#  +---------------------------------------------------------------------------------------------+     #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-math-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                        #
+#  +------------------------------------------------------------------------+                          #
+#  |  Loaded by  'quilted_fabric_loader'                                    |                          #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Math)'  |                          #
+#  |  ID       = 'c2me-opts-math'                                           |                          #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                         |                          #
+#  |  LoadType = IF_POSSIBLE                                                |                          #
+#  |  Depends on 'minecraft' (-∞, ∞)                                        |                          #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                     |                          #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                        |                          #
+#  +------------------------------------------------------------------------+                          #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-scheduling-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                  #
+#  +------------------------------------------------------------------------------+                    #
+#  |  Loaded by  'quilted_fabric_loader'                                          |                    #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Scheduling)'  |                    #
+#  |  ID       = 'c2me-opts-scheduling'                                           |                    #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                               |                    #
+#  |  LoadType = IF_POSSIBLE                                                      |                    #
+#  |  Depends on 'minecraft' (-∞, ∞)                                              |                    #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                           |                    #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                              |                    #
+#  +------------------------------------------------------------------------------+                    #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-worldgen-general-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:            #
+#  +------------------------------------------------------------------------------------+              #
+#  |  Loaded by  'quilted_fabric_loader'                                                |              #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/General WorldGen)'  |              #
+#  |  ID       = 'c2me-opts-worldgen-general'                                           |              #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                     |              #
+#  |  LoadType = IF_POSSIBLE                                                            |              #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                    |              #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                 |              #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                    |              #
+#  +------------------------------------------------------------------------------------+              #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-worldgen-vanilla-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:            #
+#  +------------------------------------------------------------------------------------+              #
+#  |  Loaded by  'quilted_fabric_loader'                                                |              #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Vanilla WorldGen)'  |              #
+#  |  ID       = 'c2me-opts-worldgen-vanilla'                                           |              #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                     |              #
+#  |  LoadType = IF_POSSIBLE                                                            |              #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                    |              #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                 |              #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                    |              #
+#  |  Depends on 'c2me-opts-worldgen-general' (-∞, ∞)                                   |              #
+#  +------------------------------------------------------------------------------------+              #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-rewrites-chunk-serializer-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:        #
+#  +-------------------------------------------------------------------------------+                   #
+#  |  Loaded by  'quilted_fabric_loader'                                           |                   #
+#  |  Name     = 'Concurrent Chunk Management Engine (Rewrites/Chunk Serializer)'  |                   #
+#  |  ID       = 'c2me-rewrites-chunk-serializer'                                  |                   #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                |                   #
+#  |  LoadType = IF_POSSIBLE                                                       |                   #
+#  |  Depends on 'minecraft' (-∞, ∞)                                               |                   #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                            |                   #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                               |                   #
+#  +-------------------------------------------------------------------------------+                   #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-rewrites-chunk-system-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:            #
+#  +---------------------------------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'                                       |                       #
+#  |  Name     = 'Concurrent Chunk Management Engine (Rewrites/Chunk System)'  |                       #
+#  |  ID       = 'c2me-rewrites-chunk-system'                                  |                       #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                            |                       #
+#  |  LoadType = IF_POSSIBLE                                                   |                       #
+#  |  Depends on 'minecraft' (-∞, ∞)                                           |                       #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                        |                       #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                           |                       #
+#  +---------------------------------------------------------------------------+                       #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-rewrites-chunkio-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                 #
+#  +-----------------------------------------------------------------------+                           #
+#  |  Loaded by  'quilted_fabric_loader'                                   |                           #
+#  |  Name     = 'Concurrent Chunk Management Engine (Rewrites/Chunk IO)'  |                           #
+#  |  ID       = 'c2me-rewrites-chunkio'                                   |                           #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                        |                           #
+#  |  LoadType = IF_POSSIBLE                                               |                           #
+#  |  Depends on 'minecraft' (-∞, ∞)                                       |                           #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                    |                           #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                       |                           #
+#  +-----------------------------------------------------------------------+                           #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-server-utils-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                     #
+#  +------------------------------------------------------------------+                                #
+#  |  Loaded by  'quilted_fabric_loader'                              |                                #
+#  |  Name     = 'Concurrent Chunk Management Engine (Server Utils)'  |                                #
+#  |  ID       = 'c2me-server-utils'                                  |                                #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                   |                                #
+#  |  LoadType = IF_POSSIBLE                                          |                                #
+#  |  Depends on 'minecraft' (-∞, ∞)                                  |                                #
+#  |  Depends on 'fabricloader' (-∞, ∞)                               |                                #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                  |                                #
+#  +------------------------------------------------------------------+                                #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-threading-lighting-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:               #
+#  +------------------------------------------------------------------------+                          #
+#  |  Loaded by  'quilted_fabric_loader'                                    |                          #
+#  |  Name     = 'Concurrent Chunk Management Engine (Threading/Lighting)'  |                          #
+#  |  ID       = 'c2me-threading-lighting'                                  |                          #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                         |                          #
+#  |  LoadType = IF_POSSIBLE                                                |                          #
+#  |  Depends on 'minecraft' (-∞, ∞)                                        |                          #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                     |                          #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                        |                          #
+#  |  Depends on 'c2me-fixes-general-threading-issues' (-∞, ∞)              |                          #
+#  +------------------------------------------------------------------------+                          #
+#                                                                                                      #
+#  /META-INF/jars/caffeine-3.2.1.jar:                                                                  #
+#  +-------------------------------------------------------+                                           #
+#  |  Loaded by  'quilted_fabric_loader'                   |                                           #
+#  |  Name     = 'caffeine'                                |                                           #
+#  |  ID       = 'com_github_ben-manes_caffeine_caffeine'  |                                           #
+#  |  Version  = '3.2.1'                                   |                                           #
+#  |  LoadType = IF_POSSIBLE                               |                                           #
+#  +-------------------------------------------------------+                                           #
+#                                                                                                      #
+#  /META-INF/jars/core-3.6.5.jar:                                                                      #
+#  +---------------------------------------------------+                                               #
+#  |  Loaded by  'quilted_fabric_loader'               |                                               #
+#  |  Name     = 'core'                                |                                               #
+#  |  ID       = 'com_electronwill_night-config_core'  |                                               #
+#  |  Version  = '3.6.5'                               |                                               #
+#  |  LoadType = IF_POSSIBLE                           |                                               #
+#  +---------------------------------------------------+                                               #
+#                                                                                                      #
+#  /META-INF/jars/exp4j-0.4.8.jar:                                                                     #
+#  +---------------------------------------+                                                           #
+#  |  Loaded by  'quilted_fabric_loader'   |                                                           #
+#  |  Name     = 'exp4j'                   |                                                           #
+#  |  ID       = 'net_objecthunter_exp4j'  |                                                           #
+#  |  Version  = '0.4.8'                   |                                                           #
+#  |  LoadType = IF_POSSIBLE               |                                                           #
+#  +---------------------------------------+                                                           #
+#                                                                                                      #
+#  /META-INF/jars/jctools-core-4.0.5.jar:                                                              #
+#  +-----------------------------------------+                                                         #
+#  |  Loaded by  'quilted_fabric_loader'     |                                                         #
+#  |  Name     = 'jctools-core'              |                                                         #
+#  |  ID       = 'org_jctools_jctools-core'  |                                                         #
+#  |  Version  = '4.0.5'                     |                                                         #
+#  |  LoadType = IF_POSSIBLE                 |                                                         #
+#  +-----------------------------------------+                                                         #
+#                                                                                                      #
+#  /META-INF/jars/mixinsquared-fabric-0.3.7-beta.1.jar:                                                #
+#  +------------------------------------------+                                                        #
+#  |  Loaded by  'quilted_fabric_loader'      |                                                        #
+#  |  Name     = 'MixinSquared'               |                                                        #
+#  |  ID       = 'mixinsquared'               |                                                        #
+#  |  Version  = '0.3.7-beta.1'               |                                                        #
+#  |  LoadType = IF_POSSIBLE                  |                                                        #
+#  |  Depends on 'fabricloader' [0.14.11, ∞)  |                                                        #
+#  +------------------------------------------+                                                        #
+#                                                                                                      #
+#  /META-INF/jars/reactive-streams-1.0.4.jar:                                                          #
+#  +-----------------------------------------------------+                                             #
+#  |  Loaded by  'quilted_fabric_loader'                 |                                             #
+#  |  Name     = 'reactive-streams'                      |                                             #
+#  |  ID       = 'org_reactivestreams_reactive-streams'  |                                             #
+#  |  Version  = '1.0.4'                                 |                                             #
+#  |  LoadType = IF_POSSIBLE                             |                                             #
+#  +-----------------------------------------------------+                                             #
+#                                                                                                      #
+#  /META-INF/jars/rxjava-3.1.12.jar:                                                                   #
+#  +--------------------------------------------+                                                      #
+#  |  Loaded by  'quilted_fabric_loader'        |                                                      #
+#  |  Name     = 'rxjava'                       |                                                      #
+#  |  ID       = 'io_reactivex_rxjava3_rxjava'  |                                                      #
+#  |  Version  = '3.1.12'                       |                                                      #
+#  |  LoadType = IF_POSSIBLE                    |                                                      #
+#  +--------------------------------------------+                                                      #
+#                                                                                                      #
+#  /META-INF/jars/toml-3.6.5.jar:                                                                      #
+#  +---------------------------------------------------+                                               #
+#  |  Loaded by  'quilted_fabric_loader'               |                                               #
+#  |  Name     = 'toml'                                |                                               #
+#  |  ID       = 'com_electronwill_night-config_toml'  |                                               #
+#  |  Version  = '3.6.5'                               |                                               #
+#  |  LoadType = IF_POSSIBLE                           |                                               #
+#  +---------------------------------------------------+                                               #
+#                                                                                                      #
+########################################################################################################
+
+<mods>/cape-provider-5.6.0-SNAPSHOT.jar:
+########################################
+#  Loaded by  'quilted_fabric_loader'  #
+#  Name     = 'Cape Provider'          #
+#  ID       = 'cape-provider'          #
+#  Version  = '5.6.0-SNAPSHOT'         #
+#  LoadType = IF_POSSIBLE              #
+#  Breaks  on 'capes' (-∞, ∞)          #
+########################################
+
+<mods>/fabric-api-0.158.1+26.3.jar:
+################################################################################
+#  Loaded by  'quilted_fabric_loader'                                          #
+#  Name     = 'Fabric API'                                                     #
+#  ID       = 'fabric-api'                                                     #
+#  Version  = '0.158.1+26.3'                                                   #
+#  LoadType = IF_POSSIBLE                                                      #
+#  Depends on 'fabricloader' [0.19.3, ∞)                                       #
+#  Depends on 'java' [25, ∞)                                                   #
+#  Depends on 'minecraft' [26.3-, 26.4-)                                       #
+#                                                                              #
+#  Contained Jars (43):                                                        #
+#                                                                              #
+#  /META-INF/jars/fabric-api-base-2.0.5+3434d6d97a.jar:                        #
+#  +-----------------------------------------+                                 #
+#  |  Loaded by  'quilted_fabric_loader'     |                                 #
+#  |  Name     = 'Fabric API Base'           |                                 #
+#  |  ID       = 'fabric-api-base'           |                                 #
+#  |  Version  = '2.0.5+3434d6d97a'          |                                 #
+#  |  LoadType = IF_POSSIBLE                 |                                 #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)  |                                 #
+#  +-----------------------------------------+                                 #
+#                                                                              #
+#  /META-INF/jars/fabric-api-lookup-api-v1-2.0.21+3434d6d97a.jar:              #
+#  +---------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'               |                       #
+#  |  Name     = 'Fabric API Lookup API (v1)'          |                       #
+#  |  ID       = 'fabric-api-lookup-api-v1'            |                       #
+#  |  Version  = '2.0.21+3434d6d97a'                   |                       #
+#  |  LoadType = IF_POSSIBLE                           |                       #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)            |                       #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)             |                       #
+#  |  Depends on 'fabric-lifecycle-events-v1' (-∞, ∞)  |                       #
+#  +---------------------------------------------------+                       #
+#                                                                              #
+#  /META-INF/jars/fabric-biome-api-v1-20.0.6+3434d6d97a.jar:                   #
+#  +-----------------------------------------+                                 #
+#  |  Loaded by  'quilted_fabric_loader'     |                                 #
+#  |  Name     = 'Fabric Biome API (v1)'     |                                 #
+#  |  ID       = 'fabric-biome-api-v1'       |                                 #
+#  |  Version  = '20.0.6+3434d6d97a'         |                                 #
+#  |  LoadType = IF_POSSIBLE                 |                                 #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)  |                                 #
+#  |  Depends on 'minecraft' [1.16.2, ∞)     |                                 #
+#  +-----------------------------------------+                                 #
+#                                                                              #
+#  /META-INF/jars/fabric-block-api-v1-3.0.4+3434d6d97a.jar:                    #
+#  +-----------------------------------------+                                 #
+#  |  Loaded by  'quilted_fabric_loader'     |                                 #
+#  |  Name     = 'Fabric Block API (v1)'     |                                 #
+#  |  ID       = 'fabric-block-api-v1'       |                                 #
+#  |  Version  = '3.0.4+3434d6d97a'          |                                 #
+#  |  LoadType = IF_POSSIBLE                 |                                 #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)  |                                 #
+#  +-----------------------------------------+                                 #
+#                                                                              #
+#  /META-INF/jars/fabric-block-getter-api-v2-2.0.8+3434d6d97a.jar:             #
+#  +--------------------------------------------+                              #
+#  |  Loaded by  'quilted_fabric_loader'        |                              #
+#  |  Name     = 'Fabric BlockGetter API (v2)'  |                              #
+#  |  ID       = 'fabric-block-getter-api-v2'   |                              #
+#  |  Version  = '2.0.8+3434d6d97a'             |                              #
+#  |  LoadType = IF_POSSIBLE                    |                              #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)     |                              #
+#  +--------------------------------------------+                              #
+#                                                                              #
+#  /META-INF/jars/fabric-command-api-v2-3.1.1+3434d6d97a.jar:                  #
+#  +--------------------------------------------------+                        #
+#  |  Loaded by  'quilted_fabric_loader'              |                        #
+#  |  Name     = 'Fabric Command API (v2)'            |                        #
+#  |  ID       = 'fabric-command-api-v2'              |                        #
+#  |  Version  = '3.1.1+3434d6d97a'                   |                        #
+#  |  LoadType = IF_POSSIBLE                          |                        #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)           |                        #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)            |                        #
+#  |  Depends on 'minecraft' (1.19-alpha.22.11.a, ∞)  |                        #
+#  +--------------------------------------------------+                        #
+#                                                                              #
+#  /META-INF/jars/fabric-content-registries-v0-14.2.3+3434d6d97a.jar:          #
+#  +---------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'               |                       #
+#  |  Name     = 'Fabric Content Registries (v0)'      |                       #
+#  |  ID       = 'fabric-content-registries-v0'        |                       #
+#  |  Version  = '14.2.3+3434d6d97a'                   |                       #
+#  |  LoadType = IF_POSSIBLE                           |                       #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)            |                       #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)             |                       #
+#  |  Depends on 'fabric-lifecycle-events-v1' (-∞, ∞)  |                       #
+#  |  Depends on 'fabric-resource-loader-v1' (-∞, ∞)   |                       #
+#  +---------------------------------------------------+                       #
+#                                                                              #
+#  /META-INF/jars/fabric-convention-tags-v2-4.9.3+3434d6d97a.jar:              #
+#  +---------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'               |                       #
+#  |  Name     = 'Fabric Convention Tags (v2)'         |                       #
+#  |  ID       = 'fabric-convention-tags-v2'           |                       #
+#  |  Version  = '4.9.3+3434d6d97a'                    |                       #
+#  |  LoadType = IF_POSSIBLE                           |                       #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)            |                       #
+#  |  Depends on 'minecraft' [1.20.5-beta.1, ∞)        |                       #
+#  |  Depends on 'fabric-lifecycle-events-v1' (-∞, ∞)  |                       #
+#  +---------------------------------------------------+                       #
+#                                                                              #
+#  /META-INF/jars/fabric-crash-report-info-v1-1.0.6+3434d6d97a.jar:            #
+#  +----------------------------------------------+                            #
+#  |  Loaded by  'quilted_fabric_loader'          |                            #
+#  |  Name     = 'Fabric Crash Report Info (v1)'  |                            #
+#  |  ID       = 'fabric-crash-report-info-v1'    |                            #
+#  |  Version  = '1.0.6+3434d6d97a'               |                            #
+#  |  LoadType = IF_POSSIBLE                      |                            #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)       |                            #
+#  +----------------------------------------------+                            #
+#                                                                              #
+#  /META-INF/jars/fabric-creative-tab-api-v1-5.0.20+3434d6d97a.jar:            #
+#  +--------------------------------------------------+                        #
+#  |  Loaded by  'quilted_fabric_loader'              |                        #
+#  |  Name     = 'Fabric Creative Tab API (v1)'       |                        #
+#  |  ID       = 'fabric-creative-tab-api-v1'         |                        #
+#  |  Version  = '5.0.20+3434d6d97a'                  |                        #
+#  |  LoadType = IF_POSSIBLE                          |                        #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)           |                        #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)            |                        #
+#  |  Depends on 'fabric-resource-loader-v1' (-∞, ∞)  |                        #
+#  +--------------------------------------------------+                        #
+#                                                                              #
+#  /META-INF/jars/fabric-data-attachment-api-v1-2.2.28+3434d6d97a.jar:         #
+#  +-----------------------------------------------------+                     #
+#  |  Loaded by  'quilted_fabric_loader'                 |                     #
+#  |  Name     = 'Fabric Data Attachment API (v1)'       |                     #
+#  |  ID       = 'fabric-data-attachment-api-v1'         |                     #
+#  |  Version  = '2.2.28+3434d6d97a'                     |                     #
+#  |  LoadType = IF_POSSIBLE                             |                     #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)              |                     #
+#  |  Depends on 'fabric-entity-events-v1' (-∞, ∞)       |                     #
+#  |  Depends on 'fabric-object-builder-api-v1' (-∞, ∞)  |                     #
+#  |  Depends on 'fabric-networking-api-v1' (-∞, ∞)      |                     #
+#  +-----------------------------------------------------+                     #
+#                                                                              #
+#  /META-INF/jars/fabric-data-generation-api-v1-27.1.5+3434d6d97a.jar:         #
+#  +----------------------------------------------------------+                #
+#  |  Loaded by  'quilted_fabric_loader'                      |                #
+#  |  Name     = 'Fabric Data Generation API (v1)'            |                #
+#  |  ID       = 'fabric-data-generation-api-v1'              |                #
+#  |  Version  = '27.1.5+3434d6d97a'                          |                #
+#  |  LoadType = IF_POSSIBLE                                  |                #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)                   |                #
+#  |  Depends on 'fabric-convention-tags-v2' (-∞, ∞)          |                #
+#  |  Depends on 'fabric-recipe-api-v1' (-∞, ∞)               |                #
+#  |  Depends on 'fabric-registry-sync-v0' (-∞, ∞)            |                #
+#  |  Depends on 'fabric-resource-conditions-api-v1' (-∞, ∞)  |                #
+#  |  Depends on 'fabric-tag-api-v1' (-∞, ∞)                  |                #
+#  +----------------------------------------------------------+                #
+#                                                                              #
+#  /META-INF/jars/fabric-debug-api-v1-1.0.3+3434d6d97a.jar:                    #
+#  +------------------------------------------------+                          #
+#  |  Loaded by  'quilted_fabric_loader'            |                          #
+#  |  Name     = 'Fabric Debug API (v1)'            |                          #
+#  |  ID       = 'fabric-debug-api-v1'              |                          #
+#  |  Version  = '1.0.3+3434d6d97a'                 |                          #
+#  |  LoadType = IF_POSSIBLE                        |                          #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)         |                          #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)          |                          #
+#  |  Depends on 'fabric-registry-sync-v0' (-∞, ∞)  |                          #
+#  +------------------------------------------------+                          #
+#                                                                              #
+#  /META-INF/jars/fabric-dimensions-v1-5.1.16+3434d6d97a.jar:                  #
+#  +-------------------------------------------+                               #
+#  |  Loaded by  'quilted_fabric_loader'       |                               #
+#  |  Name     = 'Fabric Dimensions API (v1)'  |                               #
+#  |  ID       = 'fabric-dimensions-v1'        |                               #
+#  |  Version  = '5.1.16+3434d6d97a'           |                               #
+#  |  LoadType = IF_POSSIBLE                   |                               #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)    |                               #
+#  |  Depends on 'minecraft' [1.16-rc.3, ∞)    |                               #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)     |                               #
+#  +-------------------------------------------+                               #
+#                                                                              #
+#  /META-INF/jars/fabric-entity-events-v1-6.0.3+3434d6d97a.jar:                #
+#  +------------------------------------------+                                #
+#  |  Loaded by  'quilted_fabric_loader'      |                                #
+#  |  Name     = 'Fabric Entity Events (v1)'  |                                #
+#  |  ID       = 'fabric-entity-events-v1'    |                                #
+#  |  Version  = '6.0.3+3434d6d97a'           |                                #
+#  |  LoadType = IF_POSSIBLE                  |                                #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)   |                                #
+#  +------------------------------------------+                                #
+#                                                                              #
+#  /META-INF/jars/fabric-events-interaction-v0-5.3.5+3434d6d97a.jar:           #
+#  +--------------------------------------------------+                        #
+#  |  Loaded by  'quilted_fabric_loader'              |                        #
+#  |  Name     = 'Fabric Events Interaction (v0)'     |                        #
+#  |  ID       = 'fabric-events-interaction-v0'       |                        #
+#  |  Version  = '5.3.5+3434d6d97a'                   |                        #
+#  |  LoadType = IF_POSSIBLE                          |                        #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)           |                        #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)            |                        #
+#  |  Depends on 'fabric-networking-api-v1' (-∞, ∞)   |                        #
+#  |  Depends on 'minecraft' [1.15-alpha.19.37.a, ∞)  |                        #
+#  +--------------------------------------------------+                        #
+#                                                                              #
+#  /META-INF/jars/fabric-game-rule-api-v1-4.0.9+3434d6d97a.jar:                #
+#  +------------------------------------------+                                #
+#  |  Loaded by  'quilted_fabric_loader'      |                                #
+#  |  Name     = 'Fabric Game Rule API (v1)'  |                                #
+#  |  ID       = 'fabric-game-rule-api-v1'    |                                #
+#  |  Version  = '4.0.9+3434d6d97a'           |                                #
+#  |  LoadType = IF_POSSIBLE                  |                                #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)   |                                #
+#  +------------------------------------------+                                #
+#                                                                              #
+#  /META-INF/jars/fabric-item-api-v1-14.5.1+3434d6d97a.jar:                    #
+#  +--------------------------------------------------+                        #
+#  |  Loaded by  'quilted_fabric_loader'              |                        #
+#  |  Name     = 'Fabric Item API (v1)'               |                        #
+#  |  ID       = 'fabric-item-api-v1'                 |                        #
+#  |  Version  = '14.5.1+3434d6d97a'                  |                        #
+#  |  LoadType = IF_POSSIBLE                          |                        #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)           |                        #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)            |                        #
+#  |  Depends on 'fabric-resource-loader-v1' (-∞, ∞)  |                        #
+#  +--------------------------------------------------+                        #
+#                                                                              #
+#  /META-INF/jars/fabric-key-mapping-api-v1-2.0.7+3434d6d97a.jar:              #
+#  +--------------------------------------------+                              #
+#  |  Loaded by  'quilted_fabric_loader'        |                              #
+#  |  Name     = 'Fabric Key Mapping API (v1)'  |                              #
+#  |  ID       = 'fabric-key-mapping-api-v1'    |                              #
+#  |  Version  = '2.0.7+3434d6d97a'             |                              #
+#  |  LoadType = IF_POSSIBLE                    |                              #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)     |                              #
+#  +--------------------------------------------+                              #
+#                                                                              #
+#  /META-INF/jars/fabric-lifecycle-events-v1-4.1.6+3434d6d97a.jar:             #
+#  +---------------------------------------------+                             #
+#  |  Loaded by  'quilted_fabric_loader'         |                             #
+#  |  Name     = 'Fabric Lifecycle Events (v1)'  |                             #
+#  |  ID       = 'fabric-lifecycle-events-v1'    |                             #
+#  |  Version  = '4.1.6+3434d6d97a'              |                             #
+#  |  LoadType = IF_POSSIBLE                     |                             #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)      |                             #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)       |                             #
+#  +---------------------------------------------+                             #
+#                                                                              #
+#  /META-INF/jars/fabric-loot-api-v3-4.0.2+3434d6d97a.jar:                     #
+#  +--------------------------------------------------+                        #
+#  |  Loaded by  'quilted_fabric_loader'              |                        #
+#  |  Name     = 'Fabric Loot API (v3)'               |                        #
+#  |  ID       = 'fabric-loot-api-v3'                 |                        #
+#  |  Version  = '4.0.2+3434d6d97a'                   |                        #
+#  |  LoadType = IF_POSSIBLE                          |                        #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)           |                        #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)            |                        #
+#  |  Depends on 'fabric-resource-loader-v1' (-∞, ∞)  |                        #
+#  +--------------------------------------------------+                        #
+#                                                                              #
+#  /META-INF/jars/fabric-menu-api-v1-2.0.24+3434d6d97a.jar:                    #
+#  +-------------------------------------------------+                         #
+#  |  Loaded by  'quilted_fabric_loader'             |                         #
+#  |  Name     = 'Fabric Menu API (v1)'              |                         #
+#  |  ID       = 'fabric-menu-api-v1'                |                         #
+#  |  Version  = '2.0.24+3434d6d97a'                 |                         #
+#  |  LoadType = IF_POSSIBLE                         |                         #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)          |                         #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)           |                         #
+#  |  Depends on 'fabric-networking-api-v1' (-∞, ∞)  |                         #
+#  +-------------------------------------------------+                         #
+#                                                                              #
+#  /META-INF/jars/fabric-message-api-v1-7.0.9+3434d6d97a.jar:                  #
+#  +-----------------------------------------+                                 #
+#  |  Loaded by  'quilted_fabric_loader'     |                                 #
+#  |  Name     = 'Fabric Message API (v1)'   |                                 #
+#  |  ID       = 'fabric-message-api-v1'     |                                 #
+#  |  Version  = '7.0.9+3434d6d97a'          |                                 #
+#  |  LoadType = IF_POSSIBLE                 |                                 #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)  |                                 #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)   |                                 #
+#  +-----------------------------------------+                                 #
+#                                                                              #
+#  /META-INF/jars/fabric-model-loading-api-v1-8.0.28+3434d6d97a.jar:           #
+#  +-----------------------------------------------+                           #
+#  |  Loaded by  'quilted_fabric_loader'           |                           #
+#  |  Name     = 'Fabric Model Loading API (v1)'   |                           #
+#  |  ID       = 'fabric-model-loading-api-v1'     |                           #
+#  |  Version  = '8.0.28+3434d6d97a'               |                           #
+#  |  LoadType = IF_POSSIBLE                       |                           #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)        |                           #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)         |                           #
+#  |  Depends on 'fabric-renderer-api-v1' (-∞, ∞)  |                           #
+#  +-----------------------------------------------+                           #
+#                                                                              #
+#  /META-INF/jars/fabric-networking-api-v1-6.3.7+3434d6d97a.jar:               #
+#  +-------------------------------------------+                               #
+#  |  Loaded by  'quilted_fabric_loader'       |                               #
+#  |  Name     = 'Fabric Networking API (v1)'  |                               #
+#  |  ID       = 'fabric-networking-api-v1'    |                               #
+#  |  Version  = '6.3.7+3434d6d97a'            |                               #
+#  |  LoadType = IF_POSSIBLE                   |                               #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)    |                               #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)     |                               #
+#  +-------------------------------------------+                               #
+#                                                                              #
+#  /META-INF/jars/fabric-object-builder-api-v1-24.1.7+3434d6d97a.jar:          #
+#  +------------------------------------------------+                          #
+#  |  Loaded by  'quilted_fabric_loader'            |                          #
+#  |  Name     = 'Fabric Object Builder API (v1)'   |                          #
+#  |  ID       = 'fabric-object-builder-api-v1'     |                          #
+#  |  Version  = '24.1.7+3434d6d97a'                |                          #
+#  |  LoadType = IF_POSSIBLE                        |                          #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)         |                          #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)          |                          #
+#  |  Depends on 'fabric-registry-sync-v0' (-∞, ∞)  |                          #
+#  +------------------------------------------------+                          #
+#                                                                              #
+#  /META-INF/jars/fabric-particles-v1-5.0.23+3434d6d97a.jar:                   #
+#  +-------------------------------------------------+                         #
+#  |  Loaded by  'quilted_fabric_loader'             |                         #
+#  |  Name     = 'Fabric Particles (v1)'             |                         #
+#  |  ID       = 'fabric-particles-v1'               |                         #
+#  |  Version  = '5.0.23+3434d6d97a'                 |                         #
+#  |  LoadType = IF_POSSIBLE                         |                         #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)          |                         #
+#  |  Depends on 'fabric-networking-api-v1' (-∞, ∞)  |                         #
+#  +-------------------------------------------------+                         #
+#                                                                              #
+#  /META-INF/jars/fabric-permission-api-v1-1.0.6+3434d6d97a.jar:               #
+#  +-------------------------------------------+                               #
+#  |  Loaded by  'quilted_fabric_loader'       |                               #
+#  |  Name     = 'Fabric Permission API (v1)'  |                               #
+#  |  ID       = 'fabric-permission-api-v1'    |                               #
+#  |  Version  = '1.0.6+3434d6d97a'            |                               #
+#  |  LoadType = IF_POSSIBLE                   |                               #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)    |                               #
+#  +-------------------------------------------+                               #
+#                                                                              #
+#  /META-INF/jars/fabric-recipe-api-v1-10.0.5+3434d6d97a.jar:                  #
+#  +---------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'               |                       #
+#  |  Name     = 'Fabric Recipe API (v1)'              |                       #
+#  |  ID       = 'fabric-recipe-api-v1'                |                       #
+#  |  Version  = '10.0.5+3434d6d97a'                   |                       #
+#  |  LoadType = IF_POSSIBLE                           |                       #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)            |                       #
+#  |  Depends on 'fabric-networking-api-v1' (-∞, ∞)    |                       #
+#  |  Depends on 'fabric-lifecycle-events-v1' (-∞, ∞)  |                       #
+#  +---------------------------------------------------+                       #
+#                                                                              #
+#  /META-INF/jars/fabric-registry-sync-v0-7.1.8+3434d6d97a.jar:                #
+#  +-------------------------------------------------+                         #
+#  |  Loaded by  'quilted_fabric_loader'             |                         #
+#  |  Name     = 'Fabric Registry Sync (v0)'         |                         #
+#  |  ID       = 'fabric-registry-sync-v0'           |                         #
+#  |  Version  = '7.1.8+3434d6d97a'                  |                         #
+#  |  LoadType = IF_POSSIBLE                         |                         #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)          |                         #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)           |                         #
+#  |  Depends on 'fabric-networking-api-v1' (-∞, ∞)  |                         #
+#  +-------------------------------------------------+                         #
+#                                                                              #
+#  /META-INF/jars/fabric-renderer-api-v1-17.0.8+3434d6d97a.jar:                #
+#  +-------------------------------------------------------------+             #
+#  |  Loaded by  'quilted_fabric_loader'                         |             #
+#  |  Name     = 'Fabric Renderer API (v1)'                      |             #
+#  |  ID       = 'fabric-renderer-api-v1'                        |             #
+#  |  Version  = '17.0.8+3434d6d97a'                             |             #
+#  |  LoadType = IF_POSSIBLE                                     |             #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)                      |             #
+#  |  Depends on 'minecraft' [26.1-rc.2, ∞)                      |             #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)                       |             #
+#  |  Depends on 'fabric-rendering-v1' (-∞, ∞)                   |             #
+#  |  Depends on 'fabric-transitive-access-wideners-v1' (-∞, ∞)  |             #
+#  +-------------------------------------------------------------+             #
+#                                                                              #
+#  /META-INF/jars/fabric-renderer-indigo-9.1.15+3434d6d97a.jar:                #
+#  +-----------------------------------------------+                           #
+#  |  Loaded by  'quilted_fabric_loader'           |                           #
+#  |  Name     = 'Fabric Renderer - Indigo'        |                           #
+#  |  ID       = 'fabric-renderer-indigo'          |                           #
+#  |  Version  = '9.1.15+3434d6d97a'               |                           #
+#  |  LoadType = IF_POSSIBLE                       |                           #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)        |                           #
+#  |  Depends on 'minecraft' [26.1-rc.2, ∞)        |                           #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)         |                           #
+#  |  Depends on 'fabric-renderer-api-v1' (-∞, ∞)  |                           #
+#  +-----------------------------------------------+                           #
+#                                                                              #
+#  /META-INF/jars/fabric-rendering-fluids-v1-6.0.5+3434d6d97a.jar:             #
+#  +---------------------------------------------+                             #
+#  |  Loaded by  'quilted_fabric_loader'         |                             #
+#  |  Name     = 'Fabric Rendering Fluids (v1)'  |                             #
+#  |  ID       = 'fabric-rendering-fluids-v1'    |                             #
+#  |  Version  = '6.0.5+3434d6d97a'              |                             #
+#  |  LoadType = IF_POSSIBLE                     |                             #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)      |                             #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)       |                             #
+#  +---------------------------------------------+                             #
+#                                                                              #
+#  /META-INF/jars/fabric-rendering-v1-27.0.9+3434d6d97a.jar:                   #
+#  +---------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'               |                       #
+#  |  Name     = 'Fabric Rendering (v1)'               |                       #
+#  |  ID       = 'fabric-rendering-v1'                 |                       #
+#  |  Version  = '27.0.9+3434d6d97a'                   |                       #
+#  |  LoadType = IF_POSSIBLE                           |                       #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)            |                       #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)             |                       #
+#  |  Depends on 'fabric-lifecycle-events-v1' (-∞, ∞)  |                       #
+#  +---------------------------------------------------+                       #
+#                                                                              #
+#  /META-INF/jars/fabric-resource-conditions-api-v1-6.1.4+3434d6d97a.jar:      #
+#  +----------------------------------------------------+                      #
+#  |  Loaded by  'quilted_fabric_loader'                |                      #
+#  |  Name     = 'Fabric Resource Conditions API (v1)'  |                      #
+#  |  ID       = 'fabric-resource-conditions-api-v1'    |                      #
+#  |  Version  = '6.1.4+3434d6d97a'                     |                      #
+#  |  LoadType = IF_POSSIBLE                            |                      #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)             |                      #
+#  +----------------------------------------------------+                      #
+#                                                                              #
+#  /META-INF/jars/fabric-resource-loader-v0-3.3.25+4fc5413f7a.jar:             #
+#  +--------------------------------------------------+                        #
+#  |  Loaded by  'quilted_fabric_loader'              |                        #
+#  |  Name     = 'Fabric Resource Loader (v0)'        |                        #
+#  |  ID       = 'fabric-resource-loader-v0'          |                        #
+#  |  Version  = '3.3.25+4fc5413f7a'                  |                        #
+#  |  LoadType = IF_POSSIBLE                          |                        #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)           |                        #
+#  |  Depends on 'fabric-resource-loader-v1' (-∞, ∞)  |                        #
+#  +--------------------------------------------------+                        #
+#                                                                              #
+#  /META-INF/jars/fabric-resource-loader-v1-3.0.3+3434d6d97a.jar:              #
+#  +--------------------------------------------+                              #
+#  |  Loaded by  'quilted_fabric_loader'        |                              #
+#  |  Name     = 'Fabric Resource Loader (v1)'  |                              #
+#  |  ID       = 'fabric-resource-loader-v1'    |                              #
+#  |  Version  = '3.0.3+3434d6d97a'             |                              #
+#  |  LoadType = IF_POSSIBLE                    |                              #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)     |                              #
+#  +--------------------------------------------+                              #
+#                                                                              #
+#  /META-INF/jars/fabric-screen-api-v1-5.2.1+3434d6d97a.jar:                   #
+#  +-----------------------------------------+                                 #
+#  |  Loaded by  'quilted_fabric_loader'     |                                 #
+#  |  Name     = 'Fabric Screen API (v1)'    |                                 #
+#  |  ID       = 'fabric-screen-api-v1'      |                                 #
+#  |  Version  = '5.2.1+3434d6d97a'          |                                 #
+#  |  LoadType = IF_POSSIBLE                 |                                 #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)  |                                 #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)   |                                 #
+#  +-----------------------------------------+                                 #
+#                                                                              #
+#  /META-INF/jars/fabric-serialization-api-v1-2.0.5+3434d6d97a.jar:            #
+#  +----------------------------------------------+                            #
+#  |  Loaded by  'quilted_fabric_loader'          |                            #
+#  |  Name     = 'Fabric Serialization API (v1)'  |                            #
+#  |  ID       = 'fabric-serialization-api-v1'    |                            #
+#  |  Version  = '2.0.5+3434d6d97a'               |                            #
+#  |  LoadType = IF_POSSIBLE                      |                            #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)       |                            #
+#  +----------------------------------------------+                            #
+#                                                                              #
+#  /META-INF/jars/fabric-sound-api-v1-2.0.6+3434d6d97a.jar:                    #
+#  +-----------------------------------------+                                 #
+#  |  Loaded by  'quilted_fabric_loader'     |                                 #
+#  |  Name     = 'Fabric Sound API (v1)'     |                                 #
+#  |  ID       = 'fabric-sound-api-v1'       |                                 #
+#  |  Version  = '2.0.6+3434d6d97a'          |                                 #
+#  |  LoadType = IF_POSSIBLE                 |                                 #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)  |                                 #
+#  |  Depends on 'minecraft' [1.19.2, ∞)     |                                 #
+#  +-----------------------------------------+                                 #
+#                                                                              #
+#  /META-INF/jars/fabric-tag-api-v1-2.1.9+3434d6d97a.jar:                      #
+#  +-----------------------------------------------------------+               #
+#  |  Loaded by  'quilted_fabric_loader'                       |               #
+#  |  Name     = 'Fabric Tag API (v1)'                         |               #
+#  |  ID       = 'fabric-tag-api-v1'                           |               #
+#  |  Version  = '2.1.9+3434d6d97a'                            |               #
+#  |  LoadType = IF_POSSIBLE                                   |               #
+#  |  Provides   'fabric-client-tags-api-v1' 2.1.9+3434d6d97a  |               #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)                    |               #
+#  |  Depends on 'fabric-api-base' (-∞, ∞)                     |               #
+#  |  Depends on 'fabric-resource-loader-v1' (-∞, ∞)           |               #
+#  +-----------------------------------------------------------+               #
+#                                                                              #
+#  /META-INF/jars/fabric-transfer-api-v1-8.0.21+3434d6d97a.jar:                #
+#  +---------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'               |                       #
+#  |  Name     = 'Fabric Transfer API (v1)'            |                       #
+#  |  ID       = 'fabric-transfer-api-v1'              |                       #
+#  |  Version  = '8.0.21+3434d6d97a'                   |                       #
+#  |  LoadType = IF_POSSIBLE                           |                       #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)            |                       #
+#  |  Depends on 'fabric-api-lookup-api-v1' (-∞, ∞)    |                       #
+#  |  Depends on 'fabric-rendering-fluids-v1' (-∞, ∞)  |                       #
+#  +---------------------------------------------------+                       #
+#                                                                              #
+#  /META-INF/jars/fabric-transitive-access-wideners-v1-8.1.13+3434d6d97a.jar:  #
+#  +-------------------------------------------------------+                   #
+#  |  Loaded by  'quilted_fabric_loader'                   |                   #
+#  |  Name     = 'Fabric Transitive Access Wideners (v1)'  |                   #
+#  |  ID       = 'fabric-transitive-access-wideners-v1'    |                   #
+#  |  Version  = '8.1.13+3434d6d97a'                       |                   #
+#  |  LoadType = IF_POSSIBLE                               |                   #
+#  |  Depends on 'fabricloader' [0.19.3, ∞)                |                   #
+#  +-------------------------------------------------------+                   #
+#                                                                              #
+################################################################################
+
+<mods>/fabric-ph-1.0.0.jar:
+########################################
+#  Loaded by  'quilted_fabric_loader'  #
+#  Name     = 'Fabric Placeholder'     #
+#  ID       = 'fabric-ph'              #
+#  Version  = '1.0.0'                  #
+#  LoadType = IF_POSSIBLE              #
+#  Provides   'fabric' 1.0.0           #
+#  Depends on 'fabric-api' (-∞, ∞)     #
+########################################
+
+<user>/.local/share/PrismLauncher/java/java-runtime-epsilon:
+###########################################
+#  Loaded by  'quilt_loader'              #
+#  Name     = 'OpenJDK 64-Bit Server VM'  #
+#  ID       = 'java'                      #
+#  Version  = '25'                        #
+#  LoadType = IF_REQUIRED                 #
+###########################################
+
+<user>/.local/share/PrismLauncher/libraries/com/mojang/minecraft/26.3-snapshot-9/minecraft-26.3-snapshot-9-client.jar:
+###############################
+#  Loaded by  'quilt_loader'  #
+#  Name     = 'Minecraft'     #
+#  ID       = 'minecraft'     #
+#  Version  = '26.3-alpha.9'  #
+#  LoadType = IF_REQUIRED     #
+#  Depends on 'java' [25, ∞)  #
+###############################
+
+<user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar:
+###############################################################
+#  Loaded by  'quilt_loader'                                  #
+#  Name     = 'Quilt Loader'                                  #
+#  ID       = 'quilt_loader'                                  #
+#  Version  = '0.30.0'                                        #
+#  LoadType = IF_REQUIRED                                     #
+#  Provides   'fabricloader' 0.19.2                           #
+#  Depends on 'mixinextras' (-∞, ∞)                           #
+#                                                             #
+#  Contained Jars (1):                                        #
+#                                                             #
+#  /META-INF/jars/mixinextras-fabric-0.5.4.jar:               #
+#  +-------------------------------------------------------+  #
+#  |  Loaded by  'quilted_fabric_loader'                   |  #
+#  |  Name     = 'MixinExtras'                             |  #
+#  |  ID       = 'mixinextras'                             |  #
+#  |  Version  = '0.5.4'                                   |  #
+#  |  LoadType = IF_POSSIBLE                               |  #
+#  |  Provides   'com_github_llamalad7_mixinextras' 0.5.4  |  #
+#  |  Depends on 'fabricloader' [0.14.25, ∞)               |  #
+#  +-------------------------------------------------------+  #
+#                                                             #
+###############################################################
+
+
+
+---- end of report ----

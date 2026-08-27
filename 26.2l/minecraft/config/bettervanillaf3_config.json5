@@ -1,0 +1,7 @@
+{
+	useOldSectionRelativePos: true,
+	hideOverlayWhenF1: false,
+	pieChartScale: 1.0,
+	disabledPieChartBg: false,
+	addDayCounterToLocalDifficulty: false
+}

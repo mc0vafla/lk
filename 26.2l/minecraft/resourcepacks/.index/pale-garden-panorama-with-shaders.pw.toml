@@ -1,0 +1,18 @@
+filename = '1.21.4 Panorama with Shaders v2.zip'
+name = 'Pale Garden Panorama with Shaders'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v2.0'
+
+[download]
+hash = 'f7a6ec1700eff0490130e03eb24c3c9851c3abd23e8d14c7989003e5250b59367fa117b8269b692f312670d4aa13c226cf47f715d87cc6f300f2d0ac4806e41e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/56akv6PC/versions/ztJD1rCc/1.21.4 Panorama with Shaders v2.zip'
+
+[update.modrinth]
+mod-id = '56akv6PC'
+version = 'ztJD1rCc'

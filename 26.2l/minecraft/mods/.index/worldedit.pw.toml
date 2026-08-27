@@ -1,0 +1,18 @@
+filename = 'worldedit-mod-7.4.4.jar'
+name = 'WorldEdit'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '7.4.4'
+
+[download]
+hash = '48e408fbf3e24521f2a66155e9a85a71f5bf89657a9888aac9525e250c5dd9541d8326afbbc24eae4241dba83506a2438ebff60f0e763e37ecef8e070fa86e57'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1u6JkXh5/versions/j2w3GmPv/worldedit-mod-7.4.4.jar'
+
+[update.modrinth]
+mod-id = '1u6JkXh5'
+version = 'j2w3GmPv'

@@ -1,0 +1,8 @@
+{
+  "enabledPacks": [
+    "letters.yaml",
+    "text_art_faces.yaml",
+    "minecraft.yaml"
+  ],
+  "version": 1
+}

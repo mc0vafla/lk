@@ -1,0 +1,491 @@
+---- Quilt Loader: Failed to load ----
+Date/Time: 2026/08/27 19:09:34.3692 [+0200]
+Quilt Loader Version: 0.30.0
+
+-- Error 1 --
+
+Fabric Placeholder requires any version of fabric-api, which is missing!
+
+Fabric Placeholder is loaded from <mods>/fabric-ph-1.0.0.jar
+
+
+-- Error 2 --
+
+WI Zoom requires version [0.155.1, ∞) of fabric-api, which is missing!
+
+WI Zoom is loaded from <mods>/WI-Zoom-1.7-MC26.3-snapshot-10.jar
+
+
+-- Plugin State --
+
+Cycle number = 1
+Cycle Step = SOLVE
+
+Loaded Plugins (2):
+ - 'quilt_loader' (Builtin)
+ - 'quilted_fabric_loader' (Builtin)
+
+
+
+
+-- Mod Table --
+
+| Mod                                                                          | ID                                     | Version                          | Plugin                | Flags | File Hash (SHA-1)                        | File(s)                                                                                                               | Sub-File                                                                                          |
+|------------------------------------------------------------------------------|----------------------------------------|----------------------------------|-----------------------|-------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Cape Provider                                                                | cape-provider                          | 5.6.0-SNAPSHOT                   | quilted_fabric_loader | ..    | 9584fb09c4516d910c6f484285f2664a7bf31e96 | <mods>/cape-provider-5.6.0-SNAPSHOT.jar                                                                               |                                                                                                   |
+| Concurrent Chunk Management Engine                                           | c2me                                   | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             |                                                                                                   |
+| Concurrent Chunk Management Engine (Base)                                    | c2me-base                              | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-base-mc26.3-snapshot-9-0.4.2-alpha.0.64-all.jar                        |
+| Concurrent Chunk Management Engine (Client/Uncap View Distance)              | c2me-client-uncapvd                    | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-client-uncapvd-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                  |
+| Concurrent Chunk Management Engine (Fixes/Chunk IO/Threading Issues)         | c2me-fixes-chunkio-threading-issues    | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-fixes-chunkio-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar  |
+| Concurrent Chunk Management Engine (Fixes/General/Threading Issues)          | c2me-fixes-general-threading-issues    | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-fixes-general-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar  |
+| Concurrent Chunk Management Engine (Fixes/WorldGen/Threading Issues)         | c2me-fixes-worldgen-threading-issues   | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-fixes-worldgen-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar |
+| Concurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs)             | c2me-fixes-worldgen-vanilla-bugs       | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-fixes-worldgen-vanilla-bugs-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar     |
+| Concurrent Chunk Management Engine (No Tick View Distance)                   | c2me-notickvd                          | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-notickvd-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                        |
+| Concurrent Chunk Management Engine (Optimizations/Chunk IO)                  | c2me-opts-chunkio                      | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-chunkio-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                    |
+| Concurrent Chunk Management Engine (Optimizations/Density Function Compiler) | c2me-opts-dfc                          | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-dfc-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                        |
+| Concurrent Chunk Management Engine (Optimizations/General WorldGen)          | c2me-opts-worldgen-general             | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-worldgen-general-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar           |
+| Concurrent Chunk Management Engine (Optimizations/Math)                      | c2me-opts-math                         | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-math-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                       |
+| Concurrent Chunk Management Engine (Optimizations/Memory Allocations)        | c2me-opts-allocs                       | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-allocs-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                     |
+| Concurrent Chunk Management Engine (Optimizations/Scheduling)                | c2me-opts-scheduling                   | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-scheduling-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                 |
+| Concurrent Chunk Management Engine (Optimizations/Vanilla WorldGen)          | c2me-opts-worldgen-vanilla             | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-opts-worldgen-vanilla-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar           |
+| Concurrent Chunk Management Engine (Rewrites/Chunk IO)                       | c2me-rewrites-chunkio                  | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-rewrites-chunkio-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                |
+| Concurrent Chunk Management Engine (Rewrites/Chunk Serializer)               | c2me-rewrites-chunk-serializer         | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-rewrites-chunk-serializer-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar       |
+| Concurrent Chunk Management Engine (Rewrites/Chunk System)                   | c2me-rewrites-chunk-system             | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-rewrites-chunk-system-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar           |
+| Concurrent Chunk Management Engine (Server Utils)                            | c2me-server-utils                      | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-server-utils-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                    |
+| Concurrent Chunk Management Engine (Threading/Lighting)                      | c2me-threading-lighting                | 0.4.2-alpha.0.64+26.3-snapshot-9 | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/c2me-fabric-threading-lighting-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar              |
+| Fabric Placeholder                                                           | fabric-ph                              | 1.0.0                            | quilted_fabric_loader | ..    | a69e466e69d2fe2a220e6078c2e6eece6dfe8927 | <mods>/fabric-ph-1.0.0.jar                                                                                            |                                                                                                   |
+| Fabric Placeholder                                                           | fabric-ph                              | 1.0.0                            | quilted_fabric_loader | ..    | a69e466e69d2fe2a220e6078c2e6eece6dfe8927 | <mods>/fabric-ph-1.0.0.jar                                                                                            |                                                                                                   |
+| Minecraft                                                                    | minecraft                              | 26.3-alpha.9                     | quilt_loader          | ..    | 4815359f45cf77c9042296d98acb22a95df6a58a | <user>/.local/share/PrismLauncher/libraries/com/mojang/minecraft/26.3-snapshot-9/minecraft-26.3-snapshot-9-client.jar |                                                                                                   |
+| MixinExtras                                                                  | mixinextras                            | 0.5.4                            | quilted_fabric_loader | ..    | bdbfb507b9493fd5b8fbb8ffd05ca308f24dc67c | <user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar                   | /META-INF/jars/mixinextras-fabric-0.5.4.jar                                                       |
+| MixinExtras                                                                  | mixinextras                            | 0.5.4                            | quilted_fabric_loader | ..    | bdbfb507b9493fd5b8fbb8ffd05ca308f24dc67c | <user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar                   | /META-INF/jars/mixinextras-fabric-0.5.4.jar                                                       |
+| MixinSquared                                                                 | mixinsquared                           | 0.3.7-beta.1                     | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/mixinsquared-fabric-0.3.7-beta.1.jar                                               |
+| OpenJDK 64-Bit Server VM                                                     | java                                   | 25                               | quilt_loader          | ..    |                                          | <user>/.local/share/PrismLauncher/java/java-runtime-epsilon                                                           |                                                                                                   |
+| Quilt Loader                                                                 | quilt_loader                           | 0.30.0                           | quilt_loader          | ..    | bdbfb507b9493fd5b8fbb8ffd05ca308f24dc67c | <user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar                   |                                                                                                   |
+| Quilt Loader                                                                 | quilt_loader                           | 0.30.0                           | quilt_loader          | ..    | bdbfb507b9493fd5b8fbb8ffd05ca308f24dc67c | <user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar                   |                                                                                                   |
+| WI Zoom                                                                      | wi_zoom                                | 1.7-MC26.3-snapshot-10           | quilted_fabric_loader | ..    | 235afb83976a18218466d8b7d1defd317e921a81 | <mods>/WI-Zoom-1.7-MC26.3-snapshot-10.jar                                                                             |                                                                                                   |
+| asyncutil                                                                    | com_ibm_async_asyncutil                | 0.1.0                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/asyncutil-0.1.0.jar                                                                |
+| caffeine                                                                     | com_github_ben-manes_caffeine_caffeine | 3.2.1                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/caffeine-3.2.1.jar                                                                 |
+| core                                                                         | com_electronwill_night-config_core     | 3.6.5                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/core-3.6.5.jar                                                                     |
+| exp4j                                                                        | net_objecthunter_exp4j                 | 0.4.8                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/exp4j-0.4.8.jar                                                                    |
+| jctools-core                                                                 | org_jctools_jctools-core               | 4.0.5                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/jctools-core-4.0.5.jar                                                             |
+| reactive-streams                                                             | org_reactivestreams_reactive-streams   | 1.0.4                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/reactive-streams-1.0.4.jar                                                         |
+| rxjava                                                                       | io_reactivex_rxjava3_rxjava            | 3.1.12                           | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/rxjava-3.1.12.jar                                                                  |
+| toml                                                                         | com_electronwill_night-config_toml     | 3.6.5                            | quilted_fabric_loader | ..    | 5b0adbdd1327debae1a74f917f383e4f1b424d2e | <mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar                                                             | /META-INF/jars/toml-3.6.5.jar                                                                     |
+|------------------------------------------------------------------------------|----------------------------------------|----------------------------------|-----------------------|-------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+
+
+-- Mod Details --
+
+<mods>/WI-Zoom-1.7-MC26.3-snapshot-10.jar:
+##################################################
+#  Loaded by  'quilted_fabric_loader'            #
+#  Name     = 'WI Zoom'                          #
+#  ID       = 'wi_zoom'                          #
+#  Version  = '1.7-MC26.3-snapshot-10'           #
+#  LoadType = IF_POSSIBLE                        #
+#  Depends on 'fabricloader' [0.18.3, ∞)         #
+#  Depends on 'fabric-api' [0.155.1, ∞)          #
+#  Depends on 'minecraft' [26.3-alpha.4, 26.4-)  #
+#  Depends on 'java' [25, ∞)                     #
+#  Breaks  on 'wurst' (-∞, ∞)                    #
+##################################################
+
+<mods>/c2me-fabric-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:
+########################################################################################################
+#  Loaded by  'quilted_fabric_loader'                                                                  #
+#  Name     = 'Concurrent Chunk Management Engine'                                                     #
+#  ID       = 'c2me'                                                                                   #
+#  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                                       #
+#  LoadType = IF_POSSIBLE                                                                              #
+#  Depends on 'fabricloader' [0.18.3, ∞)                                                               #
+#  Depends on 'java' [25, ∞)                                                                           #
+#  Depends on 'minecraft' (1.21.11, ∞)                                                                 #
+#  Depends on 'c2me-base' (-∞, ∞)                                                                      #
+#  Breaks  on 'tic_tacs' (-∞, ∞)                                                                       #
+#  Breaks  on 'optifabric' (-∞, ∞)                                                                     #
+#                                                                                                      #
+#  Contained Jars (28):                                                                                #
+#                                                                                                      #
+#  /META-INF/jars/asyncutil-0.1.0.jar:                                                                 #
+#  +----------------------------------------+                                                          #
+#  |  Loaded by  'quilted_fabric_loader'    |                                                          #
+#  |  Name     = 'asyncutil'                |                                                          #
+#  |  ID       = 'com_ibm_async_asyncutil'  |                                                          #
+#  |  Version  = '0.1.0'                    |                                                          #
+#  |  LoadType = IF_POSSIBLE                |                                                          #
+#  +----------------------------------------+                                                          #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-base-mc26.3-snapshot-9-0.4.2-alpha.0.64-all.jar:                         #
+#  +----------------------------------------------------------+                                        #
+#  |  Loaded by  'quilted_fabric_loader'                      |                                        #
+#  |  Name     = 'Concurrent Chunk Management Engine (Base)'  |                                        #
+#  |  ID       = 'c2me-base'                                  |                                        #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'           |                                        #
+#  |  LoadType = IF_POSSIBLE                                  |                                        #
+#  |  Depends on 'minecraft' (-∞, ∞)                          |                                        #
+#  |  Depends on 'fabricloader' (-∞, ∞)                       |                                        #
+#  +----------------------------------------------------------+                                        #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-client-uncapvd-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                   #
+#  +--------------------------------------------------------------------------------+                  #
+#  |  Loaded by  'quilted_fabric_loader'                                            |                  #
+#  |  Name     = 'Concurrent Chunk Management Engine (Client/Uncap View Distance)'  |                  #
+#  |  ID       = 'c2me-client-uncapvd'                                              |                  #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                 |                  #
+#  |  LoadType = IF_POSSIBLE                                                        |                  #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                |                  #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                             |                  #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                |                  #
+#  +--------------------------------------------------------------------------------+                  #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-fixes-chunkio-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:   #
+#  +-------------------------------------------------------------------------------------+             #
+#  |  Loaded by  'quilted_fabric_loader'                                                 |             #
+#  |  Name     = 'Concurrent Chunk Management Engine (Fixes/Chunk IO/Threading Issues)'  |             #
+#  |  ID       = 'c2me-fixes-chunkio-threading-issues'                                   |             #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                      |             #
+#  |  LoadType = IF_POSSIBLE                                                             |             #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                     |             #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                  |             #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                     |             #
+#  +-------------------------------------------------------------------------------------+             #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-fixes-general-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:   #
+#  +------------------------------------------------------------------------------------+              #
+#  |  Loaded by  'quilted_fabric_loader'                                                |              #
+#  |  Name     = 'Concurrent Chunk Management Engine (Fixes/General/Threading Issues)'  |              #
+#  |  ID       = 'c2me-fixes-general-threading-issues'                                  |              #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                     |              #
+#  |  LoadType = IF_POSSIBLE                                                            |              #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                    |              #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                 |              #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                    |              #
+#  +------------------------------------------------------------------------------------+              #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-fixes-worldgen-threading-issues-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:  #
+#  +-------------------------------------------------------------------------------------+             #
+#  |  Loaded by  'quilted_fabric_loader'                                                 |             #
+#  |  Name     = 'Concurrent Chunk Management Engine (Fixes/WorldGen/Threading Issues)'  |             #
+#  |  ID       = 'c2me-fixes-worldgen-threading-issues'                                  |             #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                      |             #
+#  |  LoadType = IF_POSSIBLE                                                             |             #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                     |             #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                  |             #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                     |             #
+#  |  Depends on 'c2me-fixes-general-threading-issues' (-∞, ∞)                           |             #
+#  +-------------------------------------------------------------------------------------+             #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-fixes-worldgen-vanilla-bugs-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:      #
+#  +---------------------------------------------------------------------------------+                 #
+#  |  Loaded by  'quilted_fabric_loader'                                             |                 #
+#  |  Name     = 'Concurrent Chunk Management Engine (Fixes/WorldGen/Vanilla Bugs)'  |                 #
+#  |  ID       = 'c2me-fixes-worldgen-vanilla-bugs'                                  |                 #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                  |                 #
+#  |  LoadType = IF_POSSIBLE                                                         |                 #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                 |                 #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                              |                 #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                 |                 #
+#  +---------------------------------------------------------------------------------+                 #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-notickvd-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                         #
+#  +---------------------------------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'                                       |                       #
+#  |  Name     = 'Concurrent Chunk Management Engine (No Tick View Distance)'  |                       #
+#  |  ID       = 'c2me-notickvd'                                               |                       #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                            |                       #
+#  |  LoadType = IF_POSSIBLE                                                   |                       #
+#  |  Depends on 'minecraft' (-∞, ∞)                                           |                       #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                        |                       #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                           |                       #
+#  |  Depends on 'c2me-rewrites-chunk-system' (-∞, ∞)                          |                       #
+#  +---------------------------------------------------------------------------+                       #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-allocs-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                      #
+#  +--------------------------------------------------------------------------------------+            #
+#  |  Loaded by  'quilted_fabric_loader'                                                  |            #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Memory Allocations)'  |            #
+#  |  ID       = 'c2me-opts-allocs'                                                       |            #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                       |            #
+#  |  LoadType = IF_POSSIBLE                                                              |            #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                      |            #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                   |            #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                      |            #
+#  +--------------------------------------------------------------------------------------+            #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-chunkio-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                     #
+#  +----------------------------------------------------------------------------+                      #
+#  |  Loaded by  'quilted_fabric_loader'                                        |                      #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Chunk IO)'  |                      #
+#  |  ID       = 'c2me-opts-chunkio'                                            |                      #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                             |                      #
+#  |  LoadType = IF_POSSIBLE                                                    |                      #
+#  |  Depends on 'minecraft' (-∞, ∞)                                            |                      #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                         |                      #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                            |                      #
+#  +----------------------------------------------------------------------------+                      #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-dfc-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                         #
+#  +---------------------------------------------------------------------------------------------+     #
+#  |  Loaded by  'quilted_fabric_loader'                                                         |     #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Density Function Compiler)'  |     #
+#  |  ID       = 'c2me-opts-dfc'                                                                 |     #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                              |     #
+#  |  LoadType = IF_POSSIBLE                                                                     |     #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                             |     #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                          |     #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                             |     #
+#  +---------------------------------------------------------------------------------------------+     #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-math-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                        #
+#  +------------------------------------------------------------------------+                          #
+#  |  Loaded by  'quilted_fabric_loader'                                    |                          #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Math)'  |                          #
+#  |  ID       = 'c2me-opts-math'                                           |                          #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                         |                          #
+#  |  LoadType = IF_POSSIBLE                                                |                          #
+#  |  Depends on 'minecraft' (-∞, ∞)                                        |                          #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                     |                          #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                        |                          #
+#  +------------------------------------------------------------------------+                          #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-scheduling-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                  #
+#  +------------------------------------------------------------------------------+                    #
+#  |  Loaded by  'quilted_fabric_loader'                                          |                    #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Scheduling)'  |                    #
+#  |  ID       = 'c2me-opts-scheduling'                                           |                    #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                               |                    #
+#  |  LoadType = IF_POSSIBLE                                                      |                    #
+#  |  Depends on 'minecraft' (-∞, ∞)                                              |                    #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                           |                    #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                              |                    #
+#  +------------------------------------------------------------------------------+                    #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-worldgen-general-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:            #
+#  +------------------------------------------------------------------------------------+              #
+#  |  Loaded by  'quilted_fabric_loader'                                                |              #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/General WorldGen)'  |              #
+#  |  ID       = 'c2me-opts-worldgen-general'                                           |              #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                     |              #
+#  |  LoadType = IF_POSSIBLE                                                            |              #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                    |              #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                 |              #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                    |              #
+#  +------------------------------------------------------------------------------------+              #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-opts-worldgen-vanilla-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:            #
+#  +------------------------------------------------------------------------------------+              #
+#  |  Loaded by  'quilted_fabric_loader'                                                |              #
+#  |  Name     = 'Concurrent Chunk Management Engine (Optimizations/Vanilla WorldGen)'  |              #
+#  |  ID       = 'c2me-opts-worldgen-vanilla'                                           |              #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                     |              #
+#  |  LoadType = IF_POSSIBLE                                                            |              #
+#  |  Depends on 'minecraft' (-∞, ∞)                                                    |              #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                                 |              #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                                    |              #
+#  |  Depends on 'c2me-opts-worldgen-general' (-∞, ∞)                                   |              #
+#  +------------------------------------------------------------------------------------+              #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-rewrites-chunk-serializer-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:        #
+#  +-------------------------------------------------------------------------------+                   #
+#  |  Loaded by  'quilted_fabric_loader'                                           |                   #
+#  |  Name     = 'Concurrent Chunk Management Engine (Rewrites/Chunk Serializer)'  |                   #
+#  |  ID       = 'c2me-rewrites-chunk-serializer'                                  |                   #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                                |                   #
+#  |  LoadType = IF_POSSIBLE                                                       |                   #
+#  |  Depends on 'minecraft' (-∞, ∞)                                               |                   #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                            |                   #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                               |                   #
+#  +-------------------------------------------------------------------------------+                   #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-rewrites-chunk-system-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:            #
+#  +---------------------------------------------------------------------------+                       #
+#  |  Loaded by  'quilted_fabric_loader'                                       |                       #
+#  |  Name     = 'Concurrent Chunk Management Engine (Rewrites/Chunk System)'  |                       #
+#  |  ID       = 'c2me-rewrites-chunk-system'                                  |                       #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                            |                       #
+#  |  LoadType = IF_POSSIBLE                                                   |                       #
+#  |  Depends on 'minecraft' (-∞, ∞)                                           |                       #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                        |                       #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                           |                       #
+#  +---------------------------------------------------------------------------+                       #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-rewrites-chunkio-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                 #
+#  +-----------------------------------------------------------------------+                           #
+#  |  Loaded by  'quilted_fabric_loader'                                   |                           #
+#  |  Name     = 'Concurrent Chunk Management Engine (Rewrites/Chunk IO)'  |                           #
+#  |  ID       = 'c2me-rewrites-chunkio'                                   |                           #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                        |                           #
+#  |  LoadType = IF_POSSIBLE                                               |                           #
+#  |  Depends on 'minecraft' (-∞, ∞)                                       |                           #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                    |                           #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                       |                           #
+#  +-----------------------------------------------------------------------+                           #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-server-utils-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:                     #
+#  +------------------------------------------------------------------+                                #
+#  |  Loaded by  'quilted_fabric_loader'                              |                                #
+#  |  Name     = 'Concurrent Chunk Management Engine (Server Utils)'  |                                #
+#  |  ID       = 'c2me-server-utils'                                  |                                #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                   |                                #
+#  |  LoadType = IF_POSSIBLE                                          |                                #
+#  |  Depends on 'minecraft' (-∞, ∞)                                  |                                #
+#  |  Depends on 'fabricloader' (-∞, ∞)                               |                                #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                  |                                #
+#  +------------------------------------------------------------------+                                #
+#                                                                                                      #
+#  /META-INF/jars/c2me-fabric-threading-lighting-mc26.3-snapshot-9-0.4.2-alpha.0.64.jar:               #
+#  +------------------------------------------------------------------------+                          #
+#  |  Loaded by  'quilted_fabric_loader'                                    |                          #
+#  |  Name     = 'Concurrent Chunk Management Engine (Threading/Lighting)'  |                          #
+#  |  ID       = 'c2me-threading-lighting'                                  |                          #
+#  |  Version  = '0.4.2-alpha.0.64+26.3-snapshot-9'                         |                          #
+#  |  LoadType = IF_POSSIBLE                                                |                          #
+#  |  Depends on 'minecraft' (-∞, ∞)                                        |                          #
+#  |  Depends on 'fabricloader' (-∞, ∞)                                     |                          #
+#  |  Depends on 'c2me-base' (-∞, ∞)                                        |                          #
+#  |  Depends on 'c2me-fixes-general-threading-issues' (-∞, ∞)              |                          #
+#  +------------------------------------------------------------------------+                          #
+#                                                                                                      #
+#  /META-INF/jars/caffeine-3.2.1.jar:                                                                  #
+#  +-------------------------------------------------------+                                           #
+#  |  Loaded by  'quilted_fabric_loader'                   |                                           #
+#  |  Name     = 'caffeine'                                |                                           #
+#  |  ID       = 'com_github_ben-manes_caffeine_caffeine'  |                                           #
+#  |  Version  = '3.2.1'                                   |                                           #
+#  |  LoadType = IF_POSSIBLE                               |                                           #
+#  +-------------------------------------------------------+                                           #
+#                                                                                                      #
+#  /META-INF/jars/core-3.6.5.jar:                                                                      #
+#  +---------------------------------------------------+                                               #
+#  |  Loaded by  'quilted_fabric_loader'               |                                               #
+#  |  Name     = 'core'                                |                                               #
+#  |  ID       = 'com_electronwill_night-config_core'  |                                               #
+#  |  Version  = '3.6.5'                               |                                               #
+#  |  LoadType = IF_POSSIBLE                           |                                               #
+#  +---------------------------------------------------+                                               #
+#                                                                                                      #
+#  /META-INF/jars/exp4j-0.4.8.jar:                                                                     #
+#  +---------------------------------------+                                                           #
+#  |  Loaded by  'quilted_fabric_loader'   |                                                           #
+#  |  Name     = 'exp4j'                   |                                                           #
+#  |  ID       = 'net_objecthunter_exp4j'  |                                                           #
+#  |  Version  = '0.4.8'                   |                                                           #
+#  |  LoadType = IF_POSSIBLE               |                                                           #
+#  +---------------------------------------+                                                           #
+#                                                                                                      #
+#  /META-INF/jars/jctools-core-4.0.5.jar:                                                              #
+#  +-----------------------------------------+                                                         #
+#  |  Loaded by  'quilted_fabric_loader'     |                                                         #
+#  |  Name     = 'jctools-core'              |                                                         #
+#  |  ID       = 'org_jctools_jctools-core'  |                                                         #
+#  |  Version  = '4.0.5'                     |                                                         #
+#  |  LoadType = IF_POSSIBLE                 |                                                         #
+#  +-----------------------------------------+                                                         #
+#                                                                                                      #
+#  /META-INF/jars/mixinsquared-fabric-0.3.7-beta.1.jar:                                                #
+#  +------------------------------------------+                                                        #
+#  |  Loaded by  'quilted_fabric_loader'      |                                                        #
+#  |  Name     = 'MixinSquared'               |                                                        #
+#  |  ID       = 'mixinsquared'               |                                                        #
+#  |  Version  = '0.3.7-beta.1'               |                                                        #
+#  |  LoadType = IF_POSSIBLE                  |                                                        #
+#  |  Depends on 'fabricloader' [0.14.11, ∞)  |                                                        #
+#  +------------------------------------------+                                                        #
+#                                                                                                      #
+#  /META-INF/jars/reactive-streams-1.0.4.jar:                                                          #
+#  +-----------------------------------------------------+                                             #
+#  |  Loaded by  'quilted_fabric_loader'                 |                                             #
+#  |  Name     = 'reactive-streams'                      |                                             #
+#  |  ID       = 'org_reactivestreams_reactive-streams'  |                                             #
+#  |  Version  = '1.0.4'                                 |                                             #
+#  |  LoadType = IF_POSSIBLE                             |                                             #
+#  +-----------------------------------------------------+                                             #
+#                                                                                                      #
+#  /META-INF/jars/rxjava-3.1.12.jar:                                                                   #
+#  +--------------------------------------------+                                                      #
+#  |  Loaded by  'quilted_fabric_loader'        |                                                      #
+#  |  Name     = 'rxjava'                       |                                                      #
+#  |  ID       = 'io_reactivex_rxjava3_rxjava'  |                                                      #
+#  |  Version  = '3.1.12'                       |                                                      #
+#  |  LoadType = IF_POSSIBLE                    |                                                      #
+#  +--------------------------------------------+                                                      #
+#                                                                                                      #
+#  /META-INF/jars/toml-3.6.5.jar:                                                                      #
+#  +---------------------------------------------------+                                               #
+#  |  Loaded by  'quilted_fabric_loader'               |                                               #
+#  |  Name     = 'toml'                                |                                               #
+#  |  ID       = 'com_electronwill_night-config_toml'  |                                               #
+#  |  Version  = '3.6.5'                               |                                               #
+#  |  LoadType = IF_POSSIBLE                           |                                               #
+#  +---------------------------------------------------+                                               #
+#                                                                                                      #
+########################################################################################################
+
+<mods>/cape-provider-5.6.0-SNAPSHOT.jar:
+########################################
+#  Loaded by  'quilted_fabric_loader'  #
+#  Name     = 'Cape Provider'          #
+#  ID       = 'cape-provider'          #
+#  Version  = '5.6.0-SNAPSHOT'         #
+#  LoadType = IF_POSSIBLE              #
+#  Breaks  on 'capes' (-∞, ∞)          #
+########################################
+
+<mods>/fabric-ph-1.0.0.jar:
+########################################
+#  Loaded by  'quilted_fabric_loader'  #
+#  Name     = 'Fabric Placeholder'     #
+#  ID       = 'fabric-ph'              #
+#  Version  = '1.0.0'                  #
+#  LoadType = IF_POSSIBLE              #
+#  Provides   'fabric' 1.0.0           #
+#  Depends on 'fabric-api' (-∞, ∞)     #
+########################################
+
+<user>/.local/share/PrismLauncher/java/java-runtime-epsilon:
+###########################################
+#  Loaded by  'quilt_loader'              #
+#  Name     = 'OpenJDK 64-Bit Server VM'  #
+#  ID       = 'java'                      #
+#  Version  = '25'                        #
+#  LoadType = IF_REQUIRED                 #
+###########################################
+
+<user>/.local/share/PrismLauncher/libraries/com/mojang/minecraft/26.3-snapshot-9/minecraft-26.3-snapshot-9-client.jar:
+###############################
+#  Loaded by  'quilt_loader'  #
+#  Name     = 'Minecraft'     #
+#  ID       = 'minecraft'     #
+#  Version  = '26.3-alpha.9'  #
+#  LoadType = IF_REQUIRED     #
+#  Depends on 'java' [25, ∞)  #
+###############################
+
+<user>/.local/share/PrismLauncher/libraries/org/quiltmc/quilt-loader/0.30.0/quilt-loader-0.30.0.jar:
+###############################################################
+#  Loaded by  'quilt_loader'                                  #
+#  Name     = 'Quilt Loader'                                  #
+#  ID       = 'quilt_loader'                                  #
+#  Version  = '0.30.0'                                        #
+#  LoadType = IF_REQUIRED                                     #
+#  Provides   'fabricloader' 0.19.2                           #
+#  Depends on 'mixinextras' (-∞, ∞)                           #
+#                                                             #
+#  Contained Jars (1):                                        #
+#                                                             #
+#  /META-INF/jars/mixinextras-fabric-0.5.4.jar:               #
+#  +-------------------------------------------------------+  #
+#  |  Loaded by  'quilted_fabric_loader'                   |  #
+#  |  Name     = 'MixinExtras'                             |  #
+#  |  ID       = 'mixinextras'                             |  #
+#  |  Version  = '0.5.4'                                   |  #
+#  |  LoadType = IF_POSSIBLE                               |  #
+#  |  Provides   'com_github_llamalad7_mixinextras' 0.5.4  |  #
+#  |  Depends on 'fabricloader' [0.14.25, ∞)               |  #
+#  +-------------------------------------------------------+  #
+#                                                             #
+###############################################################
+
+
+
+---- end of report ----

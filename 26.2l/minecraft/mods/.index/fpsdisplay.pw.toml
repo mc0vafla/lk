@@ -1,0 +1,29 @@
+filename = 'fpsdisplay-5.1.0+26.2.jar'
+name = 'FPS - Display'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.1.0+26.2'
+
+[download]
+hash = '2dd9eda6a56ed01615af093cf7032f13a5dc0826cc0f78f3db2b9b6f993b82c88aa5a6e07d72e69edd176928a867dbc02f858f9a72fa476857f424466e4a318c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DIlqwRFH/versions/inkvL2AV/fpsdisplay-5.1.0%2B26.2.jar'
+
+[update.modrinth]
+mod-id = 'DIlqwRFH'
+version = 'inkvL2AV'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'

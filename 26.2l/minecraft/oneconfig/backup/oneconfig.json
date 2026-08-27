@@ -1,0 +1,115 @@
+{
+	"flipTopOptionOrder": false,
+	"searchDistance": 2,
+	"marqueeSelectionAnim": true,
+	"pageAnimationDuration": 0.3,
+	"pageOpacity": 88.0,
+	"sidebarOpacity": 80.0,
+	"keybindClosesGui": false,
+	"hudSettingsKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			69
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"masterHudEnabled": true,
+	"uiSoundVolume": 1.0,
+	"enableUIClickSounds": true,
+	"oneConfigKeybind": {
+		"keyCodes": [
+			344
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"hudDuplicateKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			68
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"enableHudEditorSounds": true,
+	"hudResetKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			82
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"instantSearch": true,
+	"enableUIMusicDucking": true,
+	"guiOpenAnimation": true,
+	"hudLockKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			76
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"showKeybindHints": true,
+	"timeBeforeReset": 15.0,
+	"restoreHudEditor": false,
+	"uiPixelSize": 2.0,
+	"openingBehavior": 3,
+	"showOptionActionButtons": true,
+	"hudSelectAllKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			65
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"glowOpacity": 25.0,
+	"hudDeleteKeybind": {
+		"keyCodes": [
+			261
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"hudCutKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			88
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"showPageAnimations": true,
+	"uiAmbienceVolume": 1.0,
+	"hudDragUiOpacity": 0.6,
+	"enableUISliderSounds": true,
+	"hudVisibilityKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			72
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"enableUIAmbience": true,
+	"marqueeSelectionAnimDuration": 150.0,
+	"enableBackgroundBlur": true,
+	"reducedResFilter": 0,
+	"guiClosingAnimation": true,
+	"animationTime": 0.6,
+	"pauseGame": false,
+	"hudCopyKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			67
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"showFirstLaunchMessage": true,
+	"useCustomUiSize": false,
+	"showOpeningPageAnimation": false,
+	"enableUIMenuSounds": true,
+	"hudPasteKeybind": {
+		"mods": 2,
+		"keyCodes": [
+			86
+		],
+		"class": "org.polyfrost.oneconfig.api.ui.v1.keybind.OneConfigKeybind"
+	},
+	"uiSharpening": 0.4,
+	"enableUISounds": true
+}

@@ -1,0 +1,9 @@
+/give @s minecraft:lime_cushion
+/locate structure #minecraft:abandoned_camp
+/tp @s 880 ~ -784
+/locate structure #minecraft:abandoned_camp
+/tp @s 800 ~ -1968
+/locate structure #minecraft:abandoned_camp
+/tp @s 560 ~ -3632
+/give @s minecraft:buried_treasure_map
+/advancement grant Mouse3D everything

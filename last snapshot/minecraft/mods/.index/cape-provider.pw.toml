@@ -1,0 +1,29 @@
+filename = 'cape-provider-5.6.0-SNAPSHOT.jar'
+name = 'Cape Provider'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.3 snapshot 9', '26.3-snapshot-9' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '5.6.0-SNAPSHOT'
+
+[download]
+hash = '9e2bfc2c25081ffc367232b722dbec5f9023b661e018e5d219d3ff6b65591d64f6862ddaadc4edbfc011010ee67b7eafbe3a8ddab18f42f008e333fcf3a44b92'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/orXAsira/versions/R327kvDp/cape-provider-5.6.0-SNAPSHOT.jar'
+
+[update.modrinth]
+mod-id = 'orXAsira'
+version = 'R327kvDp'
+
+[[x-prismlauncher-dependencies]]
+addonId = '89Wsn8GD'
+type = 'INCOMPATIBLE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

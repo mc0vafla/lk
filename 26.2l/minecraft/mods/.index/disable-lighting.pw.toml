@@ -1,0 +1,18 @@
+filename = 'disable-lighting-1.1.0.jar'
+name = 'Disable Lighting'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = 'b1ffef7295e41edeac398b6a3ffd15aae9c8f409725395ad9e1b3a2b8760ecff21bba58d372cbe7d4af4a553db3eb0ba59cd54b026c31de7c9be21aa90c7fb6b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Se5MJTQ7/versions/QbcNoYS3/disable-lighting-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'Se5MJTQ7'
+version = 'QbcNoYS3'

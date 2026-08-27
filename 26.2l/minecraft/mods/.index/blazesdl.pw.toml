@@ -1,0 +1,18 @@
+filename = 'blazesdl-0.1.12.jar'
+name = 'BlazeSDL'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.12'
+
+[download]
+hash = 'c8fbb60f00093bf058d933d76bbc6a8c60390bb73ef8c888c2a5e420a7812c88776afcfd4cfad3131d76529ad0deb0378ee175933eab80e22763dbbbada4016a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QDgSARKw/versions/Nt6zJvUN/blazesdl-0.1.12.jar'
+
+[update.modrinth]
+mod-id = 'QDgSARKw'
+version = 'Nt6zJvUN'
