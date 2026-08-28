@@ -196,8 +196,7 @@ alias dw="yt-dlp -t mp3"
 alias k="optionmusic ."
 
 function fish_user_key_bindings
-  bind \cs "pyroclear; rp"
   bind \cq "q; rp"
+  bind \cf "tmux; rp"
   bind \cx "b; rp"
-  bind \cf "tre; rp"
 end
