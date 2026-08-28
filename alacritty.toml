@@ -1,0 +1,174 @@
+[window.padding]
+x = 12
+y = 8
+
+[font]
+size = 12.0
+
+[font.normal]
+family = "DepartureMono"
+style = "Regular"
+
+[font.bold]
+family = "DepartureMono"
+style = "Bold"
+
+[font.italic]
+family = "DepartureMono"
+style = "Italic"
+
+[colors.primary]
+# background = "#1D1E1F"
+# background = "#302D30"
+background = "#282828"
+foreground = "#d3c6aa"
+
+[colors.cursor]
+text = "CellBackground"
+cursor = "#e67e80"
+
+[colors.normal]
+black   = "#5c4b4b"
+red     = "#e67e80"
+green   = "#e68d80"
+yellow  = "#e6a080"
+blue    = "#e680a0"
+magenta = "#e680c0"
+cyan    = "#e68080"
+white   = "#e6cccc"
+
+[colors.bright]
+black   = "#725c5c"
+red     = "#f09496"
+green   = "#f0a294"
+yellow  = "#f0b594"
+blue    = "#f094b5"
+magenta = "#f094d5"
+cyan    = "#f09494"
+white   = "#f5e6e6"
+
+[terminal]
+shell = "fish"
+
+[scrolling]
+multiplier = 6
+
+[[keyboard.bindings]]
+key = "v"
+mods = "Alt"
+action = "ToggleViMode"
+
+[[keyboard.bindings]]
+key = "/"
+mods = "Alt"
+action = "SearchForward"
+
+[[keyboard.bindings]]
+key = "w"
+mods = "Alt | Shift"
+chars = "cd \n"
+
+[[keyboard.bindings]]
+key = "q"
+mods = "Alt"
+chars = "qd \n"
+
+[[keyboard.bindings]]
+key = "q"
+mods = "Alt | Shift"
+chars = "ll \n"
+
+[[keyboard.bindings]]
+key = "e"
+mods = "Alt"
+chars = "cd ~/.config \n"
+
+[[keyboard.bindings]]
+key = "e"
+mods = "Alt | Shift"
+chars = "e \n"
+
+[[keyboard.bindings]]
+key = "d"
+mods = "Alt"
+chars = "nvim ~/.config/alacritty.toml \n"
+
+[[keyboard.bindings]]
+key = "s"
+mods = "Alt"
+chars = "cd /etc \n"
+
+[[keyboard.bindings]]
+key = "a"
+mods = "Alt"
+chars = "doas nvim "
+
+[[keyboard.bindings]]
+key = "x"
+mods = "Alt"
+chars = "u \n"
+
+[[keyboard.bindings]]
+key = "z"
+mods = "Alt"
+chars = "dell \n"
+
+[[keyboard.bindings]]
+key = "c"
+mods = "Alt"
+chars = "gss \n"
+
+[[keyboard.bindings]]
+key = "f"
+mods = "Shift | Alt"
+chars = "321 \n"
+
+[[keyboard.bindings]]
+key = "f"
+mods = "Control | Alt"
+chars = "123 \n"
+
+[[keyboard.bindings]]
+key = "d"
+mods = "Control | Alt"
+chars = "nvim ~/.config/fish/config.fish \n"
+
+[[keyboard.bindings]]
+key = "d"
+mods = "Shift | Alt"
+chars = "nvim ~/.config/niri/modules/keybinds.kdl \n"
+
+[[keyboard.bindings]]
+key = "d"
+mods = "Control | Shift | Alt"
+chars = "nvim ~/.config/nvim/lua/mappings.lua \n"
+
+[[keyboard.bindings]]
+key = "w"
+mods = "Alt"
+chars = "d \n"
+
+[[keyboard.bindings]]
+key = "n"
+mods = "Alt | Shift"
+chars = "n \n"
+
+[[keyboard.bindings]]
+key = "n"
+mods = "Alt | Control"
+chars = "na \n"
+
+[[keyboard.bindings]]
+key = "n"
+mods = "Alt"
+chars = "nv \n"
+
+[[keyboard.bindings]]
+key = "m"
+mods = "Alt"
+chars = "/run/media/helminth/MNT/"
+
+[[keyboard.bindings]]
+key = "j"
+mods = "Alt"
+chars = " > /dev/null 2>&1"
