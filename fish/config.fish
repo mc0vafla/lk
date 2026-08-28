@@ -198,5 +198,4 @@ alias k="optionmusic ."
 function fish_user_key_bindings
   bind \cq "q; rp"
   bind \cf "tmux; rp"
-  bind \cx "b; rp"
 end
