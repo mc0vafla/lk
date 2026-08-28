@@ -4,7 +4,6 @@ set -gx WLR_NO_HARDWARE_CURSORS 1
 export QT_QPA_PLATFORMTHEME=qt5ct QT_STYLE_OVERRIDE=kvantum
 set -gx YDOTOOL_SOCKET /run/user/1000/.ydotool_socket
 set -gx EDITOR nvim
-set -gx PATH /usr/sbin /home/helminth/.local/bin $PATH
 
 alias nr="dbus-run-session niri --session"
 
@@ -84,6 +83,11 @@ set -g fish_greeting ""
 if test "$USER" = "helminth"
   if set -q NVIM 
     clear
+  else if test "$TERM" = "alacritty"
+    set -gx PATH /usr/sbin /home/helminth/.local/bin $PATH
+    clear
+    fastfetch
+    echo ""
   else 
     clear
     fastfetch
