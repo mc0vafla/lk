@@ -194,6 +194,7 @@ alias dwvd="cd /mnt/vd && yt-dlp -t mp4"
 alias qp="pacman -Qtt | fzf"
 alias dw="yt-dlp -t mp3"
 alias k="optionmusic ."
+alias dwsp="spotdl"
 
 function fish_user_key_bindings
   bind \cq "q; rp"
