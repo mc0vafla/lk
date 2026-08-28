@@ -195,6 +195,10 @@ alias qp="pacman -Qtt | fzf"
 alias dw="yt-dlp -t mp3"
 alias k="optionmusic ."
 
+function dwsp
+  spotdl "$argv" --audio youtube soundcloud
+end
+
 function fish_user_key_bindings
   bind \cq "q; rp"
   bind \cf "tmux; rp"
