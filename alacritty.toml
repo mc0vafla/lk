@@ -172,3 +172,8 @@ chars = "/run/media/helminth/MNT/"
 key = "j"
 mods = "Alt"
 chars = " > /dev/null 2>&1"
+
+[[keyboard.bindings]]
+key = "h"
+mods = "Alt"
+chars = "nvim ~/.config/tmux/tmux.conf \n"
