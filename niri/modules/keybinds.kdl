@@ -54,6 +54,8 @@ binds {
 
     mod+x { set-column-width "-10%"; }
     mod+c { set-column-width "+10%"; }
+    mod+j { set-window-height "+10%"; }
+    mod+k { set-window-height "-10%"; }
 
     Mod+z       { toggle-window-floating; }
 
