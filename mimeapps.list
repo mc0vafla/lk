@@ -40,7 +40,7 @@ text/plain=nvim.desktop;
 image/jpeg=userapp-alacritty -e fish -c y-TTVBT3.desktop;userapp-fish -c y-Y577S3.desktop;
 application/x-7z-compressed=xarchiver.desktop;
 image/gif=vlc.desktop;imv.desktop;
-application/x-msdownload=userapp-umu-run-625LU3.desktop;
+application/x-msdownload=userapp-umu-run-625LU3.desktop;userapp-sh -c umu-run-TILRU3.desktop;userapp-alacritty -e fish -c umu-run-NW0PU3.desktop;userapp-alacritty -e umu-run-TGI6U3.desktop;
 audio/mpeg=userapp-alacritty -e mpv-N17VU3.desktop;
 application/octet-stream=userapp-imv-WR9AV3.desktop;
 
