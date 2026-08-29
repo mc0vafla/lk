@@ -174,6 +174,6 @@ mods = "Alt"
 chars = " > /dev/null 2>&1"
 
 [[keyboard.bindings]]
-key = "h"
-mods = "Alt"
+key = "s"
+mods = "Alt | Shift"
 chars = "nvim ~/.config/tmux/tmux.conf \n"
