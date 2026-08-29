@@ -58,6 +58,8 @@ binds {
     mod+k { set-window-height "-10%"; }
 
     Mod+z       { toggle-window-floating; }
+    mod+shift+s { switch-focus-between-floating-and-tiling; }
+    mod+shift+w { switch-focus-between-floating-and-tiling; }
 
     alt+1 { screenshot show-pointer=false; }
     alt+2 { screenshot-screen show-pointer=false; }
