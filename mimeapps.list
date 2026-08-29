@@ -24,6 +24,7 @@ image/gif=imv.desktop
 application/x-gnome-saved-search=pcmanfm.desktop
 application/x-msdownload=userapp-umu-run-625LU3.desktop
 audio/mpeg=userapp-alacritty -e mpv-N17VU3.desktop
+application/octet-stream=userapp-imv-WR9AV3.desktop
 
 [Added Associations]
 x-scheme-handler/http=zen.desktop;xfce4-web-browser.desktop;
@@ -41,5 +42,6 @@ application/x-7z-compressed=xarchiver.desktop;
 image/gif=vlc.desktop;imv.desktop;
 application/x-msdownload=userapp-umu-run-625LU3.desktop;
 audio/mpeg=userapp-alacritty -e mpv-N17VU3.desktop;
+application/octet-stream=userapp-imv-WR9AV3.desktop;
 
 [Removed Associations]
