@@ -196,7 +196,7 @@ alias mr="doas nvim /etc/pacman.d/mirrorlist"
 alias dwvd="yt-dlp --merge-output-format mp4 -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]'"
 alias qp="pacman -Qtt | fzf"
 alias dw="yt-dlp -t mp3"
-alias k="optionmusic ."
+alias d="optionmusic ."
 alias dwsp="spotdl"
 
 function fish_user_key_bindings
