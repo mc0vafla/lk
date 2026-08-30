@@ -1,0 +1,18 @@
+filename = 'windowfix-fabric-1.0.1+mc26.1.jar'
+name = 'WindowFix'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2', '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = '1486633dcb0dba8e3a62c099555839f7a09f185ee354bab478f7d76c1135f17edbededc8034cd9e3ca5ff850a2d9e8ec2c26d1ed0f499603ee1fa5764c6c563c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QTr3mqAi/versions/njdOMVEv/windowfix-fabric-1.0.1%2Bmc26.1.jar'
+
+[update.modrinth]
+mod-id = 'QTr3mqAi'
+version = 'njdOMVEv'

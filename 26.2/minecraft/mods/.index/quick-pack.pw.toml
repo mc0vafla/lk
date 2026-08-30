@@ -1,0 +1,18 @@
+filename = 'quick-pack-fabric-1.5.0+26.2.jar'
+name = 'quick pack'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabric-1.5.0+26.2'
+
+[download]
+hash = 'e78e78a4db111afdacff6dc079598bc1a767a628260b8de91f5d768aa043d2eb04ea483eb35fc779a45f361a1e09f3768ab5f06441fb84803da1cf2006f0cc77'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pSISfJ4O/versions/qkkuAg94/quick-pack-fabric-1.5.0%2B26.2.jar'
+
+[update.modrinth]
+mod-id = 'pSISfJ4O'
+version = 'qkkuAg94'

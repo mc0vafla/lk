@@ -1,0 +1,22 @@
+{
+  "hideMainMenuFriends": true,
+  "hideMainMenuSingleplayer": false,
+  "hideMainMenuMultiplayer": false,
+  "hideMainMenuRealms": false,
+  "hideMainMenuOptions": false,
+  "hideMainMenuQuit": false,
+  "hideMainMenuAccessibility": true,
+  "hideMainMenuLanguage": false,
+  "hideMainMenuModMenu": false,
+  "hidePauseMenuFriends": true,
+  "hidePauseMenuReturnToGame": false,
+  "hidePauseMenuAdvancements": true,
+  "hidePauseMenuStats": true,
+  "hidePauseMenuSendFeedback": true,
+  "hidePauseMenuReportBugs": true,
+  "hidePauseMenuShareToLan": false,
+  "hidePauseMenuDisconnect": false,
+  "hidePauseMenuOptions": false,
+  "hidePauseMenuModMenu": false,
+  "hidePauseMenuReportPlayers": true
+}

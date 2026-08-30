@@ -1,0 +1,22 @@
+filename = 'nvidium-0.4.4-beta5-26.2.jar'
+name = 'Nvidium'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.4.4-beta5-26.2'
+
+[download]
+hash = 'ec89cf2b052c13ce850f42bd1928bab5dd2adccb7e5ed271cfed4fe48944a5a848f636e34402100a598e85223fe90aadafdb059a13b1c6f117bb3ec08cfc47f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SfMw2IZN/versions/8srLBUtB/nvidium-0.4.4-beta5-26.2.jar'
+
+[update.modrinth]
+mod-id = 'SfMw2IZN'
+version = '8srLBUtB'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AANobbMI'
+type = 'REQUIRED'
+version = '2Yom1N68'
