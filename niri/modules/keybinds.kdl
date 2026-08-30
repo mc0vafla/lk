@@ -25,7 +25,7 @@ binds {
     Mod+d     { focus-column-right; }
 
     Mod+Ctrl+a  { move-column-left; }
-    Mod+Ctrl+d { move-column-right; }
+    Mod+Ctrl+d  { move-column-right; }
 
     Mod+s     { focus-window-or-workspace-down; }
     Mod+w     { focus-window-or-workspace-up; }
@@ -33,7 +33,7 @@ binds {
     Mod+Ctrl+w     { move-window-up-or-to-workspace-up; }
 
     Mod+1  { focus-monitor-left; }
-    Mod+2 { focus-monitor-right; }
+    Mod+2  { focus-monitor-right; }
 
     Mod+Ctrl+1 { move-column-to-monitor-left; }
     Mod+ctrl+2 { move-column-to-monitor-right; }
@@ -42,7 +42,7 @@ binds {
     Mod+Shift+WheelScrollUp        cooldown-ms=50 { focus-workspace-up; }
 
     Mod+WheelScrollDown      { focus-column-right; }
-    Mod+WheelScrollUp       { focus-column-left; }
+    Mod+WheelScrollUp        { focus-column-left; }
 
     Mod+Shift+a  { consume-or-expel-window-left; }
     Mod+Shift+d  { consume-or-expel-window-right; }
