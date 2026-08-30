@@ -84,7 +84,7 @@ if test "$USER" = "helminth"
   if set -q NVIM 
     clear
   else if test "$TERM" = "alacritty"
-    set -gx PATH /usr/sbin /home/helminth/.local/bin $PATH
+    set -gx PATH /usr/sbin /home/helminth/.local/bin /home/helminth/.cargo/bin $PATH
     clear
     fastfetch
     echo ""
@@ -101,7 +101,7 @@ alias gd="git diff"
 alias na="j pcmanfm ."
 alias x="ping google.com"
 alias xx="ip link"
-alias qd="ncdu / -rr"
+alias qd="dua i /"
 alias cd="z"
 alias f="fastfetch; echo ''"
 alias b="btop"
@@ -196,7 +196,8 @@ alias mr="doas nvim /etc/pacman.d/mirrorlist"
 alias dwvd="yt-dlp --merge-output-format mp4 -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]'"
 alias qp="pacman -Qtt | fzf"
 alias dw="yt-dlp -t mp3"
-alias d="optionmusic ."
+alias k="optionmusic ."
+alias d="dua ."
 alias dwsp="spotdl"
 
 function fish_user_key_bindings
