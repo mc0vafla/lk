@@ -1,0 +1,78 @@
+binds {
+
+    Mod+Shift+v     { spawn-sh "noctalia msg panel-toggle session"; }
+    Mod+u           { spawn-sh "pkill Telegram; pkill vesktop; pkill spotify; pkill zen"; }
+
+    Mod+o           { spawn-sh "env __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only /usr/bin/steam"; }
+    Mod+i           { spawn-sh "steam +open steam://open/settings"; }
+    Mod+space       { switch-layout "next"; }
+    Mod+shift+e     { spawn-sh "noctalia msg settings-toggle"; }
+    Mod+e           { spawn-sh "noctalia msg panel-toggle control-center"; }
+    Mod+escape      { spawn-sh "pcmanfm -n ~/"; }
+    Mod+b           { spawn-sh "alacritty -e fish -c b"; }
+    mod+r           { spawn-sh "noctalia msg session lock"; }
+    mod+4           { spawn-sh "noctalia msg panel-toggle session"; }
+    mod+shift+f     { spawn-sh "noctalia msg nightlight-toggle"; }
+
+    alt+tab         { spawn-sh "noctalia msg media next"; }
+    alt+ctrl+tab    { spawn-sh "noctalia msg media previous"; }
+    alt+shift+tab   { spawn-sh "noctalia msg media toggle"; }
+
+    Mod+return { spawn "alacritty"; }
+    Mod+Shift+return { spawn "alacritty"; }
+    mod+v { spawn-sh "noctalia msg panel-toggle launcher"; }
+
+    Mod+Tab repeat=false { toggle-overview; }
+
+    Mod+Q repeat=false { close-window; }
+
+    Mod+a     { focus-column-left; }
+    Mod+d     { focus-column-right; }
+
+    Mod+Ctrl+a  { move-column-left; }
+    Mod+Ctrl+d  { move-column-right; }
+
+    Mod+s     { focus-window-or-workspace-down; }
+    Mod+w     { focus-window-or-workspace-up; }
+    Mod+Ctrl+s     { move-window-down-or-to-workspace-down; }
+    Mod+Ctrl+w     { move-window-up-or-to-workspace-up; }
+
+    Mod+1  { focus-monitor-left; }
+    Mod+2  { focus-monitor-right; }
+
+    Mod+Ctrl+1 { move-column-to-monitor-left; }
+    Mod+ctrl+2 { move-column-to-monitor-right; }
+
+    Mod+Shift+WheelScrollDown      cooldown-ms=50 { focus-workspace-down; }
+    Mod+Shift+WheelScrollUp        cooldown-ms=50 { focus-workspace-up; }
+
+    Mod+WheelScrollDown      { focus-column-right; }
+    Mod+WheelScrollUp        { focus-column-left; }
+
+    Mod+Shift+a  { consume-or-expel-window-left; }
+    Mod+Shift+d  { consume-or-expel-window-right; }
+
+    mod+3 { maximize-column; }
+    Mod+F { fullscreen-window; }
+
+    alt+space { center-column; }
+
+    mod+x { set-column-width "-10%"; }
+    mod+c { set-column-width "+10%"; }
+    mod+h { set-column-width "-10%"; }
+    mod+l { set-column-width "+10%"; }
+    mod+j { set-window-height "+10%"; }
+    mod+k { set-window-height "-10%"; }
+
+    Mod+z       { toggle-window-floating; }
+    mod+shift+s { switch-focus-between-floating-and-tiling; }
+    mod+shift+w { switch-focus-between-floating-and-tiling; }
+
+    alt+1 { screenshot show-pointer=false; }
+    alt+2 { screenshot-screen show-pointer=false; }
+    print { screenshot-screen show-pointer=false; }
+    alt+3 { screenshot-window show-pointer=false; }
+    alt+4 { spawn-sh "hyprpicker | wl-copy; noctalia msg notification-show Hyprpicker Color was copied";}
+
+    Mod+m { quit; }
+}

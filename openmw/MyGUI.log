@@ -1,0 +1,212 @@
+09:19:31  |  Platform  |  Info  |  * Initialise: RenderManager  |  /usr/src/debug/openmw-git/openmw/components/myguiplatform/myguirendermanager.cpp  |  377
+09:19:31  |  Platform  |  Info  |  RenderManager successfully initialized  |  /usr/src/debug/openmw-git/openmw/components/myguiplatform/myguirendermanager.cpp  |  401
+09:19:31  |  Core  |  Info  |  * Initialise: Gui  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Gui.cpp  |  44
+09:19:31  |  Core  |  Info  |  * MyGUI version 3.4.3  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Gui.cpp  |  46
+09:19:31  |  Core  |  Info  |  * Initialise: ResourceManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  31
+09:19:31  |  Core  |  Info  |  ResourceManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  39
+09:19:31  |  Core  |  Info  |  * Initialise: LayerManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  32
+09:19:31  |  Core  |  Info  |  LayerManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  40
+09:19:31  |  Core  |  Info  |  * Initialise: WidgetManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  51
+09:19:31  |  Core  |  Info  |  WidgetManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  82
+09:19:31  |  Core  |  Info  |  * Initialise: InputManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_InputManager.cpp  |  34
+09:19:31  |  Core  |  Info  |  InputManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_InputManager.cpp  |  57
+09:19:31  |  Core  |  Info  |  * Initialise: SubWidgetManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  35
+09:19:31  |  Core  |  Info  |  SubWidgetManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  55
+09:19:31  |  Core  |  Info  |  * Initialise: SkinManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  35
+09:19:31  |  Core  |  Info  |  SkinManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  46
+09:19:31  |  Core  |  Info  |  * Initialise: FontManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_FontManager.cpp  |  31
+09:19:31  |  Core  |  Info  |  FontManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_FontManager.cpp  |  42
+09:19:31  |  Core  |  Info  |  * Initialise: ControllerManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  32
+09:19:31  |  Core  |  Info  |  ControllerManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  41
+09:19:31  |  Core  |  Info  |  * Initialise: PointerManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  38
+09:19:31  |  Core  |  Info  |  PointerManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  58
+09:19:31  |  Core  |  Info  |  * Initialise: ClipboardManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  31
+09:19:31  |  Core  |  Info  |  ClipboardManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  38
+09:19:31  |  Core  |  Info  |  * Initialise: LayoutManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  27
+09:19:31  |  Core  |  Info  |  LayoutManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  35
+09:19:31  |  Core  |  Info  |  * Initialise: DynLibManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  25
+09:19:31  |  Core  |  Info  |  DynLibManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  29
+09:19:31  |  Core  |  Info  |  * Initialise: PluginManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  28
+09:19:31  |  Core  |  Info  |  PluginManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  33
+09:19:31  |  Core  |  Info  |  * Initialise: LanguageManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  29
+09:19:31  |  Core  |  Info  |  LanguageManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  34
+09:19:31  |  Core  |  Info  |  * Initialise: FactoryManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  24
+09:19:31  |  Core  |  Info  |  FactoryManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  26
+09:19:31  |  Core  |  Info  |  * Initialise: ToolTipManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  26
+09:19:31  |  Core  |  Info  |  ToolTipManager successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  38
+09:19:31  |  Core  |  Info  |  Gui successfully initialized  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Gui.cpp  |  93
+09:19:31  |  Core  |  Info  |  ResourceTrueTypeFont: Font '' using texture size 512 x 512.  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  761
+09:19:31  |  Core  |  Info  |  ResourceTrueTypeFont: Font '' using real height 34 pixels.  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  765
+09:19:31  |  Core  |  Info  |  ResourceTrueTypeFont: Font '' using texture size 512 x 512.  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  761
+09:19:31  |  Core  |  Info  |  ResourceTrueTypeFont: Font '' using real height 36 pixels.  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceTrueTypeFont.cpp  |  765
+09:19:31  |  Core  |  Info  |  Load ini file 'skins.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'core.skin'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_resources.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Warning  |  duplicate resource name 'MW_ItemIcon'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  92
+09:19:31  |  Core  |  Warning  |  duplicate resource name 'MW_ItemIconNoShadow'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  92
+09:19:31  |  Core  |  Warning  |  duplicate resource name 'MW_ItemIconSmall'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  92
+09:19:31  |  Core  |  Warning  |  duplicate resource name 'MW_ItemIconBox'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  92
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_text.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_windows.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Warning  |  duplicate resource name 'HB_BR_B'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  92
+09:19:31  |  Core  |  Warning  |  duplicate resource name 'HB_BL_B'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  92
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_button.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_list.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_edit.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_box.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_progress.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_hud_energybar.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_hud_box.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_mainmenu.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_console.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_journal.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_map_window.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_dialogue_window.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_scroll.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_debug_window.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_postprocessor_hud.skin.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_layers.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_pointer.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_settings.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:31  |  Core  |  Info  |  Load ini file 'openmw_lua.xml'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  115
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_T_ST' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_ST_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_B_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_T_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_B_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_T_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_B_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_T_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_B_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_TL_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_BL_TRANS' not found. Replaced with default skin. [openmw_spell_buying_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_T_ST' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_ST_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_B_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_T_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_B_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_T_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_B_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_T_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_B_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_TL_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_BL_TRANS' not found. Replaced with default skin. [openmw_travel_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_T_ST' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_ST_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_B_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_T_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_B_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_T_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_B_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_T_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_B_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_TL_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_BL_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_TL_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_BL_TRANS' not found. Replaced with default skin. [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Warning  |  Widget '0x558dd3bc3dd0_History|BookPage' have unknown property 'FontName'  [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dd3bc3dd0_History|BookPage' have unknown property 'TextAlign'  [openmw_dialogue_window.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Error  |  Skin 'HUD_MouseEmulationCursor' not found. Replaced with default skin. [openmw_hud.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_T_ST' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_ST_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_B_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_T_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_B_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_T_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_B_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_T_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_B_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_TL_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_BL_TRANS' not found. Replaced with default skin. [openmw_trainingwindow.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_T_ST' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_ST_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TL_B_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_T_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_TR_B_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_T_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BL_B_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_T_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'TB_BR_B_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_TL_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Error  |  Skin 'IB_BL_TRANS' not found. Replaced with default skin. [openmw_merchantrepair.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnLStickText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnRStickText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnDpadText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnAText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnMenuText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnViewText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnL1Text|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnR1Text|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnYText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnL3Text|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnR3Text|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnL2Text|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnR2Text|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnXText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:19:32  |  Core  |  Warning  |  Widget '0x558dcf8921d0_BtnBText|AutoSizedTextBox' have unknown property 'ReadOnly'  [openmw_controllerbuttons.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:22:15  |  Core  |  Warning  |  Widget '0x558dda71edf0_Text|TextBox' have unknown property 'WordWrap'  [openmw_infobox.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:22:18  |  Core  |  Warning  |  Widget '0x558ddb952890_MajorSkillT|TextBox' have unknown property 'MultiLine'  [openmw_chargen_create_class.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:22:18  |  Core  |  Warning  |  Widget '0x558ddb952890_MajorSkillT|TextBox' have unknown property 'WordWrap'  [openmw_chargen_create_class.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:24:22  |  Core  |  Warning  |  Widget '0x558dd8f9ba00_Health|MWDynamicStat' have unknown property 'Caption'  [openmw_chargen_review.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:24:22  |  Core  |  Warning  |  Widget '0x558dd8f9ba00_Magicka|MWDynamicStat' have unknown property 'Caption'  [openmw_chargen_review.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:24:22  |  Core  |  Warning  |  Widget '0x558dd8f9ba00_Fatigue|MWDynamicStat' have unknown property 'Caption'  [openmw_chargen_review.layout]  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Widget.cpp  |  1282
+09:24:27  |  Core  |  Error  |  Skin 'Widget' not found. Replaced with default skin. []  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:24:40  |  Core  |  Error  |  Skin 'Widget' not found. Replaced with default skin. []  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  92
+09:48:32  |  Core  |  Info  |  * Shutdown: Gui  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Gui.cpp  |  107
+09:48:32  |  Core  |  Info  |  * Shutdown: PointerManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  65
+09:48:32  |  Core  |  Info  |  PointerManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_PointerManager.cpp  |  82
+09:48:32  |  Core  |  Info  |  * Shutdown: InputManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_InputManager.cpp  |  64
+09:48:32  |  Core  |  Info  |  InputManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_InputManager.cpp  |  69
+09:48:32  |  Core  |  Info  |  * Shutdown: SkinManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  53
+09:48:32  |  Core  |  Info  |  SkinManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SkinManager.cpp  |  60
+09:48:32  |  Core  |  Info  |  * Shutdown: SubWidgetManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  62
+09:48:32  |  Core  |  Info  |  SubWidgetManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_SubWidgetManager.cpp  |  82
+09:48:32  |  Core  |  Info  |  * Shutdown: LayerManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  47
+09:48:32  |  Core  |  Info  |  destroy layer 'Scene'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'FadeToBlack'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'HitOverlay'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'HUD'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'JournalBooks'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Windows'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'DragAndDrop'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'DrowningBar'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'MainMenuBackground'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'MainMenu'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Settings'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'ControllerButtons'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'LoadingScreenBackground'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'LoadingScreen'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Debug'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Console'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Modal'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Popup'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Notification'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Video'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'InputBlocker'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  destroy layer 'Pointer'  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  207
+09:48:32  |  Core  |  Info  |  LayerManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayerManager.cpp  |  58
+09:48:32  |  Core  |  Info  |  * Shutdown: FontManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_FontManager.cpp  |  49
+09:48:32  |  Core  |  Info  |  FontManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_FontManager.cpp  |  57
+09:48:32  |  Core  |  Info  |  * Shutdown: ControllerManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  48
+09:48:32  |  Core  |  Info  |  ControllerManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ControllerManager.cpp  |  58
+09:48:32  |  Core  |  Info  |  * Shutdown: ClipboardManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  45
+09:48:32  |  Core  |  Info  |  ClipboardManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ClipboardManager.cpp  |  53
+09:48:32  |  Core  |  Info  |  * Shutdown: LayoutManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  42
+09:48:32  |  Core  |  Info  |  LayoutManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LayoutManager.cpp  |  49
+09:48:32  |  Core  |  Info  |  * Shutdown: PluginManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  40
+09:48:32  |  Core  |  Info  |  PluginManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_PluginManager.cpp  |  45
+09:48:32  |  Core  |  Info  |  * Shutdown: DynLibManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  36
+09:48:32  |  Core  |  Info  |  DynLibManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_DynLibManager.cpp  |  43
+09:48:32  |  Core  |  Info  |  * Shutdown: LanguageManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  41
+09:48:32  |  Core  |  Info  |  LanguageManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_LanguageManager.cpp  |  45
+09:48:32  |  Core  |  Info  |  * Shutdown: ResourceManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  46
+09:48:32  |  Core  |  Info  |  ResourceManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ResourceManager.cpp  |  56
+09:48:32  |  Core  |  Info  |  * Shutdown: FactoryManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  33
+09:48:32  |  Core  |  Info  |  FactoryManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_FactoryManager.cpp  |  35
+09:48:32  |  Core  |  Info  |  * Shutdown: ToolTipManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  45
+09:48:32  |  Core  |  Info  |  ToolTipManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_ToolTipManager.cpp  |  50
+09:48:32  |  Core  |  Info  |  * Shutdown: WidgetManager  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  89
+09:48:32  |  Core  |  Info  |  WidgetManager successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_WidgetManager.cpp  |  98
+09:48:32  |  Core  |  Info  |  Gui successfully shutdown  |  /usr/src/debug/mygui-openmw/mygui-MyGUI3.4.3/MyGUIEngine/src/MyGUI_Gui.cpp  |  153
+09:48:32  |  Platform  |  Info  |  * Shutdown: RenderManager  |  /usr/src/debug/openmw-git/openmw/components/myguiplatform/myguirendermanager.cpp  |  362
+09:48:32  |  Platform  |  Info  |  RenderManager successfully shutdown  |  /usr/src/debug/openmw-git/openmw/components/myguiplatform/myguirendermanager.cpp  |  370

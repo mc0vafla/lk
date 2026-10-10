@@ -1,0 +1,9 @@
+fov 110
+fov
+help fov
+tcl
+player->AddSpell "porphyric hemophilia"
+Player->AddSpell "vampire blood aundae"
+tcl
+player->additem "Maras_Blouse" 1
+tcl

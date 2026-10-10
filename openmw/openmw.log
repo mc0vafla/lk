@@ -1,0 +1,535 @@
+[09:19:31.176 *] Crash handler installed
+[09:19:31.306 *] Loading config file: /usr/etc/openmw/../openmw/openmw.cfg
+[09:19:31.307 *] Loading config file: /home/helminth/.config/openmw/openmw.cfg
+[09:19:31.308 *] Logs dir: /home/helminth/.config/openmw/
+[09:19:31.308 *] User data dir: /home/helminth/.local/share/openmw/
+[09:19:31.308 *] Screenshots dir: /home/helminth/.local/share/openmw/screenshots
+[09:19:31.308 I] OpenMW version 0.52.0
+[09:19:31.308 I] Revision: 3ee798e988
+[09:19:31.308 I] Loading settings file: /usr/etc/openmw/../openmw/defaults.bin
+[09:19:31.309 I] Loading settings file: /home/helminth/.config/openmw/settings.cfg
+[09:19:31.309 I] Using Cyrillic font encoding.
+[09:19:31.324 I] OSG version: 3.6.5
+[09:19:31.324 I] SDL version: 2.32.72
+[09:19:31.324 I] Loading shader settings file: /home/helminth/.config/openmw/shaders.yaml
+[09:19:31.435 I] OpenGL Vendor: AMD
+[09:19:31.435 I] OpenGL Renderer: AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.64, 7.2.7-zen1-1-zen)
+[09:19:31.435 I] OpenGL Version: 4.6 (Compatibility Profile) Mesa 26.2.3-arch1.1
+[09:19:31.435 I] Using reverse-z depth buffer
+[09:19:31.435 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Morrowind.bsa
+[09:19:31.438 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Tribunal.bsa
+[09:19:31.438 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Bloodmoon.bsa
+[09:19:31.439 I] Adding data directory /usr/share/games/openmw/resources/vfs
+[09:19:31.439 I] Adding data directory /usr/share/games/openmw/resources/vfs-mw
+[09:19:31.439 I] Adding data directory /home/helminth/Desktop/mwmods/00 Animated Main Menu
+[09:19:31.439 I] Adding data directory /home/helminth/Desktop/mwmods/main 54985 0.6.7 2026-06-24T12-26Z DBQdB8qp
+[09:19:31.439 I] Adding data directory /home/helminth/Desktop/mwmods/Enchant icons-50028-1-0-0-1625760268/Malachite/Data Files
+[09:19:31.439 I] Adding data directory /home/helminth/Desktop/mwmods/Ultimate Icon Replacer v1-36948-1
+[09:19:31.441 I] Adding data directory /home/helminth/Desktop/mwmods/MET 6-1 main
+[09:19:31.447 I] Adding data directory /home/helminth/Desktop/mwmods/Immersive Loading Screens (OpenMW)
+[09:19:31.448 I] Adding data directory /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk2.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/BILL_diedog.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwoman1.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/bill_nogooddeed.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname1.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenBoat2.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenName3.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname2.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargendock1.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/BILL_assantus.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/Slpr_004.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenDock3.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenBoat1.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwoman2.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk3.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargendock2.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk1.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.451 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname4.mp3', please check your file system for two files with the same name in different cases.
+[09:19:31.460 I] Adding data directory /home/helminth/.local/share/openmw/data
+[09:19:31.468 I] Preferred locales: gmst en
+[09:19:31.468 I] Initializing LuaUtil::LuaState without profiler
+[09:19:31.468 I] Lua version: Lua 5.1.4 (LuaJIT 2.1.1788856981)
+[09:19:31.468 I] Loading keybindings file: /home/helminth/.config/openmw/input_v3.xml
+[09:19:31.468 I] Loading bitmap font file fonts/magic_cards_regular.fnt
+[09:19:31.471 I] Loading bitmap font file fonts/daedric_font.fnt
+[09:19:31.472 I] Loading TrueType font file fonts/dejavulgcsansmono.omwfont
+[09:19:31.488 I] Initializing OpenAL...
+[09:19:31.492 I] Opened "Ryzen HD Audio Controller Analog Stereo"
+[09:19:31.492 I]   ALC Version: 1.1
+[09:19:31.492 I]   ALC Extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_debug ALC_EXT_DEDICATED ALC_EXT_direct_context ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_device_clock ALC_SOFT_HRTF ALC_SOFT_loopback ALC_SOFT_loopback_bformat ALC_SOFT_output_limiter ALC_SOFT_output_mode ALC_SOFT_pause_device ALC_SOFT_reopen_device ALC_SOFT_system_events
+[09:19:31.500 I]   Vendor: OpenAL Community
+[09:19:31.500 I]   Renderer: OpenAL Soft
+[09:19:31.500 I]   Version: 1.1 ALSOFT 1.25.2
+[09:19:31.500 I]   Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_debug AL_EXT_direct_context AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STATIC_BUFFER AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_bformat_ex AL_SOFT_bformat_hoa AL_SOFT_block_alignment AL_SOFT_buffer_length_query AL_SOFT_callback_buffer AL_SOFTX_convolution_effect AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFT_direct_channels_remix AL_SOFT_effect_target AL_SOFT_events AL_SOFT_gain_clamp_ex AL_SOFTX_hold_on_disconnect AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFTX_source_panning AL_SOFT_source_resampler AL_SOFT_source_spatialize AL_SOFT_source_start_delay AL_SOFT_UHJ AL_SOFT_UHJ_ex
+[09:19:31.500 I] HRTF disabled
+[09:19:31.500 V] Using idle priority for thread=140466796340928
+[09:19:31.500 I] Allocated 256 sound sources
+[09:19:31.500 I] Low-pass filter supported
+[09:19:31.500 I] EAX Reverb supported
+[09:19:31.500 I] Enumerated output devices:
+[09:19:31.500 I]   Ryzen HD Audio Controller Analog Stereo  Renoir/Cezanne HDMI/DP Audio Controller Digital Stereo (HDMI) [L22i-40]
+[09:19:31.500 I] Enumerated HRTF names:
+[09:19:31.500 I]   Default HRTF  Built-In HRTF
+[09:19:31.500 V] Using idle priority for thread=140466787948224
+[09:19:31.508 I] Loading Lua storage "/home/helminth/.config/openmw/global_storage.bin" (140 bytes)
+[09:19:31.508 I] Loading Lua storage "/home/helminth/.config/openmw/player_storage.bin" (4333 bytes)
+[09:19:31.514 E] Failed to open video: Resource 'video/bethesda logo.bik.bak' not found
+[09:19:31.514 I] Loading content file builtin.omwscripts
+[09:19:31.514 I] Loading content file Morrowind.esm
+[09:19:31.581 W] Scaling image 'splash/45.jpg' from (1920,1080) to (2048,1024)
+[09:19:31.738 I] Loading content file Tribunal.esm
+[09:19:31.774 I] Loading content file Bloodmoon.esm
+[09:19:31.813 V] Lua scripts configuration (43 scripts):
+[09:19:31.813 V] #0 MENU PLAYER : scripts/omw/mwui/init.lua
+[09:19:31.813 V] #1 MENU : scripts/omw/settings/menu.lua
+[09:19:31.813 V] #2 PLAYER : scripts/omw/settings/player.lua
+[09:19:31.813 V] #3 GLOBAL : scripts/omw/settings/global.lua
+[09:19:31.813 V] #4 GLOBAL : scripts/omw/activationhandlers.lua
+[09:19:31.813 V] #5 GLOBAL : scripts/omw/usehandlers.lua
+[09:19:31.813 V] #6 GLOBAL : scripts/omw/worldeventhandlers.lua
+[09:19:31.813 V] #7 GLOBAL : scripts/omw/crimes.lua
+[09:19:31.813 V] #8 PLAYER CREATURE NPC : scripts/omw/mechanics/animationcontroller.lua
+[09:19:31.813 V] #9 PLAYER : scripts/omw/skillhandlers.lua
+[09:19:31.813 V] #10 PLAYER : scripts/omw/mechanics/playercontroller.lua
+[09:19:31.813 V] #11 MENU : scripts/omw/camera/settings.lua
+[09:19:31.813 V] #12 MENU : scripts/omw/input/settings.lua
+[09:19:31.813 V] #13 PLAYER : scripts/omw/input/playercontrols.lua
+[09:19:31.813 V] #14 PLAYER : scripts/omw/camera/camera.lua
+[09:19:31.813 V] #15 PLAYER : scripts/omw/input/actionbindings.lua
+[09:19:31.813 V] #16 PLAYER : scripts/omw/input/smoothmovement.lua
+[09:19:31.813 V] #17 PLAYER : scripts/omw/input/gamepadcontrols.lua
+[09:19:31.813 V] #18 NPC CREATURE : scripts/omw/ai.lua
+[09:19:31.813 V] #19 GLOBAL : scripts/omw/mechanics/globalcontroller.lua
+[09:19:31.813 V] #20 PLAYER CREATURE NPC : scripts/omw/mechanics/actorcontroller.lua
+[09:19:31.813 V] #21 PLAYER NPC CREATURE : scripts/omw/combat/interface_local.lua
+[09:19:31.813 V] #22 GLOBAL : scripts/omw/combat/interface_global.lua
+[09:19:31.813 V] #23 PLAYER CREATURE NPC : scripts/omw/spellcasting/interface_local.lua
+[09:19:31.813 V] #24 GLOBAL : scripts/omw/spellcasting/interface_global.lua
+[09:19:31.813 V] #25 GLOBAL : scripts/omw/mechanics/projectiles.lua
+[09:19:31.813 V] #26 PLAYER : scripts/omw/ui.lua
+[09:19:31.813 V] #27 MENU : scripts/omw/console/menu.lua
+[09:19:31.813 V] #28 PLAYER : scripts/omw/console/player.lua
+[09:19:31.813 V] #29 GLOBAL : scripts/omw/console/global.lua
+[09:19:31.813 V] #30 CUSTOM : scripts/omw/console/local.lua
+[09:19:31.813 V] #31 NPC CREATURE : scripts/omw/music/actor.lua
+[09:19:31.813 V] #32 GLOBAL : scripts/omw/cellhandlers.lua
+[09:19:31.813 V] #33 GLOBAL : scripts/omw/combat/global.lua
+[09:19:31.813 V] #34 PLAYER : scripts/omw/combat/settingspage.lua
+[09:19:31.813 V] #35 PLAYER NPC CREATURE : scripts/omw/combat/local.lua
+[09:19:31.813 V] #36 PLAYER : scripts/omw/music/music.lua
+[09:19:31.813 V] #37 MENU : scripts/omw/music/settings.lua
+[09:19:31.813 V] #38 PLAYER : scripts/omw/playerskillhandlers.lua
+[09:19:31.813 V] #39 LOAD : scripts/omw/esmfallbacks.lua
+[09:19:31.813 V] #40 PLAYER CREATURE NPC : scripts/omw/spellcasting/local.lua
+[09:19:31.813 V] #41 DOOR CONTAINER : scripts/omw/spellcasting/lockable.lua
+[09:19:31.813 V] #42 GLOBAL : scripts/omw/spellcasting/global.lua
+[09:19:31.852 V] Enchantment "test magic axe": dropping unexpected skill argument of "FortifyMaximumMagicka" effect
+[09:19:31.993 I] Using 1 async physics threads
+[09:19:31.994 I] Using /home/helminth/.local/share/openmw/navmesh.db to store navigation mesh cache
+[09:19:31.994 V] Using idle priority for thread=140466534209216
+[09:19:31.994 V] Failed to warm sound sound/fx/jetsons doorbell.mp3: Resource 'sound/fx/jetsons doorbell.mp3' not found
+[09:19:31.994 I] Reserving texture units for shadow maps: 29..31
+[09:19:31.995 I] Reserving texture unit for opaque color texture: 28
+[09:19:31.995 I] Reserving texture unit for opaque depth texture: 27
+[09:19:31.995 V] Disabling Multiview (disabled by config)
+[09:19:31.999 V] Language file "l10n/Interface/gmst.yaml" is enabled
+[09:19:32.000 V] Language file "l10n/Interface/en.yaml" is enabled
+[09:19:32.021 V] Language file "l10n/OMWEngine/gmst.yaml" is enabled
+[09:19:32.022 V] Language file "l10n/OMWEngine/en.yaml" is enabled
+[09:19:32.033 V] Failed to warm sound sound/cr/sggn/sggn magic.mp3: Resource 'sound/cr/sggn/sggn magic.mp3' not found
+[09:19:32.044 V] Language file "l10n/OMWShaders/en.yaml" is enabled
+[09:19:32.050 V] Failed to warm sound sound/vo/v/cratk_nf002.mp3: Resource 'sound/vo/v/cratk_nf002.mp3' not found
+[09:19:32.050 V] Failed to warm sound sound/vo/v/cratk_nf003.mp3: Resource 'sound/vo/v/cratk_nf003.mp3' not found
+[09:19:32.050 V] Failed to warm sound sound/vo/v/cratk_nf004.mp3: Resource 'sound/vo/v/cratk_nf004.mp3' not found
+[09:19:32.050 V] Failed to warm sound sound/vo/v/cratk_nf005.mp3: Resource 'sound/vo/v/cratk_nf005.mp3' not found
+[09:19:32.137 V] Language file "l10n/OMWCamera/en.yaml" is enabled
+[09:19:32.140 V] Language file "l10n/OMWControls/en.yaml" is enabled
+[09:19:32.140 V] Language file "l10n/interface/gmst.yaml" is enabled
+[09:19:32.140 V] Language file "l10n/interface/en.yaml" is enabled
+[09:19:32.141 V] Language file "l10n/Calendar/gmst.yaml" is enabled
+[09:19:32.141 V] Language file "l10n/Calendar/en.yaml" is enabled
+[09:19:32.141 V] Language file "l10n/OMWMusic/en.yaml" is enabled
+[09:19:32.161 I] Playing "music/special/morrowind title.mp3"
+[09:19:32.161 E] Failed to open video: Resource 'video/mw_logo.bik.bak' not found
+[09:19:34.486 I] Starting a new game
+[09:19:34.491 V] Language file "l10n/Mechanics/gmst.yaml" is enabled
+[09:19:34.539 I] Changing to interior
+[09:19:34.539 I] Loading cell Imperial Prison Ship
+[09:19:34.555 W] Scaling image 'splash/7.jpg' from (1920,1080) to (2048,1024)
+[09:19:36.283 V] Language file "l10n/OMWCombat/en.yaml" is enabled
+[09:19:36.311 I] Playing "music/explore/mx_explore_5.mp3"
+[09:19:36.361 V] Controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+[09:20:31.290 I] AiTravel: 90, -90, -88
+[09:20:50.910 I] AiEscort: 195, 100, 170, 12
+[09:21:08.653 I] Unloading cell Imperial Prison Ship
+[09:21:08.654 I] Loading cell Seyda Neen (-2, -9)
+[09:21:08.689 I] Loading cell Bitter Coast Region (-2, -8)
+[09:21:08.692 I] Loading cell Bitter Coast Region (-1, -9)
+[09:21:08.695 I] Loading cell Bitter Coast Region (-3, -9)
+[09:21:08.711 I] Loading cell Seyda Neen (-2, -10)
+[09:21:08.711 I] Warning: lookoutScript[local variables] line 41, column 37 (=): invalid operator =, treating it as ==
+[09:21:08.717 I] Loading cell Ascadian Isles Region (-1, -8)
+[09:21:08.719 I] Loading cell Bitter Coast Region (-3, -8)
+[09:21:08.722 I] Loading cell Bitter Coast Region (-1, -10)
+[09:21:08.724 I] Loading cell Bitter Coast Region (-3, -10)
+[09:21:08.748 I] AiTravel: -8914, -73093, 126
+[09:21:08.748 I] Warning: lookoutScript line 41, column 37 (=): invalid operator =, treating it as ==
+[09:21:08.748 I] Warning: fallingScript line 46, column 6 (endif): endif without matching if/elseif
+[09:22:00.929 I] AiTravel: -9944, -72481, 126
+[09:22:05.216 I] Changing to interior
+[09:22:05.216 I] Unloading cell Seyda Neen (-2, -9)
+[09:22:05.221 I] Unloading cell Bitter Coast Region (-2, -8)
+[09:22:05.222 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:22:05.224 I] Unloading cell Seyda Neen (-2, -10)
+[09:22:05.225 I] Unloading cell Bitter Coast Region (-3, -10)
+[09:22:05.226 I] Unloading cell Ascadian Isles Region (-1, -8)
+[09:22:05.226 I] Unloading cell Bitter Coast Region (-1, -10)
+[09:22:05.227 I] Unloading cell Bitter Coast Region (-1, -9)
+[09:22:05.227 I] Unloading cell Bitter Coast Region (-3, -9)
+[09:22:05.230 I] Loading cell Seyda Neen, Census and Excise Office
+[09:22:47.675 I] Playing "music/explore/mx_explore_6.mp3"
+[09:24:43.618 I] Unloading cell Seyda Neen, Census and Excise Office
+[09:24:43.620 I] Loading cell Seyda Neen (-2, -9)
+[09:24:43.626 I] Loading cell Bitter Coast Region (-2, -8)
+[09:24:43.628 I] Loading cell Bitter Coast Region (-1, -9)
+[09:24:43.630 I] Loading cell Bitter Coast Region (-3, -9)
+[09:24:43.632 I] Loading cell Seyda Neen (-2, -10)
+[09:24:43.634 I] Loading cell Ascadian Isles Region (-1, -8)
+[09:24:43.635 I] Loading cell Bitter Coast Region (-3, -8)
+[09:24:43.637 I] Loading cell Bitter Coast Region (-1, -10)
+[09:24:43.638 I] Loading cell Bitter Coast Region (-3, -10)
+[09:24:53.512 I] Changing to interior
+[09:24:53.512 I] Unloading cell Seyda Neen (-2, -9)
+[09:24:53.516 I] Unloading cell Bitter Coast Region (-2, -8)
+[09:24:53.517 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:24:53.518 I] Unloading cell Seyda Neen (-2, -10)
+[09:24:53.519 I] Unloading cell Bitter Coast Region (-3, -10)
+[09:24:53.519 I] Unloading cell Ascadian Isles Region (-1, -8)
+[09:24:53.520 I] Unloading cell Bitter Coast Region (-1, -10)
+[09:24:53.520 I] Unloading cell Bitter Coast Region (-1, -9)
+[09:24:53.521 I] Unloading cell Bitter Coast Region (-3, -9)
+[09:24:53.522 I] Loading cell Seyda Neen, Census and Excise Office
+[09:24:53.528 W] Not enough cell preloader cache capacity to preload exterior cells, consider increasing "preload cell cache max" up to 21
+[09:25:01.466 W] Warning:: Compressed osg::Image not a power of two, cannot apply to texture.
+[09:25:10.999 I] Unloading cell Seyda Neen, Census and Excise Office
+[09:25:11.001 I] Loading cell Seyda Neen (-2, -9)
+[09:25:11.008 I] Loading cell Bitter Coast Region (-2, -8)
+[09:25:11.010 I] Loading cell Bitter Coast Region (-1, -9)
+[09:25:11.012 I] Loading cell Bitter Coast Region (-3, -9)
+[09:25:11.014 I] Loading cell Seyda Neen (-2, -10)
+[09:25:11.016 I] Loading cell Ascadian Isles Region (-1, -8)
+[09:25:11.018 I] Loading cell Bitter Coast Region (-3, -8)
+[09:25:11.020 I] Loading cell Bitter Coast Region (-1, -10)
+[09:25:11.022 I] Loading cell Bitter Coast Region (-3, -10)
+[09:25:22.568 I] Making a screenshot for saved game 'Quicksave'
+[09:25:22.620 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:25:22.624 I] 'Quicksave' is saved in 57.0751ms
+[09:25:40.532 I] Making a screenshot for saved game 'Quicksave'
+[09:25:40.577 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:25:40.581 I] 'Quicksave' is saved in 49.7212ms
+[09:26:00.785 I] Playing "music/explore/mx_explore_2.mp3"
+[09:26:03.820 I] Unloading cell Seyda Neen (-2, -10)
+[09:26:03.822 I] Unloading cell Bitter Coast Region (-3, -10)
+[09:26:03.822 I] Unloading cell Bitter Coast Region (-1, -10)
+[09:26:03.824 I] Loading cell Ascadian Isles Region (-2, -7)
+[09:26:03.827 I] Loading cell Ascadian Isles Region (-1, -7)
+[09:26:03.830 I] Loading cell Ascadian Isles Region (-3, -7)
+[09:26:38.602 I] Unloading cell Ascadian Isles Region (-1, -8)
+[09:26:38.603 I] Unloading cell Bitter Coast Region (-1, -9)
+[09:26:38.604 I] Unloading cell Ascadian Isles Region (-1, -7)
+[09:26:38.606 I] Loading cell Bitter Coast Region (-4, -8)
+[09:26:38.610 I] Loading cell Bitter Coast Region (-4, -7)
+[09:26:38.612 I] Loading cell Bitter Coast Region (-4, -9)
+[09:26:51.261 I] Making a screenshot for saved game 'Quicksave'
+[09:26:51.304 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:26:51.308 I] 'Quicksave' is saved in 48.5907ms
+[09:26:56.873 I] Playing "music/battle/mw battle3.mp3"
+[09:28:04.615 I] Playing "music/explore/mx_explore_3.mp3"
+[09:28:14.112 I] Making a screenshot for saved game 'Autosave'
+[09:28:14.155 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:28:14.160 I] 'Autosave' is saved in 49.9018ms
+[09:28:29.086 I] Unloading cell Seyda Neen (-2, -9)
+[09:28:29.088 I] Unloading cell Bitter Coast Region (-3, -9)
+[09:28:29.089 I] Unloading cell Bitter Coast Region (-4, -9)
+[09:28:29.090 I] Loading cell Ascadian Isles Region (-3, -6)
+[09:28:29.106 I] Loading cell Ascadian Isles Region (-2, -6)
+[09:28:29.115 I] Loading cell Bitter Coast Region (-4, -6)
+[09:28:40.837 I] Unloading cell Bitter Coast Region (-2, -8)
+[09:28:40.838 I] Unloading cell Ascadian Isles Region (-2, -7)
+[09:28:40.839 I] Unloading cell Ascadian Isles Region (-2, -6)
+[09:28:40.841 I] Loading cell Bitter Coast Region (-5, -7)
+[09:28:40.844 I] Loading cell Bitter Coast Region (-5, -6)
+[09:28:40.846 I] Loading cell Bitter Coast Region (-5, -8)
+[09:28:54.369 I] Making a screenshot for saved game 'Quicksave'
+[09:28:54.412 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:28:54.416 I] 'Quicksave' is saved in 49.7908ms
+[09:28:56.861 I] Playing "music/battle/mw battle1.mp3"
+[09:29:41.703 I] Playing "music/explore/mx_explore_7.mp3"
+[09:29:44.427 I] Making a screenshot for saved game 'Autosave'
+[09:29:44.465 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:29:44.469 I] 'Autosave' is saved in 44.1435ms
+[09:29:45.875 I] Playing "music/battle/mw battle5.mp3"
+[09:31:19.065 I] Playing "music/explore/mx_explore_4.mp3"
+[09:31:40.611 I] Making a screenshot for saved game 'Autosave'
+[09:31:40.652 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:31:40.656 I] 'Autosave' is saved in 46.0187ms
+[09:31:42.539 I] Making a screenshot for saved game 'Quicksave'
+[09:31:42.579 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:31:42.584 I] 'Quicksave' is saved in 44.8374ms
+[09:31:43.951 I] Changing to interior
+[09:31:43.951 I] Unloading cell Bitter Coast Region (-5, -8)
+[09:31:43.952 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:31:43.953 I] Unloading cell Bitter Coast Region (-4, -7)
+[09:31:43.953 I] Unloading cell Bitter Coast Region (-4, -6)
+[09:31:43.954 I] Unloading cell Ascadian Isles Region (-3, -6)
+[09:31:43.954 I] Unloading cell Ascadian Isles Region (-3, -7)
+[09:31:43.955 I] Unloading cell Bitter Coast Region (-5, -7)
+[09:31:43.955 I] Unloading cell Bitter Coast Region (-4, -8)
+[09:31:43.956 I] Unloading cell Bitter Coast Region (-5, -6)
+[09:31:43.957 I] Loading cell Zainsipilu
+[09:31:45.106 I] Playing "music/battle/mw battle 4.mp3"
+[09:31:58.777 I] Playing "music/special/mw_death.mp3"
+[09:31:58.831 I] Unloading cell Zainsipilu
+[09:31:58.850 I] Reading save file Quicksave - 4.omwsave
+[09:31:58.861 I] Loading saved game 'Quicksave' for character 'Кайзер'
+[09:31:58.875 W] Scaling image 'splash/66.jpg' from (1920,1080) to (2048,1024)
+[09:31:58.999 I] Loading cell Bitter Coast Region (-4, -7)
+[09:31:59.002 I] Loading cell Bitter Coast Region (-4, -6)
+[09:31:59.003 I] Loading cell Ascadian Isles Region (-3, -7)
+[09:31:59.005 I] Loading cell Bitter Coast Region (-5, -7)
+[09:31:59.006 I] Loading cell Bitter Coast Region (-4, -8)
+[09:31:59.007 I] Loading cell Ascadian Isles Region (-3, -6)
+[09:31:59.009 I] Loading cell Bitter Coast Region (-5, -6)
+[09:31:59.010 I] Loading cell Bitter Coast Region (-3, -8)
+[09:31:59.014 I] Loading cell Bitter Coast Region (-5, -8)
+[09:31:59.053 I] Playing "music/explore/mx_explore_1.mp3"
+[09:32:01.056 I] Changing to interior
+[09:32:01.056 I] Unloading cell Ascadian Isles Region (-3, -6)
+[09:32:01.058 I] Unloading cell Ascadian Isles Region (-3, -7)
+[09:32:01.059 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:32:01.061 I] Unloading cell Bitter Coast Region (-4, -7)
+[09:32:01.061 I] Unloading cell Bitter Coast Region (-5, -8)
+[09:32:01.062 I] Unloading cell Bitter Coast Region (-4, -8)
+[09:32:01.062 I] Unloading cell Bitter Coast Region (-5, -7)
+[09:32:01.063 I] Unloading cell Bitter Coast Region (-5, -6)
+[09:32:01.063 I] Unloading cell Bitter Coast Region (-4, -6)
+[09:32:01.064 I] Loading cell Zainsipilu
+[09:32:02.125 I] Playing "music/battle/mw battle 7.mp3"
+[09:32:16.644 I] Unloading cell Zainsipilu
+[09:32:16.663 I] Reading save file Quicksave - 4.omwsave
+[09:32:16.675 I] Loading saved game 'Quicksave' for character 'Кайзер'
+[09:32:16.733 I] Loading cell Bitter Coast Region (-4, -7)
+[09:32:16.735 I] Loading cell Bitter Coast Region (-4, -6)
+[09:32:16.737 I] Loading cell Ascadian Isles Region (-3, -7)
+[09:32:16.738 I] Loading cell Bitter Coast Region (-5, -7)
+[09:32:16.739 I] Loading cell Bitter Coast Region (-4, -8)
+[09:32:16.740 I] Loading cell Ascadian Isles Region (-3, -6)
+[09:32:16.742 I] Loading cell Bitter Coast Region (-5, -6)
+[09:32:16.743 I] Loading cell Bitter Coast Region (-3, -8)
+[09:32:16.746 I] Loading cell Bitter Coast Region (-5, -8)
+[09:32:16.783 I] Playing "music/explore/morrowind title.mp3"
+[09:32:18.604 I] Changing to interior
+[09:32:18.604 I] Unloading cell Bitter Coast Region (-4, -7)
+[09:32:18.605 I] Unloading cell Bitter Coast Region (-4, -8)
+[09:32:18.606 I] Unloading cell Ascadian Isles Region (-3, -7)
+[09:32:18.607 I] Unloading cell Bitter Coast Region (-4, -6)
+[09:32:18.608 I] Unloading cell Ascadian Isles Region (-3, -6)
+[09:32:18.608 I] Unloading cell Bitter Coast Region (-5, -6)
+[09:32:18.609 I] Unloading cell Bitter Coast Region (-5, -7)
+[09:32:18.610 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:32:18.610 I] Unloading cell Bitter Coast Region (-5, -8)
+[09:32:18.612 I] Loading cell Zainsipilu
+[09:32:26.957 I] Playing "music/battle/mw battle 8.mp3"
+[09:32:41.152 I] Unloading cell Zainsipilu
+[09:32:41.193 I] Reading save file Quicksave - 4.omwsave
+[09:32:41.195 I] Loading saved game 'Quicksave' for character 'Кайзер'
+[09:32:41.215 W] Scaling image 'splash/47.jpg' from (1920,1080) to (2048,1024)
+[09:32:41.347 I] Loading cell Bitter Coast Region (-4, -7)
+[09:32:41.351 I] Loading cell Bitter Coast Region (-4, -6)
+[09:32:41.352 I] Loading cell Ascadian Isles Region (-3, -7)
+[09:32:41.354 I] Loading cell Bitter Coast Region (-5, -7)
+[09:32:41.356 I] Loading cell Bitter Coast Region (-4, -8)
+[09:32:41.357 I] Loading cell Ascadian Isles Region (-3, -6)
+[09:32:41.360 I] Loading cell Bitter Coast Region (-5, -6)
+[09:32:41.362 I] Loading cell Bitter Coast Region (-3, -8)
+[09:32:41.365 I] Loading cell Bitter Coast Region (-5, -8)
+[09:32:41.412 I] Playing "music/explore/mx_explore_2.mp3"
+[09:32:43.252 I] Changing to interior
+[09:32:43.252 I] Unloading cell Bitter Coast Region (-5, -7)
+[09:32:43.254 I] Unloading cell Bitter Coast Region (-4, -6)
+[09:32:43.256 I] Unloading cell Ascadian Isles Region (-3, -6)
+[09:32:43.257 I] Unloading cell Bitter Coast Region (-5, -8)
+[09:32:43.258 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:32:43.260 I] Unloading cell Bitter Coast Region (-4, -7)
+[09:32:43.260 I] Unloading cell Ascadian Isles Region (-3, -7)
+[09:32:43.261 I] Unloading cell Bitter Coast Region (-4, -8)
+[09:32:43.262 I] Unloading cell Bitter Coast Region (-5, -6)
+[09:32:43.263 I] Loading cell Zainsipilu
+[09:32:44.355 I] Playing "music/battle/mw battle2.mp3"
+[09:33:06.161 I] Unloading cell Zainsipilu
+[09:33:06.164 I] Loading cell Bitter Coast Region (-4, -7)
+[09:33:06.166 I] Loading cell Bitter Coast Region (-4, -6)
+[09:33:06.168 I] Loading cell Ascadian Isles Region (-3, -7)
+[09:33:06.170 I] Loading cell Bitter Coast Region (-5, -7)
+[09:33:06.172 I] Loading cell Bitter Coast Region (-4, -8)
+[09:33:06.173 I] Loading cell Ascadian Isles Region (-3, -6)
+[09:33:06.175 I] Loading cell Bitter Coast Region (-5, -6)
+[09:33:06.177 I] Loading cell Bitter Coast Region (-3, -8)
+[09:33:06.179 I] Loading cell Bitter Coast Region (-5, -8)
+[09:33:07.149 I] Making a screenshot for saved game 'Autosave'
+[09:33:07.197 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:33:07.203 I] 'Autosave' is saved in 54.5659ms
+[09:33:07.208 I] Playing "music/explore/mx_explore_6.mp3"
+[09:33:08.609 I] Changing to interior
+[09:33:08.609 I] Unloading cell Bitter Coast Region (-5, -7)
+[09:33:08.610 I] Unloading cell Bitter Coast Region (-4, -6)
+[09:33:08.611 I] Unloading cell Ascadian Isles Region (-3, -6)
+[09:33:08.612 I] Unloading cell Bitter Coast Region (-5, -8)
+[09:33:08.612 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:33:08.613 I] Unloading cell Bitter Coast Region (-4, -7)
+[09:33:08.613 I] Unloading cell Ascadian Isles Region (-3, -7)
+[09:33:08.614 I] Unloading cell Bitter Coast Region (-4, -8)
+[09:33:08.615 I] Unloading cell Bitter Coast Region (-5, -6)
+[09:33:08.616 I] Loading cell Zainsipilu
+[09:33:09.672 I] Playing "music/battle/mw battle 4.mp3"
+[09:34:04.982 I] Unloading cell Zainsipilu
+[09:34:05.002 I] Reading save file Autosave - 3.omwsave
+[09:34:05.019 I] Loading saved game 'Autosave' for character 'Кайзер'
+[09:34:05.031 W] Scaling image 'splash/49.jpg' from (1920,1080) to (2048,1024)
+[09:34:05.163 I] Loading cell Bitter Coast Region (-4, -7)
+[09:34:05.167 I] Loading cell Bitter Coast Region (-4, -6)
+[09:34:05.168 I] Loading cell Ascadian Isles Region (-3, -7)
+[09:34:05.169 I] Loading cell Bitter Coast Region (-5, -7)
+[09:34:05.172 I] Loading cell Bitter Coast Region (-4, -8)
+[09:34:05.173 I] Loading cell Ascadian Isles Region (-3, -6)
+[09:34:05.175 I] Loading cell Bitter Coast Region (-5, -6)
+[09:34:05.176 I] Loading cell Bitter Coast Region (-3, -8)
+[09:34:05.180 I] Loading cell Bitter Coast Region (-5, -8)
+[09:34:05.227 I] Playing "music/explore/mx_explore_5.mp3"
+[09:34:06.859 I] Changing to interior
+[09:34:06.859 I] Unloading cell Bitter Coast Region (-4, -7)
+[09:34:06.860 I] Unloading cell Bitter Coast Region (-5, -7)
+[09:34:06.861 I] Unloading cell Bitter Coast Region (-5, -8)
+[09:34:06.861 I] Unloading cell Ascadian Isles Region (-3, -7)
+[09:34:06.862 I] Unloading cell Bitter Coast Region (-4, -6)
+[09:34:06.862 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:34:06.863 I] Unloading cell Bitter Coast Region (-4, -8)
+[09:34:06.864 I] Unloading cell Ascadian Isles Region (-3, -6)
+[09:34:06.864 I] Unloading cell Bitter Coast Region (-5, -6)
+[09:34:06.866 I] Loading cell Zainsipilu
+[09:34:07.909 I] Playing "music/battle/mw battle 7.mp3"
+[09:34:08.301 I] Unloading cell Zainsipilu
+[09:34:08.332 I] Reading save file Autosave - 3.omwsave
+[09:34:08.344 I] Loading saved game 'Autosave' for character 'Кайзер'
+[09:34:08.412 I] Loading cell Bitter Coast Region (-4, -7)
+[09:34:08.415 I] Loading cell Bitter Coast Region (-4, -6)
+[09:34:08.417 I] Loading cell Ascadian Isles Region (-3, -7)
+[09:34:08.419 I] Loading cell Bitter Coast Region (-5, -7)
+[09:34:08.420 I] Loading cell Bitter Coast Region (-4, -8)
+[09:34:08.422 I] Loading cell Ascadian Isles Region (-3, -6)
+[09:34:08.424 I] Loading cell Bitter Coast Region (-5, -6)
+[09:34:08.426 I] Loading cell Bitter Coast Region (-3, -8)
+[09:34:08.429 I] Loading cell Bitter Coast Region (-5, -8)
+[09:34:08.469 I] Playing "music/explore/morrowind title.mp3"
+[09:34:09.459 I] Making a screenshot for saved game 'Autosave'
+[09:34:09.499 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:34:09.506 I] 'Autosave' is saved in 47.5366ms
+[09:34:10.651 I] Changing to interior
+[09:34:10.651 I] Unloading cell Bitter Coast Region (-5, -6)
+[09:34:10.652 I] Unloading cell Bitter Coast Region (-3, -8)
+[09:34:10.654 I] Unloading cell Bitter Coast Region (-4, -8)
+[09:34:10.654 I] Unloading cell Bitter Coast Region (-5, -7)
+[09:34:10.655 I] Unloading cell Ascadian Isles Region (-3, -7)
+[09:34:10.656 I] Unloading cell Bitter Coast Region (-4, -6)
+[09:34:10.656 I] Unloading cell Ascadian Isles Region (-3, -6)
+[09:34:10.657 I] Unloading cell Bitter Coast Region (-4, -7)
+[09:34:10.657 I] Unloading cell Bitter Coast Region (-5, -8)
+[09:34:10.659 I] Loading cell Zainsipilu
+[09:34:11.742 I] Playing "music/battle/mw battle2.mp3"
+[09:35:55.710 I] Playing "music/explore/mx_explore_3.mp3"
+[09:35:57.534 I] Making a screenshot for saved game 'Autosave'
+[09:35:57.576 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:35:57.582 I] 'Autosave' is saved in 48.0127ms
+[09:36:01.989 I] Making a screenshot for saved game 'Quicksave'
+[09:36:02.034 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:36:02.040 I] 'Quicksave' is saved in 52.0105ms
+[09:36:07.376 I] Playing "music/battle/mw battle 8.mp3"
+[09:37:29.369 I] Playing "music/explore/mx_explore_7.mp3"
+[09:37:41.299 I] Making a screenshot for saved game 'Autosave'
+[09:37:41.338 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:37:41.347 I] 'Autosave' is saved in 48.3066ms
+[09:37:42.661 I] Making a screenshot for saved game 'Quicksave'
+[09:37:42.704 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:37:42.710 I] 'Quicksave' is saved in 49.3972ms
+[09:37:51.956 I] Playing "music/battle/mw battle1.mp3"
+[09:39:58.693 I] Playing "music/battle/mw battle3.mp3"
+[09:40:21.955 I] Playing "music/explore/mx_explore_1.mp3"
+[09:41:15.652 I] Making a screenshot for saved game 'Autosave'
+[09:41:15.688 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:41:15.694 I] 'Autosave' is saved in 42.8363ms
+[09:41:17.057 I] Playing "music/special/mw_triumph.mp3"
+[09:41:31.820 I] Playing "music/explore/mx_explore_4.mp3"
+[09:41:33.437 I] Making a screenshot for saved game 'Quicksave'
+[09:41:33.483 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:41:33.489 I] 'Quicksave' is saved in 52.0664ms
+[09:41:39.259 I] Making a screenshot for saved game 'Autosave'
+[09:41:39.296 I] Writing saved game 'Autosave' for character 'Кайзер'
+[09:41:39.302 I] 'Autosave' is saved in 44.0876ms
+[09:41:40.498 I] Making a screenshot for saved game 'Quicksave'
+[09:41:40.544 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:41:40.551 I] 'Quicksave' is saved in 54.082ms
+[09:42:01.172 I] Playing "music/battle/mw battle5.mp3"
+[09:42:16.792 I] Unloading cell Zainsipilu
+[09:42:16.823 I] Reading save file Quicksave - 8.omwsave
+[09:42:16.842 I] Loading saved game 'Quicksave' for character 'Кайзер'
+[09:42:16.855 W] Scaling image 'splash/44.jpg' from (1920,1080) to (2048,1024)
+[09:42:16.992 I] Changing to interior
+[09:42:16.992 I] Loading cell Zainsipilu
+[09:42:17.080 I] Playing "music/explore/mx_explore_7.mp3"
+[09:43:18.738 I] Playing "music/battle/mw battle1.mp3"
+[09:43:57.997 I] Unloading cell Zainsipilu
+[09:43:58.025 I] Reading save file Quicksave - 8.omwsave
+[09:43:58.036 I] Loading saved game 'Quicksave' for character 'Кайзер'
+[09:43:58.050 W] Scaling image 'splash/57.jpg' from (1920,1080) to (2048,1024)
+[09:43:58.186 I] Changing to interior
+[09:43:58.186 I] Loading cell Zainsipilu
+[09:43:58.263 I] Playing "music/explore/mx_explore_5.mp3"
+[09:44:19.729 I] Playing "music/battle/mw battle5.mp3"
+[09:44:22.831 I] Unloading cell Zainsipilu
+[09:44:22.853 I] Reading save file Quicksave - 8.omwsave
+[09:44:22.871 I] Loading saved game 'Quicksave' for character 'Кайзер'
+[09:44:22.883 W] Scaling image 'splash/27.jpg' from (1920,1080) to (2048,1024)
+[09:44:23.018 I] Changing to interior
+[09:44:23.018 I] Loading cell Zainsipilu
+[09:44:23.106 I] Playing "music/explore/mx_explore_2.mp3"
+[09:44:56.365 I] Playing "music/battle/mw battle 4.mp3"
+[09:45:11.959 I] Unloading cell Zainsipilu
+[09:45:11.989 I] Reading save file Quicksave - 8.omwsave
+[09:45:12.008 I] Loading saved game 'Quicksave' for character 'Кайзер'
+[09:45:12.021 W] Scaling image 'splash/54.jpg' from (1920,1080) to (2048,1024)
+[09:45:12.151 I] Changing to interior
+[09:45:12.151 I] Loading cell Zainsipilu
+[09:45:12.228 I] Playing "music/explore/mx_explore_6.mp3"
+[09:45:14.435 I] Making a screenshot for saved game 'Quicksave'
+[09:45:14.480 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:45:14.487 I] 'Quicksave' is saved in 54.0207ms
+[09:46:34.594 I] Playing "music/battle/mw battle2.mp3"
+[09:48:26.977 I] Unloading cell Zainsipilu
+[09:48:26.999 I] Reading save file Quicksave - 9.omwsave
+[09:48:27.019 I] Loading saved game 'Quicksave' for character 'Кайзер'
+[09:48:27.033 W] Scaling image 'splash/26.jpg' from (1920,1080) to (2048,1024)
+[09:48:27.168 I] Changing to interior
+[09:48:27.168 I] Loading cell Zainsipilu
+[09:48:27.251 I] Playing "music/explore/mx_explore_4.mp3"
+[09:48:30.994 I] Making a screenshot for saved game 'Quicksave'
+[09:48:31.036 I] Writing saved game 'Quicksave' for character 'Кайзер'
+[09:48:31.043 I] 'Quicksave' is saved in 52.0461ms
+[09:48:32.378 V] Changed setting: [Map] global = true
+[09:48:32.378 V] Changed setting: [Saves] character = ______
+[09:48:32.378 I] Updating settings file: /home/helminth/.config/openmw/settings.cfg
+[09:48:32.378 I] Saving shader settings file: /home/helminth/.config/openmw/shaders.yaml
+[09:48:32.379 I] Saving Lua storage "/home/helminth/.config/openmw/global_storage.bin" (140 bytes)
+[09:48:32.379 I] Saving Lua storage "/home/helminth/.config/openmw/player_storage.bin" (4333 bytes)
+[09:48:32.512 I] Saved input bindings: /home/helminth/.config/openmw/input_v3.xml
+[09:48:32.595 I] Quitting peacefully.

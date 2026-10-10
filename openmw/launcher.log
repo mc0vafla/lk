@@ -1,0 +1,7 @@
+[22:48:34.850 *] Crash handler installed
+[22:48:34.938 I] Loading config file: /home/helminth/.config/openmw/launcher.cfg
+[22:48:34.954 I] Loading config file: /usr/etc/openmw/../openmw/openmw.cfg
+[22:48:34.955 I] Loading config file: /home/helminth/.config/openmw/openmw.cfg
+[22:48:34.962 I] Loading settings file: /usr/etc/openmw/../openmw/defaults.bin
+[22:48:34.962 I] Loading settings file: /home/helminth/.config/openmw/settings.cfg
+[22:48:35.063 W] qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
