@@ -81,7 +81,7 @@ recent-windows {
       urgent-color "#3C3835"
     }
     binds {
-      alt+tab { next-window; }
-      alt+shift+tab { previous-window; }
+      alt+tab { next-window scope="output"; }
+      alt+shift+tab { previous-window scope="output"; }
     }
 }
