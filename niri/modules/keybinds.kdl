@@ -5,20 +5,20 @@ binds {
 
     Mod+o           { spawn-sh "env __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only /usr/bin/steam"; }
     Mod+i           { spawn-sh "steam +open steam://open/settings"; }
-    Mod+space       { switch-layout "next"; }
-    Mod+shift+e     { spawn-sh "noctalia msg settings-toggle"; }
+    Mod+Space       { switch-layout "next"; }
+    Mod+Shift+e     { spawn-sh "noctalia msg settings-toggle"; }
     Mod+e           { spawn-sh "noctalia msg panel-toggle control-center"; }
-    Mod+escape      { spawn-sh "pcmanfm -n ~/"; }
+    Mod+Escape      { spawn-sh "pcmanfm -n ~/"; }
     Mod+b           { spawn-sh "alacritty -e fish -c b"; }
-    mod+r           { spawn-sh "noctalia msg session lock"; }
+    Mod+r           { spawn-sh "noctalia msg session lock"; }
 
-    alt+space         { spawn-sh "noctalia msg media next"; }
-    alt+ctrl+space    { spawn-sh "noctalia msg media previous"; }
-    alt+shift+space   { spawn-sh "noctalia msg media toggle"; }
+    Alt+Space         { spawn-sh "noctalia msg media next"; }
+    Alt+ctrl+Space    { spawn-sh "noctalia msg media previous"; }
+    Alt+Shift+Space   { spawn-sh "noctalia msg media toggle"; }
 
     Mod+return { spawn "alacritty"; }
     Mod+Shift+return { spawn "alacritty"; }
-    mod+v { spawn-sh "noctalia msg panel-toggle launcher"; }
+    Mod+v { spawn-sh "noctalia msg panel-toggle launcher"; }
 
     Mod+Tab repeat=false { toggle-overview; }
 
@@ -50,25 +50,25 @@ binds {
     Mod+Shift+a  { consume-or-expel-window-left; }
     Mod+Shift+d  { consume-or-expel-window-right; }
 
-    mod+3 { maximize-column; }
-    Mod+F { fullscreen-window; }
+    Mod+3 { maximize-column; }
+    Mod+f { fullscreen-window; }
 
-    mod+z { center-column; }
+    Mod+z { center-column; }
 
-    mod+x { set-column-width "-10%"; }
-    mod+c { set-column-width "+10%"; }
-    mod+h { set-column-width "-10%"; }
-    mod+l { set-column-width "+10%"; }
-    mod+j { set-window-height "+10%"; }
-    mod+k { set-window-height "-10%"; }
+    Mod+x { set-column-width "-10%"; }
+    Mod+c { set-column-width "+10%"; }
+    Mod+h { set-column-width "-10%"; }
+    Mod+l { set-column-width "+10%"; }
+    Mod+j { set-window-height "+10%"; }
+    Mod+k { set-window-height "-10%"; }
 
-    Mod+shift+f { toggle-window-floating; }
+    Mod+Shift+f { toggle-window-floating; }
 
-    alt+1 { screenshot show-pointer=false; }
-    alt+2 { screenshot-screen show-pointer=false; }
+    Alt+1 { screenshot show-pointer=false; }
+    Alt+2 { screenshot-screen show-pointer=false; }
     print { screenshot-screen show-pointer=false; }
-    alt+3 { screenshot-window show-pointer=false; }
-    alt+4 { spawn-sh "hyprpicker | wl-copy; noctalia msg notification-show Hyprpicker Color was copied";}
+    Alt+3 { screenshot-window show-pointer=false; }
+    Alt+4 { spawn-sh "hyprpicker | wl-copy; noctalia msg notification-show Hyprpicker Color was copied";}
 
     Mod+m { quit; }
 }
@@ -81,7 +81,7 @@ recent-windows {
       urgent-color "#3C3835"
     }
     binds {
-      alt+tab { next-window scope="output"; }
-      alt+shift+tab { previous-window scope="output"; }
+      Alt+Tab { next-window scope="output"; }
+      Alt+Shift+Tab { previous-window scope="output"; }
     }
 }
