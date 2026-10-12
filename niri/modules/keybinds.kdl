@@ -11,12 +11,11 @@ binds {
     Mod+escape      { spawn-sh "pcmanfm -n ~/"; }
     Mod+b           { spawn-sh "alacritty -e fish -c b"; }
     mod+r           { spawn-sh "noctalia msg session lock"; }
-    mod+4           { spawn-sh "noctalia msg panel-toggle session"; }
-    mod+shift+f     { spawn-sh "noctalia msg nightlight-toggle"; }
+    mod+shift+q     { spawn-sh "noctalia msg panel-toggle session"; }
 
-    alt+tab         { spawn-sh "noctalia msg media next"; }
-    alt+ctrl+tab    { spawn-sh "noctalia msg media previous"; }
-    alt+shift+tab   { spawn-sh "noctalia msg media toggle"; }
+    alt+space         { spawn-sh "noctalia msg media next"; }
+    alt+ctrl+space    { spawn-sh "noctalia msg media previous"; }
+    alt+shift+space   { spawn-sh "noctalia msg media toggle"; }
 
     Mod+return { spawn "alacritty"; }
     Mod+Shift+return { spawn "alacritty"; }
@@ -55,7 +54,7 @@ binds {
     mod+3 { maximize-column; }
     Mod+F { fullscreen-window; }
 
-    alt+space { center-column; }
+    mod+z { center-column; }
 
     mod+x { set-column-width "-10%"; }
     mod+c { set-column-width "+10%"; }
@@ -64,9 +63,7 @@ binds {
     mod+j { set-window-height "+10%"; }
     mod+k { set-window-height "-10%"; }
 
-    Mod+z       { toggle-window-floating; }
-    mod+shift+s { switch-focus-between-floating-and-tiling; }
-    mod+shift+w { switch-focus-between-floating-and-tiling; }
+    Mod+shift+f { toggle-window-floating; }
 
     alt+1 { screenshot show-pointer=false; }
     alt+2 { screenshot-screen show-pointer=false; }
@@ -75,4 +72,17 @@ binds {
     alt+4 { spawn-sh "hyprpicker | wl-copy; noctalia msg notification-show Hyprpicker Color was copied";}
 
     Mod+m { quit; }
+}
+
+recent-windows {
+    debounce-ms 750
+    open-delay-ms 0
+    highlight {
+      active-color "#ffffff50"
+      urgent-color "#3C3835"
+    }
+    binds {
+      alt+tab { next-window; }
+      alt+shift+tab { previous-window; }
+    }
 }
