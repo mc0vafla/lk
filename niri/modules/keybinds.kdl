@@ -11,7 +11,6 @@ binds {
     Mod+escape      { spawn-sh "pcmanfm -n ~/"; }
     Mod+b           { spawn-sh "alacritty -e fish -c b"; }
     mod+r           { spawn-sh "noctalia msg session lock"; }
-    mod+shift+q     { spawn-sh "noctalia msg panel-toggle session"; }
 
     alt+space         { spawn-sh "noctalia msg media next"; }
     alt+ctrl+space    { spawn-sh "noctalia msg media previous"; }
