@@ -170,10 +170,8 @@ alias qe="ssh-keygen -t ed25519 -C"
 alias wha="paru -Qs"
 alias net="nmtui"
 
-function nrun
-    env __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only > /dev/null 2>&1 &
-    disown
-end
+# nvidia
+# env __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only
 
 alias dc="cd"
 alias sl="ls"
