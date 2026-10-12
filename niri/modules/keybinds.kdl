@@ -77,7 +77,7 @@ recent-windows {
     debounce-ms 750
     open-delay-ms 0
     highlight {
-      active-color "#ffffff50"
+      active-color "#ffffff80"
     }
     binds {
       Alt+Tab { next-window scope="output"; }
