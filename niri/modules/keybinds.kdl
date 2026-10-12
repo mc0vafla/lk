@@ -13,7 +13,7 @@ binds {
     Mod+r           { spawn-sh "noctalia msg session lock"; }
 
     Alt+Space         { spawn-sh "noctalia msg media next"; }
-    Alt+ctrl+Space    { spawn-sh "noctalia msg media previous"; }
+    Alt+Ctrl+Space    { spawn-sh "noctalia msg media previous"; }
     Alt+Shift+Space   { spawn-sh "noctalia msg media toggle"; }
 
     Mod+return { spawn "alacritty"; }
@@ -39,7 +39,7 @@ binds {
     Mod+2  { focus-monitor-right; }
 
     Mod+Ctrl+1 { move-column-to-monitor-left; }
-    Mod+ctrl+2 { move-column-to-monitor-right; }
+    Mod+Ctrl+2 { move-column-to-monitor-right; }
 
     Mod+Shift+WheelScrollDown      cooldown-ms=50 { focus-workspace-down; }
     Mod+Shift+WheelScrollUp        cooldown-ms=50 { focus-workspace-up; }
