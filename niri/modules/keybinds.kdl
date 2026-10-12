@@ -12,8 +12,8 @@ binds {
     Mod+b           { spawn-sh "alacritty -e fish -c b"; }
     Mod+r           { spawn-sh "noctalia msg session lock"; }
 
-    Alt+Shift+w  { spawn-sh "noctalia msg media next"; }
-    Alt+Shift+s   { spawn-sh "noctalia msg media toggle"; }
+    Mod+Shift+w  { spawn-sh "noctalia msg media next"; }
+    Mod+Shift+s   { spawn-sh "noctalia msg media toggle"; }
 
     Mod+Return { spawn "alacritty"; }
     Mod+Shift+Return { spawn "alacritty"; }
