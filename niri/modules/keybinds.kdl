@@ -16,8 +16,8 @@ binds {
     Alt+Ctrl+Space    { spawn-sh "noctalia msg media previous"; }
     Alt+Shift+Space   { spawn-sh "noctalia msg media toggle"; }
 
-    Mod+return { spawn "alacritty"; }
-    Mod+Shift+return { spawn "alacritty"; }
+    Mod+Return { spawn "alacritty"; }
+    Mod+Shift+Return { spawn "alacritty"; }
     Mod+v { spawn-sh "noctalia msg panel-toggle launcher"; }
 
     Mod+Tab repeat=false { toggle-overview; }
