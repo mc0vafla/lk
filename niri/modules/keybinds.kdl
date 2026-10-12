@@ -9,7 +9,7 @@ binds {
     Mod+Shift+e     { spawn-sh "noctalia msg settings-toggle"; }
     Mod+e           { spawn-sh "noctalia msg panel-toggle control-center"; }
     Mod+Escape      { spawn-sh "pcmanfm -n ~/"; }
-    Mod+b           { spawn-sh "alacritty -e fish -c b"; }
+    Mod+b           { spawn-sh "alacritty -e btop"; }
     Mod+r           { spawn-sh "noctalia msg session lock"; }
 
     Mod+Shift+w  { spawn-sh "noctalia msg media next"; }
@@ -21,7 +21,7 @@ binds {
 
     Mod+Tab repeat=false { toggle-overview; }
 
-    Mod+Q repeat=false { close-window; }
+    Mod+q repeat=false { close-window; }
 
     Mod+a     { focus-column-left; }
     Mod+d     { focus-column-right; }
@@ -58,8 +58,8 @@ binds {
     Mod+c { set-column-width "+10%"; }
     Mod+h { set-column-width "-10%"; }
     Mod+l { set-column-width "+10%"; }
-    Mod+j { set-window-height "+10%"; }
     Mod+k { set-window-height "-10%"; }
+    Mod+j { set-window-height "+10%"; }
 
     Mod+Shift+f { toggle-window-floating; }
 
