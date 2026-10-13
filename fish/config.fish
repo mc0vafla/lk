@@ -216,9 +216,7 @@ function fish_user_key_bindings
   bind alt-ctrl-f "123; rp"
   # config
   bind alt-d "nvim ~/.config/alacritty.toml; rp"
-  bind ctrl-alt-d "nvim ~/.config/fish/config.fish; rp"
   bind shift-alt-d "nvim ~/.config/niri/modules/keybinds.kdl; rp"
-  bind ctrl-shift-alt-d "nvim ~/.config/nvim/lua/mappings.lua; rp"
   bind alt-ctrl-s "nvim ~/.config/tmux/tmux.conf; rp"
   bind alt-r "doas nvim /etc/pacman.d/mirrorlist"
   bind alt-shift-s "steam +open steam://open/settings"

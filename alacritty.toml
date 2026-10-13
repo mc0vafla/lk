@@ -77,3 +77,8 @@ chars = "u \n"
 key = "z"
 mods = "Alt"
 chars = "dell \n"
+
+[[keyboard.bindings]]
+key = "d"
+mods = "Control|Alt|Shift"
+chars = "nvim ~/.config/nvim/lua/mappings.lua \n"

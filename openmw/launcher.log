@@ -1,9 +1,17 @@
-[18:00:44.977 *] Crash handler installed
-[18:00:45.164 I] Loading config file: /home/helminth/.config/openmw/launcher.cfg
-[18:00:45.186 I] Loading config file: /usr/etc/openmw/../openmw/openmw.cfg
-[18:00:45.188 I] Loading config file: /home/helminth/.config/openmw/openmw.cfg
-[18:00:45.196 I] Loading settings file: /usr/etc/openmw/../openmw/defaults.bin
-[18:00:45.197 I] Loading settings file: /home/helminth/.config/openmw/settings.cfg
-[18:00:45.352 W] qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
-[18:00:45.357 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55bb8cb92e20 but 0x0 is focused
-[18:00:45.357 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55bb8cb92e20 but 0x0 is focused
+[18:55:44.413 *] Crash handler installed
+[18:55:44.770 I] Loading config file: /home/helminth/.config/openmw/launcher.cfg
+[18:55:44.794 I] Loading config file: /usr/etc/openmw/../openmw/openmw.cfg
+[18:55:44.796 I] Loading config file: /home/helminth/.config/openmw/openmw.cfg
+[18:55:44.799 I] Loading settings file: /usr/etc/openmw/../openmw/defaults.bin
+[18:55:44.800 I] Loading settings file: /home/helminth/.config/openmw/settings.cfg
+[18:55:44.967 W] qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+[18:55:44.987 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:55:44.987 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:56:15.954 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:56:15.954 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:56:18.089 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:56:18.089 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:56:44.020 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:56:44.020 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:56:46.478 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[18:56:46.478 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
