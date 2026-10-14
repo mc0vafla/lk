@@ -1,6 +1,6 @@
-audio.gapless_migrated_to_ps=true
-audio.crossfade_migrated_to_ps=true
-audio.play_bitrate_non_metered_migrated=true
-connect.dial_devices="[]"
 connect.mdns_devices="[]"
-app.player.volume=15502
+connect.dial_devices="[]"
+audio.play_bitrate_non_metered_migrated=true
+audio.crossfade_migrated_to_ps=true
+audio.gapless_migrated_to_ps=true
+app.player.volume=38052
