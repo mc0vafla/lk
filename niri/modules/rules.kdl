@@ -44,6 +44,7 @@ window-rule {
 window-rule {
     match at-startup=true app-id="zen"
     default-column-width { proportion 1.0; }
+    open-fullscreen false
     open-on-workspace "if"
 }
 window-rule {
