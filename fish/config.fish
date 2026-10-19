@@ -217,8 +217,6 @@ function fish_user_key_bindings
   bind ctrl-q "q; rp"
   bind ctrl-f "tmux; rp"
   bind alt-w "na; rp"
-  bind alt-s "b; rp"
-  bind alt-q "qd; rp"
   bind alt-c "gss; rp"
   bind alt-a "upd-grub; rp"
   # reboot and shutdown
