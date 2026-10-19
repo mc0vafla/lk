@@ -200,6 +200,8 @@ alias dw="yt-dlp -t mp3"
 alias k="optionmusic . --cava -q"
 alias d="dua ."
 alias dwsp="spotdl"
+
+#
 alias ap="cd /usr/share/applications/"
 alias er="cd /home/helminth/Desktop/ELDEN RING/Game > /dev/null 2>&1; echo ''; echo Starting elden ring; umu-run eldenring.exe > /dev/null 2>&1"
 alias dmc="cd '/home/helminth/Desktop/Devil May Cry 5 (2019)/Devil May Cry 5' > /dev/null 2>&1; echo ''; echo Starting dmc; umu-run DevilMayCry5.exe > /dev/null 2>&1"
@@ -210,6 +212,7 @@ alias fah2="umu-run '~/Desktop/Fear & Hunger 2 Termina/Game.exe'"
 alias lornslure="umu-run ~/Desktop/lornslure/LornsLure.exe"
 alias votv="umu-run '~/Desktop/votv/VotV.exe'"
 alias backpack="umu-run '~/Desktop/Backpack Hero/Backpack Hero/Backpack Hero.exe'"
+#
 
 function fish_user_key_bindings
   # fast hotkeys
