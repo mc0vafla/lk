@@ -1,10 +1,8 @@
 binds {
 
     Mod+Shift+v     { spawn-sh "noctalia msg panel-toggle session"; }
-    Mod+u           { spawn-sh "pkill Telegram; pkill vesktop; pkill spotify; pkill zen"; }
+    Mod+u           { spawn-sh "pkill Telegram; pkill vesktop; pkill spotify; pkill zen"; } //
 
-    Mod+o           { spawn-sh "env __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only /usr/bin/steam"; }
-    Mod+i           { spawn-sh "steam +open steam://open/settings"; }
     Mod+Space       { switch-layout "next"; }
     Mod+Shift+e     { spawn-sh "noctalia msg settings-toggle"; }
     Mod+e           { spawn-sh "noctalia msg panel-toggle control-center"; }
@@ -56,10 +54,11 @@ binds {
 
     Mod+x { set-column-width "-10%"; }
     Mod+c { set-column-width "+10%"; }
-    Mod+h { set-column-width "-10%"; }
-    Mod+l { set-column-width "+10%"; }
-    Mod+k { set-window-height "-10%"; }
-    Mod+j { set-window-height "+10%"; }
+
+    // Mod+h { set-column-width "-10%"; }
+    // Mod+l { set-column-width "+10%"; }
+    // Mod+k { set-window-height "-10%"; }
+    // Mod+j { set-window-height "+10%"; }
 
     Mod+Shift+f { toggle-window-floating; }
 
