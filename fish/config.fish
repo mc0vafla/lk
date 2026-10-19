@@ -207,6 +207,7 @@ alias bd="clear; env __NV_PRIME_RENDER_OFFLOAD=1 __GL_DXVK_OPTIMIZATIONS=1 __GL_
 
 function fish_user_key_bindings
   # fast hotkeys
+  bind alt-shift-e "dua i; rp"
   bind ctrl-q "q; rp"
   bind ctrl-f "tmux; rp"
   bind alt-w "na; rp"
