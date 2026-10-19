@@ -229,5 +229,5 @@ function fish_user_key_bindings
   bind alt-d "nvim ~/.config/alacritty.toml; rp"
   bind shift-alt-d "nvim ~/.config/niri/modules/keybinds.kdl; rp"
   bind alt-ctrl-d "nvim ~/.config/tmux/tmux.conf; rp"
-  bind alt-r "doas nvim /etc/pacman.d/mirrorlist"
+  bind alt-r "doas nvim /etc/pacman.d/mirrorlist; rp"
 end
