@@ -200,6 +200,9 @@ alias dw="yt-dlp -t mp3"
 alias k="optionmusic . --cava -q"
 alias d="dua ."
 alias dwsp="spotdl"
+alias er="cd /home/helminth/Desktop/ELDEN RING/Game > /dev/null 2>&1; echo ''; echo Starting elden ring; umu-run eldenring.exe > /dev/null 2>&1"
+alias dmc="cd '/home/helminth/Desktop/Devil May Cry 5 (2019)/Devil May Cry 5' > /dev/null 2>&1; echo ''; echo Starting dmc; umu-run DevilMayCry5.exe > /dev/null 2>&1"
+alias bd="clear; env __NV_PRIME_RENDER_OFFLOAD=1 __GL_DXVK_OPTIMIZATIONS=1 __GL_THREADED_OPTIMIZATIONS=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only RADV_PERFTEST=sam,gtt_alloc ~/Desktop/bloodborn/shadPS4QtLauncher-qt.AppImage > /dev/null 2>&1"
 
 function fish_user_key_bindings
   # fast hotkeys
@@ -211,6 +214,7 @@ function fish_user_key_bindings
   bind alt-c "gss; rp"
   bind alt-a "upd-grub; rp"
   bind alt-shift-e "cd /home/helminth/Desktop/ELDEN RING/Game > /dev/null 2>&1; echo ''; echo Starting elden ring; umu-run eldenring.exe > /dev/null 2>&1; rp"
+  bind alt-shift-w "dmc; rp"
   # reboot and shutdown
   bind alt-shift-f "321; rp"
   bind alt-ctrl-f "123; rp"

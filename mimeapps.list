@@ -25,6 +25,8 @@ application/x-gnome-saved-search=pcmanfm.desktop
 application/x-msdownload=userapp-umu-run-8BNVV3.desktop
 audio/mpeg=userapp-alacritty -e mpv-N17VU3.desktop
 application/octet-stream=userapp-imv-WR9AV3.desktop
+application/x-xar=xarchiver.desktop
+application/zip=xarchiver.desktop
 
 [Added Associations]
 x-scheme-handler/http=zen.desktop;xfce4-web-browser.desktop;
@@ -44,5 +46,7 @@ application/x-msdownload=userapp-umu-run-8BNVV3.desktop;userapp-umu-run-625LU3.d
 audio/mpeg=userapp-alacritty -e mpv-N17VU3.desktop;
 application/octet-stream=userapp-imv-WR9AV3.desktop;
 application/vnd.tcpdump.pcap=nvim.desktop;
+application/x-xar=xarchiver.desktop;
+application/zip=xarchiver.desktop;
 
 [Removed Associations]

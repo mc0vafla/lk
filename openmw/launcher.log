@@ -1,17 +1,25 @@
-[18:55:44.413 *] Crash handler installed
-[18:55:44.770 I] Loading config file: /home/helminth/.config/openmw/launcher.cfg
-[18:55:44.794 I] Loading config file: /usr/etc/openmw/../openmw/openmw.cfg
-[18:55:44.796 I] Loading config file: /home/helminth/.config/openmw/openmw.cfg
-[18:55:44.799 I] Loading settings file: /usr/etc/openmw/../openmw/defaults.bin
-[18:55:44.800 I] Loading settings file: /home/helminth/.config/openmw/settings.cfg
-[18:55:44.967 W] qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
-[18:55:44.987 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:55:44.987 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:56:15.954 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:56:15.954 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:56:18.089 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:56:18.089 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:56:44.020 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:56:44.020 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:56:46.478 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
-[18:56:46.478 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55ed3b9b21b0 but 0x0 is focused
+[07:41:09.272 *] Crash handler installed
+[07:41:09.352 I] Loading config file: /home/helminth/.config/openmw/launcher.cfg
+[07:41:09.368 I] Loading config file: /usr/etc/openmw/../openmw/openmw.cfg
+[07:41:09.369 I] Loading config file: /home/helminth/.config/openmw/openmw.cfg
+[07:41:09.371 I] Loading settings file: /usr/etc/openmw/../openmw/defaults.bin
+[07:41:09.372 I] Loading settings file: /home/helminth/.config/openmw/settings.cfg
+[07:41:09.427 W] qt.qpa.services: Failed to register with host portal QDBusError("org.freedesktop.portal.Error.Failed", "Could not register app ID: Connection already associated with an application ID")
+[07:41:09.440 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:09.440 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:13.011 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:13.011 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:20.335 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:20.335 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:33.550 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:33.550 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:36.621 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:41:36.621 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:57:07.089 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:57:07.095 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:57:13.315 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:57:13.315 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:57:17.433 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:57:17.433 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:57:18.709 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
+[07:57:18.709 W] qt.qpa.wayland.textinput: virtual void QtWaylandClient::QWaylandTextInputv3::disableSurface(wl_surface*) Trying to disable 0x55d96dff2f00 but 0x0 is focused
