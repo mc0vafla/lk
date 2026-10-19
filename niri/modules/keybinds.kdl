@@ -1,6 +1,6 @@
 binds {
 
-    Mod+Shift+v     { spawn-sh "noctalia msg panel-toggle session"; }
+    Alt+Space       { spawn-sh "noctalia msg panel-toggle session"; }
     Mod+u           { spawn-sh "pkill Telegram; pkill vesktop; pkill spotify; pkill zen"; } //
 
     Mod+Space       { switch-layout "next"; }
@@ -10,7 +10,7 @@ binds {
     Mod+b           { spawn-sh "alacritty -e btop"; }
     Mod+r           { spawn-sh "noctalia msg session lock"; }
 
-    Mod+Shift+w  { spawn-sh "noctalia msg media next"; }
+    Mod+Shift+w   { spawn-sh "noctalia msg media next"; }
     Mod+Shift+s   { spawn-sh "noctalia msg media toggle"; }
 
     Mod+Return { spawn "alacritty"; }
