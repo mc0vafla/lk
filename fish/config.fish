@@ -204,7 +204,7 @@ alias gr="git status"
 
 #
 alias ap="cd /usr/share/applications/"
-alias er="cd /home/helminth/Desktop/ELDEN RING/Game > /dev/null 2>&1; echo ''; echo Starting elden ring; umu-run eldenring.exe > /dev/null 2>&1"
+alias er="cd /home/helminth/Desktop/ELDEN RING/Game > /dev/null 2>&1; echo Starting elden ring; umu-run eldenring.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 alias dmc="cd '/home/helminth/Desktop/Devil May Cry 5 (2019)/Devil May Cry 5' > /dev/null 2>&1; echo ''; echo Starting dmc; umu-run DevilMayCry5.exe > /dev/null 2>&1"
 alias bd="clear; env __NV_PRIME_RENDER_OFFLOAD=1 __GL_DXVK_OPTIMIZATIONS=1 __GL_THREADED_OPTIMIZATIONS=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only RADV_PERFTEST=sam,gtt_alloc ~/Desktop/bloodborn/shadPS4QtLauncher-qt.AppImage > /dev/null 2>&1"
 alias cotl="umu-run '~/Desktop/Cult of the Lamb/Cult Of The Lamb.exe'"
@@ -213,6 +213,8 @@ alias fah2="umu-run '~/Desktop/Fear & Hunger 2 Termina/Game.exe'"
 alias lornslure="umu-run ~/Desktop/lornslure/LornsLure.exe"
 alias votv="umu-run '~/Desktop/votv/VotV.exe'"
 alias backpack="umu-run '~/Desktop/Backpack Hero/Backpack Hero/Backpack Hero.exe'"
+alias crow="umu-run '~/Desktop/Crow Country/Crow Country.exe'"
+alias nauticrawl="umu-run '~/Desktop/Nauticrawl/Nauticrawl.exe'"
 #
 
 function fish_user_key_bindings
