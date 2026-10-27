@@ -226,12 +226,12 @@ function fish_user_key_bindings
   bind alt-c "gss; rp"
   bind alt-a "upd-grub; rp"
   # reboot and shutdown
-  bind alt-shift-f "321; rp"
-  bind alt-ctrl-f "123; rp"
+  # bind alt-shift-f "321; rp"
+  # bind alt-ctrl-f "123; rp"
   # config
   bind alt-d "nvim ~/.config/alacritty.toml; rp"
   bind shift-alt-d "nvim ~/.config/niri/modules/keybinds.kdl; rp"
   bind alt-ctrl-d "nvim ~/.config/tmux/tmux.conf; rp"
   bind alt-r "doas nvim /etc/pacman.d/mirrorlist; rp"
-  bind alt-f "nvim ~/.config/fish/config.fish; rp"
+  bind alt-e "nvim ~/.config/fish/config.fish; rp"
 end
