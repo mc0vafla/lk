@@ -1,7 +1,7 @@
 ﻿<settings>
   <setting name="dock-layers-minimized" type="System.Boolean">False</setting>
   <setting name="dock-history-minimized" type="System.Boolean">False</setting>
-  <setting name="window-size-width" type="System.Int32">1326</setting>
+  <setting name="window-size-width" type="System.Int32">1900</setting>
   <setting name="window-size-height" type="System.Int32">1060</setting>
   <setting name="ruler-metric" type="System.Int32">0</setting>
   <setting name="window-maximized" type="System.Boolean">False</setting>

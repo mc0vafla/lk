@@ -82,3 +82,8 @@ chars = "dell \n"
 key = "d"
 mods = "Control|Alt|Shift"
 chars = "nvim ~/.config/nvim/lua/mappings.lua \n"
+
+[[keyboard.bindings]]
+key = "k"
+mods = "Alt"
+chars = "doas nvim /usr/share/applications/template.desktop \n i[Desktop Entry]\nName=\nGenericName=\nType=Application\nTerminal=false\nExec=fish -c\nIcon=\nCategories=Game\nX-AppImage-Integrate=false"
