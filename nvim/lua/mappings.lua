@@ -4,9 +4,8 @@ local map = vim.keymap.set
 
 map("n", ";", ":", { desc = "CMD enter command mode" })
 map("i", "jk", "<ESC>")
-map({ "n", "i", "v" }, "<C-f>", "<cmd> w <cr>")
 map('n', '<C-q>', ':q!<CR>', { desc = 'Quit' })
-map('n', '<C-w>', ':x<CR>', { desc = 'Save and quit' })
+map('n', '<C-w>', ':w<CR>', { desc = 'Save' })
 
 map({ "n", "t" }, "<C-d>", function()
   require("nvchad.term").toggle { 

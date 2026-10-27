@@ -57,7 +57,7 @@ end
 function fish_prompt
     set -l last_status $status
     set -l blue (set_color blue)
-    set -l magenta (set_color green)
+    set -l magenta (set_color red)
     set -l terracotta (set_color yellow)
     set -l normal (set_color normal)
     set -l prompt_status ""
@@ -233,4 +233,5 @@ function fish_user_key_bindings
   bind shift-alt-d "nvim ~/.config/niri/modules/keybinds.kdl; rp"
   bind alt-ctrl-d "nvim ~/.config/tmux/tmux.conf; rp"
   bind alt-r "doas nvim /etc/pacman.d/mirrorlist; rp"
+  bind alt-f "nvim ~/.config/fish/config.fish; rp"
 end

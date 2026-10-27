@@ -30,7 +30,7 @@ cursor = "#e67e80"
 [colors.normal]
 black   = "#5c4b4b"
 red     = "#e67e80"
-green   = "#e68d80"
+green   = "#5c4b50"
 yellow  = "#e6a080"
 blue    = "#e680a0"
 magenta = "#e680c0"
