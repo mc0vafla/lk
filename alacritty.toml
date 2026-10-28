@@ -86,4 +86,4 @@ chars = "nvim ~/.config/nvim/lua/mappings.lua \n"
 [[keyboard.bindings]]
 key = "k"
 mods = "Alt"
-chars = "doas nvim /usr/share/applications/template.desktop \n i[Desktop Entry]\nName=\nGenericName=\nType=Application\nTerminal=false\nExec=fish -c\nIcon=\nCategories=\nX-AppImage-Integrate=false"
+chars = "doas nvim /usr/share/applications/template.desktop\ni[Desktop Entry]\nName=\nGenericName=\nType=Application\nTerminal=false\nExec=fish -c\nIcon=\nCategories=\nX-AppImage-Integrate=false"
