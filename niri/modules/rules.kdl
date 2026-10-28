@@ -63,11 +63,11 @@ window-rule {
     open-on-workspace "sec"
     default-column-width { proportion 0.7; }
 }
-window-rule {
-    match app-id="Spotify"
-    default-column-width { proportion 1.0; }
-    open-on-workspace "3"
-}
+// window-rule {
+//     match app-id="Spotify"
+//     default-column-width { proportion 1.0; }
+//     open-on-workspace "3"
+// }
 window-rule {
     match app-id="deadbeef"
     default-column-width { proportion 1.0; }
