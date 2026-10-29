@@ -3,13 +3,14 @@ cli_add_playlist_name Default
 deadbeef_version devel
 filechooser.lastdir file:///mnt/mp3
 filechooser.playlist.lastdir file:///mnt/mp3/femtanyl
-gtkui.color.tabstrip_playing_text 63222 24929 20817
-gtkui.color.tabstrip_selected_text 60909 13107 15163
+gtkui.color.bar_background 11822 11822 11822
+gtkui.color.tabstrip_playing_text 57054 36236 38807
+gtkui.color.tabstrip_selected_text 61937 34695 32639
 gtkui.color.tabstrip_text 65535 65535 65535
-gtkui.columns.playlist [{"title":"","id":"1","format":"","sort_format":"","size":"28","align":"0","color_override":"0","color":"#ffb6b7b9"},{"title":"Title","id":"-1","format":"%title%","sort_format":"","size":"352","align":"0","color_override":"0","color":"#ff000000"},{"title":"Duration","id":"-1","format":"%length%","sort_format":"","size":"1405","align":"0","color_override":"0","color":"#ff000000"},{"title":"Item Index","id":"0","format":"","sort_format":"","size":"114","align":"0","color_override":"0","color":"#ffb6b7b9"}]
+gtkui.columns.playlist [{"title":"","id":"1","format":"","sort_format":"","size":"28","align":"0","color_override":"0","color":"#ffb6b7b9"},{"title":"Title","id":"-1","format":"%title%","sort_format":"","size":"352","align":"0","color_override":"0","color":"#ff000000"},{"title":"Duration","id":"-1","format":"%length%","sort_format":"","size":"83","align":"0","color_override":"0","color":"#ff000000"}]
 gtkui.columns.search [{"title":"Artist / Album","id":"-1","format":"$if(%artist%,%artist%,Unknown Artist)[ - %album%]","sort_format":"","size":"150","align":"0","color_override":"0","color":"#ff000000"},{"title":"Track No","id":"-1","format":"%tracknumber%","sort_format":"","size":"50","align":"1","color_override":"0","color":"#ff000000"},{"title":"Title","id":"-1","format":"%title%","sort_format":"","size":"150","align":"0","color_override":"0","color":"#ff000000"},{"title":"Duration","id":"-1","format":"%length%","sort_format":"","size":"50","align":"0","color_override":"0","color":"#ff000000"}]
 gtkui.embolden_current_track 1
-gtkui.eq.visible 0
+gtkui.eq.visible 1
 gtkui.italic_current_track 0
 gtkui.italic_selected_tracks 1
 gtkui.layout.1.9.0 {"type":"vbox","legacy_params":" expand=\"0 1\" fill=\"1 1\" homogeneous=0","children":[{"type":"hbox","legacy_params":" expand=\"0 1 0\" fill=\"1 1 1\" homogeneous=0","children":[{"type":"playtb"},{"type":"seekbar"},{"type":"volumebar","settings":{"scale":"db"}}]},{"type":"tabbed_playlist","legacy_params":" hideheaders=0 width=1900"}]}
@@ -24,7 +25,7 @@ gtkui.tabscroll 0
 gtkui.tabstrip_embolden_playing 1
 gtkui.tabstrip_embolden_selected 1
 gtkui.tabstrip_italic_playing 0
-gtkui.tabstrip_italic_selected 1
+gtkui.tabstrip_italic_selected 0
 gtkui.titlebar_playing_tf DeaDBeeF - %title%
 gtkui.vis.custom_base_color 57568 6939 9252
 gtkui.vis.use_custom_base_color 1
@@ -83,32 +84,35 @@ network.proxy.port 8080
 output_plugin pipewire
 playback.loop 0
 playback.order 1
-playback.volume.normalized 0.6019714
+playback.volume.normalized 0.0327412
 playlist.current 0
-playlist.cursor.0 9
-playlist.cursor.1 9
-playlist.cursor.10 17
-playlist.cursor.11 7
-playlist.cursor.12 14
-playlist.cursor.13 15
-playlist.cursor.14 52
-playlist.cursor.15 43
-playlist.cursor.16 12
-playlist.cursor.17 19
-playlist.cursor.18 58
-playlist.cursor.19 17
-playlist.cursor.2 49
-playlist.cursor.3 32
-playlist.cursor.4 19
-playlist.cursor.5 17
-playlist.cursor.6 15
-playlist.cursor.7 11
-playlist.cursor.8 12
-playlist.cursor.9 38
-playlist.scroll.0 -9
-playlist.scroll.1 -9
+playlist.cursor.0 27
+playlist.cursor.1 153
+playlist.cursor.10 15
+playlist.cursor.11 5
+playlist.cursor.12 12
+playlist.cursor.13 17
+playlist.cursor.14 7
+playlist.cursor.15 14
+playlist.cursor.16 15
+playlist.cursor.17 52
+playlist.cursor.18 43
+playlist.cursor.19 12
+playlist.cursor.2 0
+playlist.cursor.20 19
+playlist.cursor.21 58
+playlist.cursor.22 17
+playlist.cursor.3 76
+playlist.cursor.4 25
+playlist.cursor.5 31
+playlist.cursor.6 49
+playlist.cursor.7 20
+playlist.cursor.8 14
+playlist.cursor.9 2
+playlist.scroll.0 289
+playlist.scroll.1 0
 playlist.scroll.10 0
-playlist.scroll.11 0
+playlist.scroll.11 -5
 playlist.scroll.12 0
 playlist.scroll.13 0
 playlist.scroll.14 0
@@ -118,34 +122,40 @@ playlist.scroll.17 0
 playlist.scroll.18 0
 playlist.scroll.19 0
 playlist.scroll.2 0
+playlist.scroll.20 0
+playlist.scroll.21 0
+playlist.scroll.22 0
 playlist.scroll.3 0
 playlist.scroll.4 0
-playlist.scroll.5 0
+playlist.scroll.5 117
 playlist.scroll.6 0
-playlist.scroll.7 0
+playlist.scroll.7 -20
 playlist.scroll.8 0
 playlist.scroll.9 0
 playlist.scroll.cursorfollowplayback 1
-playlist.tab.00000 >
-playlist.tab.00001 df
-playlist.tab.00002 wdym
-playlist.tab.00003 more
-playlist.tab.00004 kach
-playlist.tab.00005 media
-playlist.tab.00006 pf
-playlist.tab.00007 sat
-playlist.tab.00008 ssfu
-playlist.tab.00009 madkid
-playlist.tab.00010 nervi
-playlist.tab.00011 exit
-playlist.tab.00012 future
-playlist.tab.00013 unk
-playlist.tab.00014 dep
-playlist.tab.00015 alone
-playlist.tab.00016 nv
-playlist.tab.00017 inuday
-playlist.tab.00018 ksb
-playlist.tab.00019 lemondemon
+playlist.tab.00000 cupsize
+playlist.tab.00001 dfff
+playlist.tab.00002 madk1d
+playlist.tab.00003 cuts
+playlist.tab.00004 >
+playlist.tab.00005 more
+playlist.tab.00006 wdym
+playlist.tab.00007 df
+playlist.tab.00008 kach
+playlist.tab.00009 media
+playlist.tab.00010 pf
+playlist.tab.00011 sat
+playlist.tab.00012 ssfu
+playlist.tab.00013 nervi
+playlist.tab.00014 exit
+playlist.tab.00015 future
+playlist.tab.00016 unk
+playlist.tab.00017 dep
+playlist.tab.00018 alone
+playlist.tab.00019 nv
+playlist.tab.00020 inuday
+playlist.tab.00021 ksb
+playlist.tab.00022 lemondemon
 prefwin.geometry.h 627
 prefwin.geometry.w 861
 prefwin.geometry.x -1920

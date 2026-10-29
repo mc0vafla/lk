@@ -216,6 +216,7 @@ alias backpack="umu-run '~/Desktop/Backpack Hero/Backpack Hero/Backpack Hero.exe
 alias crow="umu-run '~/Desktop/Crow Country/Crow Country.exe'"
 alias nauticrawl="umu-run '~/Desktop/Nauticrawl/Nauticrawl.exe'"
 alias everdeep="umu-run '~/Desktop/Everdeep Aurora/Everdeep Aurora.exe'"
+alias eq="nvim ~/Desktop/mp3/eq.txt"
 #
 
 function fish_user_key_bindings
