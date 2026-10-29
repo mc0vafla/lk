@@ -217,6 +217,7 @@ alias crow="umu-run '~/Desktop/Crow Country/Crow Country.exe'"
 alias nauticrawl="umu-run '~/Desktop/Nauticrawl/Nauticrawl.exe'"
 alias everdeep="umu-run '~/Desktop/Everdeep Aurora/Everdeep Aurora.exe'"
 alias eq="nvim ~/Desktop/mp3/eq.txt"
+alias ddf="df -h | rg nvme0n1p3"
 #
 
 function fish_user_key_bindings
