@@ -197,7 +197,6 @@ alias mr="doas nvim /etc/pacman.d/mirrorlist"
 alias dwvd="yt-dlp --merge-output-format mp4 -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]'"
 alias qp="pacman -Qtt | fzf"
 alias dw="yt-dlp -t mp3"
-alias k="optionmusic . --cava -q"
 alias d="dua ."
 alias dwsp="spotdl"
 alias gr="git status"
@@ -215,6 +214,7 @@ alias votv="umu-run '~/Desktop/votv/VotV.exe'"
 alias backpack="umu-run '~/Desktop/Backpack Hero/Backpack Hero/Backpack Hero.exe'"
 alias crow="umu-run '~/Desktop/Crow Country/Crow Country.exe'"
 alias nauticrawl="umu-run '~/Desktop/Nauticrawl/Nauticrawl.exe'"
+alias everdeep="umu-run '~/Desktop/Everdeep Aurora/Everdeep Aurora.exe'"
 #
 
 function fish_user_key_bindings
