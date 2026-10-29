@@ -200,6 +200,7 @@ alias dw="yt-dlp -t mp3"
 alias d="dua ."
 alias dwsp="spotdl"
 alias gr="git status"
+alias k="cd ~/Desktop/mp3"
 
 #
 alias ap="cd /usr/share/applications/"

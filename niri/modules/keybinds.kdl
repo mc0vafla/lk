@@ -2,6 +2,7 @@ binds {
 
     Alt+Space       { spawn-sh "noctalia msg panel-toggle session"; }
     Mod+u           { spawn-sh "pkill Telegram; pkill vesktop; pkill zen"; } //
+    Mod+o           { spawn-sh "alacritty -e nvim ~/.config/niri/modules/keybinds.kdl"; }
 
     Mod+Space       { switch-layout "next"; }
     Mod+Shift+e     { spawn-sh "noctalia msg settings-toggle"; }
