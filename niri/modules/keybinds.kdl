@@ -1,0 +1,85 @@
+binds {
+
+    Alt+Space       { spawn-sh "noctalia msg panel-toggle session"; }
+    Mod+u           { spawn-sh "pkill Telegram; pkill vesktop; pkill zen"; }
+    Mod+o           { spawn-sh "alacritty -e nvim ~/.config/niri/modules/keybinds.kdl"; }
+
+    Mod+Space       { switch-layout "next"; }
+    Mod+Shift+e     { spawn-sh "noctalia msg settings-toggle"; }
+    Mod+e           { spawn-sh "noctalia msg panel-toggle control-center"; }
+    Mod+Escape      { spawn-sh "pcmanfm -n ~/"; }
+    Mod+b           { spawn-sh "alacritty -e btop"; }
+    Mod+r           { spawn-sh "noctalia msg session lock"; }
+
+    Mod+Shift+w   { spawn-sh "noctalia msg media next"; }
+    Mod+Shift+s   { spawn-sh "noctalia msg media toggle"; }
+
+    Mod+Return { spawn "alacritty"; }
+    Mod+Shift+Return { spawn "alacritty"; }
+    Mod+v { spawn-sh "noctalia msg panel-toggle launcher"; }
+
+    Mod+Tab repeat=false { toggle-overview; }
+
+    Mod+q repeat=false { close-window; }
+
+    Mod+a     { focus-column-left; }
+    Mod+d     { focus-column-right; }
+
+    Mod+Ctrl+a  { move-column-left; }
+    Mod+Ctrl+d  { move-column-right; }
+
+    Mod+s     { focus-window-or-workspace-down; }
+    Mod+w     { focus-window-or-workspace-up; }
+    Mod+Ctrl+s     { move-window-down-or-to-workspace-down; }
+    Mod+Ctrl+w     { move-window-up-or-to-workspace-up; }
+
+    Mod+1  { focus-monitor-left; }
+    Mod+2  { focus-monitor-right; }
+
+    Mod+Ctrl+1 { move-column-to-monitor-left; }
+    Mod+Ctrl+2 { move-column-to-monitor-right; }
+
+    Mod+Shift+WheelScrollDown      cooldown-ms=50 { focus-workspace-down; }
+    Mod+Shift+WheelScrollUp        cooldown-ms=50 { focus-workspace-up; }
+
+    Mod+WheelScrollDown      { focus-column-right; }
+    Mod+WheelScrollUp        { focus-column-left; }
+
+    Mod+Shift+a  { consume-or-expel-window-left; }
+    Mod+Shift+d  { consume-or-expel-window-right; }
+
+    Mod+3 { maximize-column; }
+    Mod+f { fullscreen-window; }
+
+    Mod+z { center-column; }
+
+    Mod+x { set-column-width "-10%"; }
+    Mod+c { set-column-width "+10%"; }
+
+    // Mod+h { set-column-width "-10%"; }
+    // Mod+l { set-column-width "+10%"; }
+    // Mod+k { set-window-height "-10%"; }
+    // Mod+j { set-window-height "+10%"; }
+
+    Mod+Shift+f { toggle-window-floating; }
+
+    Alt+1 { screenshot show-pointer=false; }
+    Alt+2 { screenshot-screen show-pointer=false; }
+    print { screenshot-screen show-pointer=false; }
+    Alt+3 { screenshot-window show-pointer=false; }
+    Alt+4 { spawn-sh "hyprpicker | wl-copy; noctalia msg notification-show Hyprpicker Color was copied";}
+
+    Mod+m { quit; }
+}
+
+recent-windows {
+    debounce-ms 750
+    open-delay-ms 0
+    highlight {
+      active-color "#ffffff80"
+    }
+    binds {
+      Alt+Tab { next-window scope="output"; }
+      Alt+Shift+Tab { previous-window scope="output"; }
+    }
+}
