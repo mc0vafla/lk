@@ -1,322 +1,214 @@
-[00:14:25.119 *] Crash handler installed
-[00:14:25.261 *] Loading config file: /usr/etc/openmw/../openmw/openmw.cfg
-[00:14:25.269 *] Loading config file: /home/helminth/.config/openmw/openmw.cfg
-[00:14:25.269 *] Logs dir: /home/helminth/.config/openmw/
-[00:14:25.269 *] User data dir: /home/helminth/.local/share/openmw/
-[00:14:25.270 *] Screenshots dir: /home/helminth/.local/share/openmw/screenshots
-[00:14:25.272 I] OpenMW version 0.52.0
-[00:14:25.272 I] Revision: 3ee798e988
-[00:14:25.274 I] Loading settings file: /usr/etc/openmw/../openmw/defaults.bin
-[00:14:25.277 I] Loading settings file: /home/helminth/.config/openmw/settings.cfg
-[00:14:25.278 I] Using Cyrillic font encoding.
-[00:14:25.319 I] OSG version: 3.6.5
-[00:14:25.319 I] SDL version: 2.32.74
-[00:14:25.319 I] Loading shader settings file: /home/helminth/.config/openmw/shaders.yaml
-[00:14:25.586 I] OpenGL Vendor: AMD
-[00:14:25.586 I] OpenGL Renderer: AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.64, 7.2.11-zen1-1-zen)
-[00:14:25.586 I] OpenGL Version: 4.6 (Compatibility Profile) Mesa 26.2.5-arch1.1
-[00:14:25.591 I] Using reverse-z depth buffer
-[00:14:25.594 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Morrowind.bsa
-[00:14:25.598 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Tribunal.bsa
-[00:14:25.599 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Bloodmoon.bsa
-[00:14:25.599 I] Adding data directory /usr/share/games/openmw/resources/vfs
-[00:14:25.602 I] Adding data directory /usr/share/games/openmw/resources/vfs-mw
-[00:14:25.602 I] Adding data directory /home/helminth/Desktop/mwmods/00 Animated Main Menu
-[00:14:25.603 I] Adding data directory /home/helminth/Desktop/mwmods/main 54985 0.6.7 2026-06-24T12-26Z DBQdB8qp
-[00:14:25.603 I] Adding data directory /home/helminth/Desktop/mwmods/Enchant icons-50028-1-0-0-1625760268/Malachite/Data Files
-[00:14:25.603 I] Adding data directory /home/helminth/Desktop/mwmods/Ultimate Icon Replacer v1-36948-1
-[00:14:25.611 I] Adding data directory /home/helminth/Desktop/mwmods/MET 6-1 main
-[00:14:25.628 I] Adding data directory /home/helminth/Desktop/mwmods/Immersive Loading Screens (OpenMW)
-[00:14:25.629 I] Adding data directory /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk2.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/BILL_diedog.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwoman1.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/bill_nogooddeed.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname1.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenBoat2.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenName3.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname2.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargendock1.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/BILL_assantus.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/Slpr_004.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenDock3.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenBoat1.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwoman2.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk3.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargendock2.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk1.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.644 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname4.mp3', please check your file system for two files with the same name in different cases.
-[00:14:25.663 I] Adding data directory /home/helminth/.local/share/openmw/data
-[00:14:25.672 I] Preferred locales: gmst en
-[00:14:25.673 I] Initializing LuaUtil::LuaState without profiler
-[00:14:25.680 I] Lua version: Lua 5.1.4 (LuaJIT 2.1.1788856981)
-[00:14:25.680 I] Loading keybindings file: /home/helminth/.config/openmw/input_v3.xml
-[00:14:25.685 I] Loading bitmap font file fonts/magic_cards_regular.fnt
-[00:14:25.694 I] Loading bitmap font file fonts/daedric_font.fnt
-[00:14:25.697 I] Loading TrueType font file fonts/dejavulgcsansmono.omwfont
-[00:14:25.744 I] Initializing OpenAL...
-[00:14:25.748 I] Opened "Ryzen HD Audio Controller Analog Stereo"
-[00:14:25.748 I]   ALC Version: 1.1
-[00:14:25.748 I]   ALC Extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_debug ALC_EXT_DEDICATED ALC_EXT_direct_context ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_device_clock ALC_SOFT_HRTF ALC_SOFT_loopback ALC_SOFT_loopback_bformat ALC_SOFT_output_limiter ALC_SOFT_output_mode ALC_SOFT_pause_device ALC_SOFT_reopen_device ALC_SOFT_system_events
-[00:14:25.756 I]   Vendor: OpenAL Community
-[00:14:25.756 I]   Renderer: OpenAL Soft
-[00:14:25.756 I]   Version: 1.1 ALSOFT 1.25.2
-[00:14:25.756 I]   Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_debug AL_EXT_direct_context AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STATIC_BUFFER AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_bformat_ex AL_SOFT_bformat_hoa AL_SOFT_block_alignment AL_SOFT_buffer_length_query AL_SOFT_callback_buffer AL_SOFTX_convolution_effect AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFT_direct_channels_remix AL_SOFT_effect_target AL_SOFT_events AL_SOFT_gain_clamp_ex AL_SOFTX_hold_on_disconnect AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFTX_source_panning AL_SOFT_source_resampler AL_SOFT_source_spatialize AL_SOFT_source_start_delay AL_SOFT_UHJ AL_SOFT_UHJ_ex
-[00:14:25.756 I] HRTF disabled
-[00:14:25.756 V] Using idle priority for thread=140639568127680
-[00:14:25.756 I] Allocated 256 sound sources
-[00:14:25.756 I] Low-pass filter supported
-[00:14:25.756 I] EAX Reverb supported
-[00:14:25.756 I] Enumerated output devices:
-[00:14:25.756 I]   Ryzen HD Audio Controller Analog Stereo  Renoir/Cezanne HDMI/DP Audio Controller Digital Stereo (HDMI) [L22i-40]
-[00:14:25.756 I] Enumerated HRTF names:
-[00:14:25.756 I]   Default HRTF  Built-In HRTF
-[00:14:25.756 V] Using idle priority for thread=140639559734976
-[00:14:25.776 I] Loading Lua storage "/home/helminth/.config/openmw/global_storage.bin" (140 bytes)
-[00:14:25.778 I] Loading Lua storage "/home/helminth/.config/openmw/player_storage.bin" (4333 bytes)
-[00:14:25.828 I] Loading content file builtin.omwscripts
-[00:14:25.828 I] Loading content file Morrowind.esm
-[00:14:25.833 E] Failed to open video: Resource 'video/bethesda logo.bik.bak' not found
-[00:14:25.905 W] Scaling image 'splash/67.jpg' from (1920,1080) to (2048,1024)
-[00:14:26.069 I] Loading content file Tribunal.esm
-[00:14:26.112 I] Loading content file Bloodmoon.esm
-[00:14:26.153 V] Lua scripts configuration (43 scripts):
-[00:14:26.153 V] #0 MENU PLAYER : scripts/omw/mwui/init.lua
-[00:14:26.153 V] #1 MENU : scripts/omw/settings/menu.lua
-[00:14:26.153 V] #2 PLAYER : scripts/omw/settings/player.lua
-[00:14:26.153 V] #3 GLOBAL : scripts/omw/settings/global.lua
-[00:14:26.153 V] #4 GLOBAL : scripts/omw/activationhandlers.lua
-[00:14:26.153 V] #5 GLOBAL : scripts/omw/usehandlers.lua
-[00:14:26.153 V] #6 GLOBAL : scripts/omw/worldeventhandlers.lua
-[00:14:26.153 V] #7 GLOBAL : scripts/omw/crimes.lua
-[00:14:26.153 V] #8 PLAYER CREATURE NPC : scripts/omw/mechanics/animationcontroller.lua
-[00:14:26.153 V] #9 PLAYER : scripts/omw/skillhandlers.lua
-[00:14:26.153 V] #10 PLAYER : scripts/omw/mechanics/playercontroller.lua
-[00:14:26.153 V] #11 MENU : scripts/omw/camera/settings.lua
-[00:14:26.153 V] #12 MENU : scripts/omw/input/settings.lua
-[00:14:26.153 V] #13 PLAYER : scripts/omw/input/playercontrols.lua
-[00:14:26.153 V] #14 PLAYER : scripts/omw/camera/camera.lua
-[00:14:26.153 V] #15 PLAYER : scripts/omw/input/actionbindings.lua
-[00:14:26.153 V] #16 PLAYER : scripts/omw/input/smoothmovement.lua
-[00:14:26.153 V] #17 PLAYER : scripts/omw/input/gamepadcontrols.lua
-[00:14:26.153 V] #18 NPC CREATURE : scripts/omw/ai.lua
-[00:14:26.153 V] #19 GLOBAL : scripts/omw/mechanics/globalcontroller.lua
-[00:14:26.153 V] #20 PLAYER CREATURE NPC : scripts/omw/mechanics/actorcontroller.lua
-[00:14:26.153 V] #21 PLAYER NPC CREATURE : scripts/omw/combat/interface_local.lua
-[00:14:26.153 V] #22 GLOBAL : scripts/omw/combat/interface_global.lua
-[00:14:26.153 V] #23 PLAYER CREATURE NPC : scripts/omw/spellcasting/interface_local.lua
-[00:14:26.153 V] #24 GLOBAL : scripts/omw/spellcasting/interface_global.lua
-[00:14:26.153 V] #25 GLOBAL : scripts/omw/mechanics/projectiles.lua
-[00:14:26.153 V] #26 PLAYER : scripts/omw/ui.lua
-[00:14:26.153 V] #27 MENU : scripts/omw/console/menu.lua
-[00:14:26.153 V] #28 PLAYER : scripts/omw/console/player.lua
-[00:14:26.153 V] #29 GLOBAL : scripts/omw/console/global.lua
-[00:14:26.153 V] #30 CUSTOM : scripts/omw/console/local.lua
-[00:14:26.153 V] #31 NPC CREATURE : scripts/omw/music/actor.lua
-[00:14:26.153 V] #32 GLOBAL : scripts/omw/cellhandlers.lua
-[00:14:26.153 V] #33 GLOBAL : scripts/omw/combat/global.lua
-[00:14:26.153 V] #34 PLAYER : scripts/omw/combat/settingspage.lua
-[00:14:26.153 V] #35 PLAYER NPC CREATURE : scripts/omw/combat/local.lua
-[00:14:26.153 V] #36 PLAYER : scripts/omw/music/music.lua
-[00:14:26.153 V] #37 MENU : scripts/omw/music/settings.lua
-[00:14:26.153 V] #38 PLAYER : scripts/omw/playerskillhandlers.lua
-[00:14:26.153 V] #39 LOAD : scripts/omw/esmfallbacks.lua
-[00:14:26.153 V] #40 PLAYER CREATURE NPC : scripts/omw/spellcasting/local.lua
-[00:14:26.153 V] #41 DOOR CONTAINER : scripts/omw/spellcasting/lockable.lua
-[00:14:26.153 V] #42 GLOBAL : scripts/omw/spellcasting/global.lua
-[00:14:26.198 V] Enchantment "test magic axe": dropping unexpected skill argument of "FortifyMaximumMagicka" effect
-[00:14:26.345 I] Using 1 async physics threads
-[00:14:26.345 I] Using /home/helminth/.local/share/openmw/navmesh.db to store navigation mesh cache
-[00:14:26.349 V] Using idle priority for thread=140639433909952
-[00:14:26.354 I] Reserving texture units for shadow maps: 29..31
-[00:14:26.356 V] Failed to warm sound sound/fx/jetsons doorbell.mp3: Resource 'sound/fx/jetsons doorbell.mp3' not found
-[00:14:26.373 I] Reserving texture unit for opaque color texture: 28
-[00:14:26.373 I] Reserving texture unit for opaque depth texture: 27
-[00:14:26.376 V] Disabling Multiview (disabled by config)
-[00:14:26.398 V] Language file "l10n/Interface/gmst.yaml" is enabled
-[00:14:26.403 V] Language file "l10n/Interface/en.yaml" is enabled
-[00:14:26.483 V] Language file "l10n/OMWEngine/gmst.yaml" is enabled
-[00:14:26.487 V] Language file "l10n/OMWEngine/en.yaml" is enabled
-[00:14:26.550 V] Language file "l10n/OMWShaders/en.yaml" is enabled
-[00:14:26.743 V] Failed to warm sound sound/cr/sggn/sggn magic.mp3: Resource 'sound/cr/sggn/sggn magic.mp3' not found
-[00:14:26.794 V] Language file "l10n/OMWCamera/en.yaml" is enabled
-[00:14:26.796 V] Language file "l10n/OMWControls/en.yaml" is enabled
-[00:14:26.797 V] Language file "l10n/interface/gmst.yaml" is enabled
-[00:14:26.797 V] Language file "l10n/interface/en.yaml" is enabled
-[00:14:26.802 V] Language file "l10n/Calendar/gmst.yaml" is enabled
-[00:14:26.804 V] Language file "l10n/Calendar/en.yaml" is enabled
-[00:14:26.806 V] Language file "l10n/OMWMusic/en.yaml" is enabled
-[00:14:26.828 I] Playing "music/special/morrowind title.mp3"
-[00:14:26.828 E] Failed to open video: Resource 'video/mw_logo.bik.bak' not found
-[00:14:26.856 V] Failed to warm sound sound/vo/v/cratk_nf002.mp3: Resource 'sound/vo/v/cratk_nf002.mp3' not found
-[00:14:26.856 V] Failed to warm sound sound/vo/v/cratk_nf003.mp3: Resource 'sound/vo/v/cratk_nf003.mp3' not found
-[00:14:26.856 V] Failed to warm sound sound/vo/v/cratk_nf004.mp3: Resource 'sound/vo/v/cratk_nf004.mp3' not found
-[00:14:26.856 V] Failed to warm sound sound/vo/v/cratk_nf005.mp3: Resource 'sound/vo/v/cratk_nf005.mp3' not found
-[00:14:29.998 I] Reading save file Autosave - 2.omwsave
-[00:14:30.010 I] Loading saved game 'Autosave' for character 'Тот-Кто-Ждет'
-[00:14:30.029 W] Scaling image 'splash/22.jpg' from (1920,1080) to (2048,1024)
-[00:14:30.119 I] Warning: treeliveScript[local variables] line 14, column 2 (( ): Stray special character at start of line
-[00:14:30.119 I] Warning: treedeadScript[local variables] line 14, column 2 (( ): Stray special character at start of line
-[00:14:30.119 I] Warning: tarenScript[local variables] line 21, column 14 (=): invalid operator =, treating it as ==
-[00:14:30.120 I] Warning: ThrudScript[local variables] line 9, column 15 (=): invalid operator =, treating it as ==
-[00:14:30.120 I] Warning: ThrudScript[local variables] line 10, column 41 (=): invalid operator =, treating it as ==
-[00:14:30.120 I] Warning: ThrudScript[local variables] line 22, column 14 (=): invalid operator =, treating it as ==
-[00:14:30.120 I] Warning: ThrudScript[local variables] line 34, column 15 (=): invalid operator =, treating it as ==
-[00:14:30.120 I] Warning: highPocketsScript[local variables] line 10, column 15 (=): invalid operator =, treating it as ==
-[00:14:30.132 I] Warning: ThirskRepair[local variables] line 9, column 37 (=): invalid operator =, treating it as ==
-[00:14:30.132 I] Warning: ThirskFixed[local variables] line 3, column 37 (=): invalid operator =, treating it as ==
-[00:14:30.132 I] Warning: SvenjaOutside[local variables] line 8, column 37 (=): invalid operator =, treating it as ==
-[00:14:30.163 I] Warning: GlenmorilRaven[local variables] line 43, column 39 (=): invalid operator =, treating it as ==
-[00:14:30.295 I] Warning: Colony_D_1_Mine[local variables] line 10, column 20 (=): invalid operator =, treating it as ==
-[00:14:30.298 I] Warning: TherdonScript[local variables] line 7, column 14 (=): invalid operator =, treating it as ==
-[00:14:30.298 I] Warning: denegorScript[local variables] line 12, column 34 (=): invalid operator =, treating it as ==
-[00:14:30.298 I] Warning: holmarScript[local variables] line 12, column 36 (=): invalid operator =, treating it as ==
-[00:14:30.298 I] Warning: holmarScript[local variables] line 37, column 15 (=): invalid operator =, treating it as ==
-[00:14:30.298 I] Warning: holmarScript[local variables] line 45, column 15 (=): invalid operator =, treating it as ==
-[00:14:30.298 I] Warning: holmarScript[local variables] line 57, column 36 (=): invalid operator =, treating it as ==
-[00:14:30.298 I] Warning: holmarScript[local variables] line 84, column 17 (=): invalid operator =, treating it as ==
-[00:14:30.416 I] Warning: MirisaFollow[local variables] line 21, column 37 (=): invalid operator =, treating it as ==
-[00:14:30.465 I] Warning: stoneEarthScript[local variables] line 31, column 37 (=): invalid operator =, treating it as ==
-[00:14:30.475 I] Warning: Therdon2Script[local variables] line 10, column 16 (=): invalid operator =, treating it as ==
-[00:14:30.475 I] Warning: Therdon2Script[local variables] line 15, column 19 (=): invalid operator =, treating it as ==
-[00:14:30.475 I] Warning: IlnoriScript[local variables] line 8, column 14 (=): invalid operator =, treating it as ==
-[00:14:30.475 I] Warning: IlnoriScript[local variables] line 15, column 15 (=): invalid operator =, treating it as ==
-[00:14:30.476 I] Warning: DetritusScript[local variables] line 20, column 47 (=): invalid operator =, treating it as ==
-[00:14:30.476 I] Warning: DetritusScript[local variables] line 35, column 47 (=): invalid operator =, treating it as ==
-[00:14:30.476 I] Warning: DetritusScript[local variables] line 50, column 47 (=): invalid operator =, treating it as ==
-[00:14:30.524 I] Warning: racistSafe[local variables] line 8, column 14 (=): invalid operator =, treating it as ==
-[00:14:30.541 I] Warning: CavernIncarnateDoor[local variables] line 41, column 17 (=): invalid operator =, treating it as ==
-[00:14:30.568 I] Warning: stoneBeastsScript[local variables] line 31, column 38 (=): invalid operator =, treating it as ==
-[00:14:30.576 I] Warning: UlfgarGhostScript[local variables] line 34, column 41 (=): invalid operator =, treating it as ==
-[00:14:30.576 I] Warning: UlfgarGhostScript[local variables] line 50, column 41 (=): invalid operator =, treating it as ==
-[00:14:30.576 I] Warning: UlfgarGhostScript[local variables] line 60, column 40 (=): invalid operator =, treating it as ==
-[00:14:30.695 I] Warning: stoneWaterScript[local variables] line 30, column 37 (=): invalid operator =, treating it as ==
-[00:14:30.754 W] Scaling image 'splash/21.jpg' from (1920,1080) to (2048,1024)
-[00:14:30.860 I] Warning: Irano_note[local variables] line 7, column 12 (=): invalid operator =, treating it as ==
-[00:14:30.860 I] Warning: Irano_note[local variables] line 8, column 20 (=): invalid operator =, treating it as ==
-[00:14:30.860 I] Warning: Irano_note[local variables] line 14, column 13 (=): invalid operator =, treating it as ==
-[00:14:30.944 I] Warning: lookoutScript[local variables] line 41, column 37 (=): invalid operator =, treating it as ==
-[00:14:31.014 I] Warning: playScript[local variables] line 298, column 1 (): string contains newline character, make sure that it is intended
-[00:14:31.014 I] Warning: playScript[local variables] line 299, column 1 (): string contains newline character, make sure that it is intended
-[00:14:31.014 I] Warning: playScript[local variables] line 348, column 1 (): string contains newline character, make sure that it is intended
-[00:14:31.014 I] Warning: playScript[local variables] line 391, column 1 (): string contains newline character, make sure that it is intended
-[00:14:31.016 I] Warning: OvisScript[local variables] line 19, column 15 (=): invalid operator =, treating it as ==
-[00:14:31.219 V] Language file "l10n/Mechanics/gmst.yaml" is enabled
-[00:14:31.226 I] Changing to interior
-[00:14:31.226 I] Loading cell Sadrith Mora, Volmyni Dral's House
-[00:14:31.751 V] Language file "l10n/OMWCombat/en.yaml" is enabled
-[00:14:33.013 I] Playing "music/explore/mx_explore_6.mp3"
-[00:14:37.022 I] Unloading cell Sadrith Mora, Volmyni Dral's House
-[00:14:37.024 I] Loading cell Wolverine Hall (18, 3)
-[00:14:37.036 I] Loading cell Azura's Coast Region (17, 3)
-[00:14:37.039 I] Loading cell Azura's Coast Region (18, 2)
-[00:14:37.040 I] Loading cell Sadrith Mora (18, 4)
-[00:14:37.044 I] Loading cell Azura's Coast Region (19, 3)
-[00:14:37.046 I] Loading cell Azura's Coast Region (17, 2)
-[00:14:37.047 I] Loading cell Sadrith Mora (17, 4)
-[00:14:37.057 I] Loading cell Azura's Coast Region (19, 2)
-[00:14:37.059 I] Loading cell Azura's Coast Region (19, 4)
-[00:14:37.076 I] Warning: OutsideBanner line 38, column 6 (endif): endif without matching if/elseif
-[00:14:42.477 I] Unloading cell Azura's Coast Region (18, 2)
-[00:14:42.478 I] Unloading cell Azura's Coast Region (19, 2)
-[00:14:42.484 I] Unloading cell Azura's Coast Region (19, 4)
-[00:14:42.484 I] Unloading cell Azura's Coast Region (17, 2)
-[00:14:42.485 I] Unloading cell Azura's Coast Region (19, 3)
-[00:14:42.486 I] Loading cell Azura's Coast Region (16, 4)
-[00:14:42.490 I] Loading cell Sadrith Mora (17, 5)
-[00:14:42.492 I] Loading cell Azura's Coast Region (16, 3)
-[00:14:42.493 I] Loading cell Azura's Coast Region (16, 5)
-[00:14:42.496 I] Loading cell Azura's Coast Region (18, 5)
-[00:14:48.414 I] Unloading cell Azura's Coast Region (16, 4)
-[00:14:48.415 I] Unloading cell Azura's Coast Region (18, 5)
-[00:14:48.415 I] Unloading cell Azura's Coast Region (16, 5)
-[00:14:48.416 I] Unloading cell Azura's Coast Region (16, 3)
-[00:14:48.416 I] Unloading cell Sadrith Mora (17, 5)
-[00:14:48.418 I] Loading cell Azura's Coast Region (18, 2)
-[00:14:48.422 I] Loading cell Azura's Coast Region (19, 3)
-[00:14:48.424 I] Loading cell Azura's Coast Region (17, 2)
-[00:14:48.425 I] Loading cell Azura's Coast Region (19, 2)
-[00:14:48.427 I] Loading cell Azura's Coast Region (19, 4)
-[00:14:49.457 I] Changing to interior
-[00:14:49.458 I] Unloading cell Sadrith Mora (17, 4)
-[00:14:49.461 I] Unloading cell Azura's Coast Region (18, 2)
-[00:14:49.462 I] Unloading cell Azura's Coast Region (19, 2)
-[00:14:49.462 I] Unloading cell Azura's Coast Region (19, 4)
-[00:14:49.463 I] Unloading cell Azura's Coast Region (17, 2)
-[00:14:49.463 I] Unloading cell Azura's Coast Region (17, 3)
-[00:14:49.464 I] Unloading cell Wolverine Hall (18, 3)
-[00:14:49.465 I] Unloading cell Sadrith Mora (18, 4)
-[00:14:49.465 I] Unloading cell Azura's Coast Region (19, 3)
-[00:14:49.467 I] Loading cell Sadrith Mora, Wolverine Hall: Imperial Shrine
-[00:14:49.496 W] Not enough cell preloader cache capacity to preload exterior cells, consider increasing "preload cell cache max" up to 22
-[00:14:50.396 I] Changing to interior
-[00:14:50.396 I] Unloading cell Sadrith Mora, Wolverine Hall: Imperial Shrine
-[00:14:50.397 I] Loading cell Sadrith Mora, Wolverine Hall
-[00:14:52.787 I] Changing to interior
-[00:14:52.787 I] Unloading cell Sadrith Mora, Wolverine Hall
-[00:14:52.789 I] Loading cell Sadrith Mora, Wolverine Hall: Mage's Guild
-[00:14:52.794 I] Warning: UleniDead line 4, column 27 ("Gateway_haunt"): Extra argument
-[00:15:02.236 I] Changing to interior
-[00:15:02.237 I] Unloading cell Sadrith Mora, Wolverine Hall: Mage's Guild
-[00:15:02.237 I] Loading cell Vivec, Guild of Mages
-[00:15:45.160 I] Changing to interior
-[00:15:45.160 I] Unloading cell Vivec, Guild of Mages
-[00:15:45.162 I] Loading cell Vivec, Foreign Quarter Plaza
-[00:15:45.451 V] Controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
-[00:15:49.269 I] Changing to interior
-[00:15:49.269 I] Unloading cell Vivec, Foreign Quarter Plaza
-[00:15:49.271 I] Loading cell Vivec, Guild of Fighters
-[00:16:24.624 I] Changing to interior
-[00:16:24.624 I] Unloading cell Vivec, Guild of Fighters
-[00:16:24.626 I] Loading cell Sadrith Mora, Volmyni Dral's House
-[00:16:26.943 I] Making a screenshot for saved game 'Autosave'
-[00:16:26.985 I] Writing saved game 'Autosave' for character 'Тот-Кто-Ждет'
-[00:16:27.132 I] 'Autosave' is saved in 190.235ms
-[00:16:29.679 I] Making a screenshot for saved game 'Autosave'
-[00:16:29.720 I] Writing saved game 'Autosave' for character 'Тот-Кто-Ждет'
-[00:16:29.866 I] 'Autosave' is saved in 187.32ms
-[00:16:32.130 I] Making a screenshot for saved game 'Autosave'
-[00:16:32.173 I] Writing saved game 'Autosave' for character 'Тот-Кто-Ждет'
-[00:16:32.312 I] 'Autosave' is saved in 182.4ms
-[00:17:46.124 I] Playing "music/explore/mx_explore_5.mp3"
-[00:18:37.222 I] Unloading cell Sadrith Mora, Volmyni Dral's House
-[00:18:37.224 I] Loading cell Wolverine Hall (18, 3)
-[00:18:37.230 I] Loading cell Azura's Coast Region (17, 3)
-[00:18:37.232 I] Loading cell Azura's Coast Region (18, 2)
-[00:18:37.234 I] Loading cell Sadrith Mora (18, 4)
-[00:18:37.240 I] Loading cell Azura's Coast Region (19, 3)
-[00:18:37.241 I] Loading cell Azura's Coast Region (17, 2)
-[00:18:37.242 I] Loading cell Sadrith Mora (17, 4)
-[00:18:37.247 I] Loading cell Azura's Coast Region (19, 2)
-[00:18:37.249 I] Loading cell Azura's Coast Region (19, 4)
-[00:18:40.797 I] Unloading cell Azura's Coast Region (18, 2)
-[00:18:40.798 I] Unloading cell Azura's Coast Region (19, 2)
-[00:18:40.799 I] Unloading cell Azura's Coast Region (19, 4)
-[00:18:40.799 I] Unloading cell Azura's Coast Region (17, 2)
-[00:18:40.800 I] Unloading cell Azura's Coast Region (19, 3)
-[00:18:40.802 I] Loading cell Azura's Coast Region (16, 4)
-[00:18:40.806 I] Loading cell Sadrith Mora (17, 5)
-[00:18:40.808 I] Loading cell Azura's Coast Region (16, 3)
-[00:18:40.809 I] Loading cell Azura's Coast Region (16, 5)
-[00:18:40.811 I] Loading cell Azura's Coast Region (18, 5)
-[00:19:06.778 I] Changing to interior
-[00:19:06.778 I] Unloading cell Sadrith Mora (17, 4)
-[00:19:06.780 I] Unloading cell Azura's Coast Region (16, 4)
-[00:19:06.781 I] Unloading cell Azura's Coast Region (18, 5)
-[00:19:06.781 I] Unloading cell Azura's Coast Region (16, 5)
-[00:19:06.782 I] Unloading cell Azura's Coast Region (17, 3)
-[00:19:06.782 I] Unloading cell Azura's Coast Region (16, 3)
-[00:19:06.783 I] Unloading cell Wolverine Hall (18, 3)
-[00:19:06.785 I] Unloading cell Sadrith Mora (18, 4)
-[00:19:06.786 I] Unloading cell Sadrith Mora (17, 5)
-[00:19:06.788 I] Loading cell Sadrith Mora, Volmyni Dral's House
-[00:19:08.823 I] Making a screenshot for saved game 'Autosave'
-[00:19:08.865 I] Writing saved game 'Autosave' for character 'Тот-Кто-Ждет'
-[00:19:09.001 I] 'Autosave' is saved in 178.767ms
-[00:20:43.730 V] Changed setting: [Map] global = false
-[00:20:43.730 I] Updating settings file: /home/helminth/.config/openmw/settings.cfg
-[00:20:43.736 I] Saving shader settings file: /home/helminth/.config/openmw/shaders.yaml
-[00:20:43.736 I] Saving Lua storage "/home/helminth/.config/openmw/global_storage.bin" (140 bytes)
-[00:20:43.736 I] Saving Lua storage "/home/helminth/.config/openmw/player_storage.bin" (4333 bytes)
-[00:20:44.014 I] Saved input bindings: /home/helminth/.config/openmw/input_v3.xml
-[00:20:44.172 I] Quitting peacefully.
+[01:36:02.677 *] Crash handler installed
+[01:36:02.796 *] Loading config file: /usr/etc/openmw/../openmw/openmw.cfg
+[01:36:02.813 *] Loading config file: /home/helminth/.config/openmw/openmw.cfg
+[01:36:02.814 *] Logs dir: /home/helminth/.config/openmw/
+[01:36:02.814 *] User data dir: /home/helminth/.local/share/openmw/
+[01:36:02.814 *] Screenshots dir: /home/helminth/.local/share/openmw/screenshots
+[01:36:02.815 I] OpenMW version 0.52.0
+[01:36:02.815 I] Revision: 3ee798e988
+[01:36:02.818 I] Loading settings file: /usr/etc/openmw/../openmw/defaults.bin
+[01:36:02.833 I] Loading settings file: /home/helminth/.config/openmw/settings.cfg
+[01:36:02.834 I] Using Cyrillic font encoding.
+[01:36:02.874 I] OSG version: 3.6.5
+[01:36:02.874 I] SDL version: 2.32.74
+[01:36:02.874 I] Loading shader settings file: /home/helminth/.config/openmw/shaders.yaml
+[01:36:03.293 I] OpenGL Vendor: AMD
+[01:36:03.293 I] OpenGL Renderer: AMD Radeon Graphics (radeonsi, renoir, ACO, DRM 3.64, 7.2.11-zen1-1-zen)
+[01:36:03.293 I] OpenGL Version: 4.6 (Compatibility Profile) Mesa 26.2.5-arch1.1
+[01:36:03.299 I] Using reverse-z depth buffer
+[01:36:03.307 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Morrowind.bsa
+[01:36:03.312 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Tribunal.bsa
+[01:36:03.312 I] Adding BSA archive /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Bloodmoon.bsa
+[01:36:03.313 I] Adding data directory /usr/share/games/openmw/resources/vfs
+[01:36:03.316 I] Adding data directory /usr/share/games/openmw/resources/vfs-mw
+[01:36:03.317 I] Adding data directory /home/helminth/Desktop/mwmods/00 Animated Main Menu
+[01:36:03.317 I] Adding data directory /home/helminth/Desktop/mwmods/main 54985 0.6.7 2026-06-24T12-26Z DBQdB8qp
+[01:36:03.318 I] Adding data directory /home/helminth/Desktop/mwmods/Enchant icons-50028-1-0-0-1625760268/Malachite/Data Files
+[01:36:03.318 I] Adding data directory /home/helminth/Desktop/mwmods/Ultimate Icon Replacer v1-36948-1
+[01:36:03.324 I] Adding data directory /home/helminth/Desktop/mwmods/MET 6-1 main
+[01:36:03.348 I] Adding data directory /home/helminth/Desktop/mwmods/Immersive Loading Screens (OpenMW)
+[01:36:03.349 I] Adding data directory /home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk2.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/BILL_diedog.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwoman1.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/bill_nogooddeed.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname1.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenBoat2.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenName3.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname2.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargendock1.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/BILL_assantus.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/Slpr_004.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenDock3.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/CharGenBoat1.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwoman2.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk3.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargendock2.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenwalk1.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.363 W] Found duplicate file for '/home/helminth/.local/share/Steam/steamapps/common/Morrowind/Data Files/Sound/Vo/Misc/chargenname4.mp3', please check your file system for two files with the same name in different cases.
+[01:36:03.380 I] Adding data directory /home/helminth/.local/share/openmw/data
+[01:36:03.389 I] Preferred locales: gmst en
+[01:36:03.393 I] Initializing LuaUtil::LuaState without profiler
+[01:36:03.416 I] Lua version: Lua 5.1.4 (LuaJIT 2.1.1788856981)
+[01:36:03.416 I] Loading keybindings file: /home/helminth/.config/openmw/input_v3.xml
+[01:36:03.421 I] Loading bitmap font file fonts/magic_cards_regular.fnt
+[01:36:03.436 I] Loading bitmap font file fonts/daedric_font.fnt
+[01:36:03.438 I] Loading TrueType font file fonts/dejavulgcsansmono.omwfont
+[01:36:03.514 I] Initializing OpenAL...
+[01:36:03.519 I] Opened "Ryzen HD Audio Controller Analog Stereo"
+[01:36:03.519 I]   ALC Version: 1.1
+[01:36:03.519 I]   ALC Extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_debug ALC_EXT_DEDICATED ALC_EXT_direct_context ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_device_clock ALC_SOFT_HRTF ALC_SOFT_loopback ALC_SOFT_loopback_bformat ALC_SOFT_output_limiter ALC_SOFT_output_mode ALC_SOFT_pause_device ALC_SOFT_reopen_device ALC_SOFT_system_events
+[01:36:03.527 I]   Vendor: OpenAL Community
+[01:36:03.527 I]   Renderer: OpenAL Soft
+[01:36:03.527 I]   Version: 1.1 ALSOFT 1.25.2
+[01:36:03.527 I]   Extensions: AL_EXT_ALAW AL_EXT_BFORMAT AL_EXT_debug AL_EXT_direct_context AL_EXT_DOUBLE AL_EXT_EXPONENT_DISTANCE AL_EXT_FLOAT32 AL_EXT_IMA4 AL_EXT_LINEAR_DISTANCE AL_EXT_MCFORMATS AL_EXT_MULAW AL_EXT_MULAW_BFORMAT AL_EXT_MULAW_MCFORMATS AL_EXT_OFFSET AL_EXT_source_distance_model AL_EXT_SOURCE_RADIUS AL_EXT_STATIC_BUFFER AL_EXT_STEREO_ANGLES AL_LOKI_quadriphonic AL_SOFT_bformat_ex AL_SOFT_bformat_hoa AL_SOFT_block_alignment AL_SOFT_buffer_length_query AL_SOFT_callback_buffer AL_SOFTX_convolution_effect AL_SOFT_deferred_updates AL_SOFT_direct_channels AL_SOFT_direct_channels_remix AL_SOFT_effect_target AL_SOFT_events AL_SOFT_gain_clamp_ex AL_SOFTX_hold_on_disconnect AL_SOFT_loop_points AL_SOFTX_map_buffer AL_SOFT_MSADPCM AL_SOFT_source_latency AL_SOFT_source_length AL_SOFTX_source_panning AL_SOFT_source_resampler AL_SOFT_source_spatialize AL_SOFT_source_start_delay AL_SOFT_UHJ AL_SOFT_UHJ_ex
+[01:36:03.527 I] HRTF disabled
+[01:36:03.527 V] Using idle priority for thread=140682962384576
+[01:36:03.527 I] Allocated 256 sound sources
+[01:36:03.527 I] Low-pass filter supported
+[01:36:03.528 I] EAX Reverb supported
+[01:36:03.528 I] Enumerated output devices:
+[01:36:03.528 I]   Ryzen HD Audio Controller Analog Stereo  Renoir/Cezanne HDMI/DP Audio Controller Digital Stereo (HDMI) [L22i-40]
+[01:36:03.528 I] Enumerated HRTF names:
+[01:36:03.528 I]   Default HRTF  Built-In HRTF
+[01:36:03.528 V] Using idle priority for thread=140682953991872
+[01:36:03.558 I] Loading Lua storage "/home/helminth/.config/openmw/global_storage.bin" (140 bytes)
+[01:36:03.568 I] Loading Lua storage "/home/helminth/.config/openmw/player_storage.bin" (4333 bytes)
+[01:36:03.729 I] Loading content file builtin.omwscripts
+[01:36:03.729 I] Loading content file Morrowind.esm
+[01:36:03.752 E] Failed to open video: Resource 'video/bethesda logo.bik.bak' not found
+[01:36:03.823 W] Scaling image 'splash/2.jpg' from (1920,1080) to (2048,1024)
+[01:36:03.969 I] Loading content file Tribunal.esm
+[01:36:04.011 I] Loading content file Bloodmoon.esm
+[01:36:04.050 V] Lua scripts configuration (43 scripts):
+[01:36:04.050 V] #0 MENU PLAYER : scripts/omw/mwui/init.lua
+[01:36:04.050 V] #1 MENU : scripts/omw/settings/menu.lua
+[01:36:04.050 V] #2 PLAYER : scripts/omw/settings/player.lua
+[01:36:04.050 V] #3 GLOBAL : scripts/omw/settings/global.lua
+[01:36:04.050 V] #4 GLOBAL : scripts/omw/activationhandlers.lua
+[01:36:04.050 V] #5 GLOBAL : scripts/omw/usehandlers.lua
+[01:36:04.050 V] #6 GLOBAL : scripts/omw/worldeventhandlers.lua
+[01:36:04.050 V] #7 GLOBAL : scripts/omw/crimes.lua
+[01:36:04.050 V] #8 PLAYER CREATURE NPC : scripts/omw/mechanics/animationcontroller.lua
+[01:36:04.050 V] #9 PLAYER : scripts/omw/skillhandlers.lua
+[01:36:04.050 V] #10 PLAYER : scripts/omw/mechanics/playercontroller.lua
+[01:36:04.050 V] #11 MENU : scripts/omw/camera/settings.lua
+[01:36:04.050 V] #12 MENU : scripts/omw/input/settings.lua
+[01:36:04.050 V] #13 PLAYER : scripts/omw/input/playercontrols.lua
+[01:36:04.050 V] #14 PLAYER : scripts/omw/camera/camera.lua
+[01:36:04.050 V] #15 PLAYER : scripts/omw/input/actionbindings.lua
+[01:36:04.050 V] #16 PLAYER : scripts/omw/input/smoothmovement.lua
+[01:36:04.050 V] #17 PLAYER : scripts/omw/input/gamepadcontrols.lua
+[01:36:04.050 V] #18 NPC CREATURE : scripts/omw/ai.lua
+[01:36:04.050 V] #19 GLOBAL : scripts/omw/mechanics/globalcontroller.lua
+[01:36:04.050 V] #20 PLAYER CREATURE NPC : scripts/omw/mechanics/actorcontroller.lua
+[01:36:04.050 V] #21 PLAYER NPC CREATURE : scripts/omw/combat/interface_local.lua
+[01:36:04.050 V] #22 GLOBAL : scripts/omw/combat/interface_global.lua
+[01:36:04.050 V] #23 PLAYER CREATURE NPC : scripts/omw/spellcasting/interface_local.lua
+[01:36:04.050 V] #24 GLOBAL : scripts/omw/spellcasting/interface_global.lua
+[01:36:04.050 V] #25 GLOBAL : scripts/omw/mechanics/projectiles.lua
+[01:36:04.050 V] #26 PLAYER : scripts/omw/ui.lua
+[01:36:04.050 V] #27 MENU : scripts/omw/console/menu.lua
+[01:36:04.050 V] #28 PLAYER : scripts/omw/console/player.lua
+[01:36:04.050 V] #29 GLOBAL : scripts/omw/console/global.lua
+[01:36:04.050 V] #30 CUSTOM : scripts/omw/console/local.lua
+[01:36:04.050 V] #31 NPC CREATURE : scripts/omw/music/actor.lua
+[01:36:04.050 V] #32 GLOBAL : scripts/omw/cellhandlers.lua
+[01:36:04.050 V] #33 GLOBAL : scripts/omw/combat/global.lua
+[01:36:04.050 V] #34 PLAYER : scripts/omw/combat/settingspage.lua
+[01:36:04.050 V] #35 PLAYER NPC CREATURE : scripts/omw/combat/local.lua
+[01:36:04.050 V] #36 PLAYER : scripts/omw/music/music.lua
+[01:36:04.050 V] #37 MENU : scripts/omw/music/settings.lua
+[01:36:04.050 V] #38 PLAYER : scripts/omw/playerskillhandlers.lua
+[01:36:04.050 V] #39 LOAD : scripts/omw/esmfallbacks.lua
+[01:36:04.050 V] #40 PLAYER CREATURE NPC : scripts/omw/spellcasting/local.lua
+[01:36:04.050 V] #41 DOOR CONTAINER : scripts/omw/spellcasting/lockable.lua
+[01:36:04.050 V] #42 GLOBAL : scripts/omw/spellcasting/global.lua
+[01:36:04.099 V] Enchantment "test magic axe": dropping unexpected skill argument of "FortifyMaximumMagicka" effect
+[01:36:04.235 I] Using 1 async physics threads
+[01:36:04.235 I] Using /home/helminth/.local/share/openmw/navmesh.db to store navigation mesh cache
+[01:36:04.247 V] Using idle priority for thread=140682698155712
+[01:36:04.262 I] Reserving texture units for shadow maps: 29..31
+[01:36:04.266 V] Failed to warm sound sound/fx/jetsons doorbell.mp3: Resource 'sound/fx/jetsons doorbell.mp3' not found
+[01:36:04.293 I] Reserving texture unit for opaque color texture: 28
+[01:36:04.293 I] Reserving texture unit for opaque depth texture: 27
+[01:36:04.296 V] Disabling Multiview (disabled by config)
+[01:36:04.324 V] Language file "l10n/Interface/gmst.yaml" is enabled
+[01:36:04.330 V] Language file "l10n/Interface/en.yaml" is enabled
+[01:36:04.421 V] Language file "l10n/OMWEngine/gmst.yaml" is enabled
+[01:36:04.426 V] Language file "l10n/OMWEngine/en.yaml" is enabled
+[01:36:04.498 V] Language file "l10n/OMWShaders/en.yaml" is enabled
+[01:36:04.686 V] Failed to warm sound sound/cr/sggn/sggn magic.mp3: Resource 'sound/cr/sggn/sggn magic.mp3' not found
+[01:36:04.764 V] Language file "l10n/OMWCamera/en.yaml" is enabled
+[01:36:04.769 V] Language file "l10n/OMWControls/en.yaml" is enabled
+[01:36:04.769 V] Language file "l10n/interface/gmst.yaml" is enabled
+[01:36:04.769 V] Language file "l10n/interface/en.yaml" is enabled
+[01:36:04.775 V] Language file "l10n/Calendar/gmst.yaml" is enabled
+[01:36:04.776 V] Language file "l10n/Calendar/en.yaml" is enabled
+[01:36:04.778 V] Language file "l10n/OMWMusic/en.yaml" is enabled
+[01:36:04.802 I] Playing "music/special/morrowind title.mp3"
+[01:36:04.802 E] Failed to open video: Resource 'video/mw_logo.bik.bak' not found
+[01:36:04.816 V] Failed to warm sound sound/vo/v/cratk_nf002.mp3: Resource 'sound/vo/v/cratk_nf002.mp3' not found
+[01:36:04.816 V] Failed to warm sound sound/vo/v/cratk_nf003.mp3: Resource 'sound/vo/v/cratk_nf003.mp3' not found
+[01:36:04.816 V] Failed to warm sound sound/vo/v/cratk_nf004.mp3: Resource 'sound/vo/v/cratk_nf004.mp3' not found
+[01:36:04.816 V] Failed to warm sound sound/vo/v/cratk_nf005.mp3: Resource 'sound/vo/v/cratk_nf005.mp3' not found
+[01:36:06.457 I] Reading save file Quicksave - 2.omwsave
+[01:36:06.463 I] Loading saved game 'Quicksave' for character 'Тот-Кто-Ждет'
+[01:36:06.571 I] Warning: treeliveScript[local variables] line 14, column 2 (( ): Stray special character at start of line
+[01:36:06.571 I] Warning: treedeadScript[local variables] line 14, column 2 (( ): Stray special character at start of line
+[01:36:06.610 I] Warning: Therdon2Script[local variables] line 10, column 16 (=): invalid operator =, treating it as ==
+[01:36:06.610 I] Warning: Therdon2Script[local variables] line 15, column 19 (=): invalid operator =, treating it as ==
+[01:36:06.610 I] Warning: IlnoriScript[local variables] line 8, column 14 (=): invalid operator =, treating it as ==
+[01:36:06.610 I] Warning: IlnoriScript[local variables] line 15, column 15 (=): invalid operator =, treating it as ==
+[01:36:06.610 I] Warning: DetritusScript[local variables] line 20, column 47 (=): invalid operator =, treating it as ==
+[01:36:06.610 I] Warning: DetritusScript[local variables] line 35, column 47 (=): invalid operator =, treating it as ==
+[01:36:06.610 I] Warning: DetritusScript[local variables] line 50, column 47 (=): invalid operator =, treating it as ==
+[01:36:06.611 I] Warning: Colony_D_1_Mine[local variables] line 10, column 20 (=): invalid operator =, treating it as ==
+[01:36:06.646 I] Warning: MirisaFollow[local variables] line 21, column 37 (=): invalid operator =, treating it as ==
+[01:36:06.662 I] Warning: Irano_note[local variables] line 7, column 12 (=): invalid operator =, treating it as ==
+[01:36:06.662 I] Warning: Irano_note[local variables] line 8, column 20 (=): invalid operator =, treating it as ==
+[01:36:06.662 I] Warning: Irano_note[local variables] line 14, column 13 (=): invalid operator =, treating it as ==
+[01:36:06.700 I] Warning: stoneEarthScript[local variables] line 31, column 37 (=): invalid operator =, treating it as ==
+[01:36:06.721 I] Warning: racistSafe[local variables] line 8, column 14 (=): invalid operator =, treating it as ==
+[01:36:06.747 I] Warning: TherdonScript[local variables] line 7, column 14 (=): invalid operator =, treating it as ==
+[01:36:06.747 I] Warning: denegorScript[local variables] line 12, column 34 (=): invalid operator =, treating it as ==
+[01:36:06.747 I] Warning: holmarScript[local variables] line 12, column 36 (=): invalid operator =, treating it as ==
+[01:36:06.747 I] Warning: holmarScript[local variables] line 37, column 15 (=): invalid operator =, treating it as ==
+[01:36:06.747 I] Warning: holmarScript[local variables] line 45, column 15 (=): invalid operator =, treating it as ==
+[01:36:06.747 I] Warning: holmarScript[local variables] line 57, column 36 (=): invalid operator =, treating it as ==
+[01:36:06.747 I] Warning: holmarScript[local variables] line 84, column 17 (=): invalid operator =, treating it as ==
+[01:36:06.868 I] Warning: ThirskRepair[local variables] line 9, column 37 (=): invalid operator =, treating it as ==
+[01:36:06.868 I] Warning: ThirskFixed[local variables] line 3, column 37 (=): invalid operator =, treating it as ==
+[01:36:06.868 I] Warning: SvenjaOutside[local variables] line 8, column 37 (=): invalid operator =, treating it as ==
+[01:36:06.939 I] Warning: GlenmorilRaven[local variables] line 43, column 39 (=): invalid operator =, treating it as ==
+[01:36:06.969 I] Warning: CavernIncarnateDoor[local variables] line 41, column 17 (=): invalid operator =, treating it as ==
+[01:36:06.987 I] Warning: stoneBeastsScript[local variables] line 31, column 38 (=): invalid operator =, treating it as ==
+[01:36:06.994 I] Warning: UlfgarGhostScript[local variables] line 34, column 41 (=): invalid operator =, treating it as ==
+[01:36:06.994 I] Warning: UlfgarGhostScript[local variables] line 50, column 41 (=): invalid operator =, treating it as ==
+[01:36:06.994 I] Warning: UlfgarGhostScript[local variables] line 60, column 40 (=): invalid operator =, treating it as ==
+[01:36:07.071 I] Warning: stoneWaterScript[local variables] line 30, column 37 (=): invalid operator =, treating it as ==
+[01:36:07.168 I] Warning: lookoutScript[local variables] line 41, column 37 (=): invalid operator =, treating it as ==
+[01:36:07.207 I] Warning: playScript[local variables] line 298, column 1 (): string contains newline character, make sure that it is intended
+[01:36:07.207 I] Warning: playScript[local variables] line 299, column 1 (): string contains newline character, make sure that it is intended
+[01:36:07.207 I] Warning: playScript[local variables] line 348, column 1 (): string contains newline character, make sure that it is intended
+[01:36:07.207 I] Warning: playScript[local variables] line 391, column 1 (): string contains newline character, make sure that it is intended
+[01:36:07.208 I] Warning: OvisScript[local variables] line 19, column 15 (=): invalid operator =, treating it as ==
+[01:36:07.245 I] Warning: tarenScript[local variables] line 21, column 14 (=): invalid operator =, treating it as ==
+[01:36:07.245 I] Warning: ThrudScript[local variables] line 9, column 15 (=): invalid operator =, treating it as ==
+[01:36:07.245 I] Warning: ThrudScript[local variables] line 10, column 41 (=): invalid operator =, treating it as ==
+[01:36:07.245 I] Warning: ThrudScript[local variables] line 22, column 14 (=): invalid operator =, treating it as ==
+[01:36:07.245 I] Warning: ThrudScript[local variables] line 34, column 15 (=): invalid operator =, treating it as ==
+[01:36:07.245 I] Warning: highPocketsScript[local variables] line 10, column 15 (=): invalid operator =, treating it as ==
+[01:36:07.497 V] Language file "l10n/Mechanics/gmst.yaml" is enabled
+[01:36:07.504 I] Changing to interior
+[01:36:07.504 I] Loading cell Sadrith Mora, Volmyni Dral's House
+[01:36:08.331 V] Language file "l10n/OMWCombat/en.yaml" is enabled
+[01:36:09.591 I] Playing "music/explore/mx_explore_1.mp3"
+[01:37:52.952 I] Making a screenshot for saved game 'Quicksave'
+[01:37:52.996 I] Writing saved game 'Quicksave' for character 'Тот-Кто-Ждет'
+[01:37:53.128 I] 'Quicksave' is saved in 176.63ms
+[01:37:57.627 I] Saving shader settings file: /home/helminth/.config/openmw/shaders.yaml
+[01:37:57.627 I] Saving Lua storage "/home/helminth/.config/openmw/global_storage.bin" (140 bytes)
+[01:37:57.627 I] Saving Lua storage "/home/helminth/.config/openmw/player_storage.bin" (4333 bytes)
+[01:37:57.834 I] Saved input bindings: /home/helminth/.config/openmw/input_v3.xml
+[01:37:57.931 I] Quitting peacefully.

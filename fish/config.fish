@@ -219,6 +219,7 @@ alias everdeep="umu-run '~/Desktop/Everdeep Aurora/Everdeep Aurora.exe'"
 alias eq="nvim ~/Desktop/mp3/eq.txt"
 alias ddf="df -h | rg nvme0n1p3"
 alias dff="df -h"
+alias rate="wlr-randr"
 #
 
 function fish_user_key_bindings
