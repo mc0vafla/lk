@@ -220,6 +220,7 @@ alias eq="nvim ~/Desktop/mp3/eq.txt"
 alias ddf="df -h | rg nvme0n1p3"
 alias dff="df -h"
 alias rate="wlr-randr"
+alias isaac="cd ~/Desktop/isaac > /dev/null 2>&1; echo starting Tboi; umu-run isaac-ng.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 #
 
 function fish_user_key_bindings
