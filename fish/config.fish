@@ -198,7 +198,6 @@ alias dwvd="yt-dlp --merge-output-format mp4 -f 'bestvideo[height<=1080]+bestaud
 alias qp="pacman -Qtt | fzf"
 alias dw="yt-dlp -t mp3"
 alias d="dua ."
-alias dwsp="spotdl"
 alias gr="git status"
 alias k="cd ~/Desktop/mp3"
 
