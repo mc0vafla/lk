@@ -28,6 +28,7 @@ application/octet-stream=userapp-imv-WR9AV3.desktop
 application/x-xar=xarchiver.desktop
 application/zip=xarchiver.desktop
 image/svg+xml=imv.desktop
+application/json=nvim.desktop
 
 [Added Associations]
 x-scheme-handler/http=zen.desktop;xfce4-web-browser.desktop;
@@ -50,5 +51,6 @@ application/vnd.tcpdump.pcap=nvim.desktop;
 application/x-xar=xarchiver.desktop;
 application/zip=xarchiver.desktop;
 image/svg+xml=imv.desktop;
+application/json=nvim.desktop;
 
 [Removed Associations]

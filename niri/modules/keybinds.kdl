@@ -68,7 +68,6 @@ binds {
     Alt+2 { screenshot-screen show-pointer=false; }
     print { screenshot-screen show-pointer=false; }
     Alt+3 { screenshot-window show-pointer=false; }
-    Alt+4 { spawn-sh "hyprpicker | wl-copy; noctalia msg notification-show Hyprpicker Color was copied";}
 
     Mod+m { quit; }
 }
