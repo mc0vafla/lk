@@ -68,6 +68,8 @@ binds {
     Alt+2 { screenshot-screen show-pointer=false; }
     print { screenshot-screen show-pointer=false; }
     Alt+3 { screenshot-window show-pointer=false; }
+    Alt+4 { spawn-sh "noctalia msg panel-toggle oldirtty/color_picker:panel"; }
+    Mod+j { spawn-sh "noctalia msg panel-toggle nocode-96/cmd-runner:panel"; }
 
     Mod+m { quit; }
 }

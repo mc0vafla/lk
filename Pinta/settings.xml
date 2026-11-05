@@ -39,6 +39,5 @@
   <setting name="rectangletool-dash-pattern" type="System.String">-</setting>
   <setting name="new-image-width" type="System.Int32">1</setting>
   <setting name="new-image-height" type="System.Int32">1</setting>
-  <setting name="new-image-bg" type="Pinta.BackgroundType">Transparent</setting>
   <setting name="default-image-type" type="System.String">png</setting>
 </settings>
