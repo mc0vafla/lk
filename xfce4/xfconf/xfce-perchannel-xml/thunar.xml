@@ -8,4 +8,11 @@
   <property name="last-window-height" type="int" value="1060"/>
   <property name="last-window-maximized" type="bool" value="false"/>
   <property name="last-separator-position" type="int" value="170"/>
+  <property name="hidden-bookmarks" type="array">
+    <value type="string" value="network:///"/>
+    <value type="string" value="computer:///"/>
+    <value type="string" value="recent:///"/>
+  </property>
+  <property name="misc-thumbnail-mode" type="string" value="THUNAR_THUMBNAIL_MODE_ALWAYS"/>
+  <property name="last-show-hidden" type="bool" value="true"/>
 </channel>
