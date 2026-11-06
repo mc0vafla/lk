@@ -73,6 +73,7 @@ binds {
     Mod+k { spawn-sh "noctalia msg panel-toggle oldirtty/color_picker:panel"; }
     Mod+j { spawn-sh "noctalia msg panel-toggle nocode-96/cmd-runner:panel"; }
     Mod+i { spawn-sh "noctalia msg panel-toggle liamwh/emoji-picker:wide"; }
+    Mod+l { spawn-sh "noctalia msg panel-open reaperhound/ambient-sounds:main"; }
 
     Mod+m { quit; }
 }

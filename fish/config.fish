@@ -201,6 +201,7 @@ alias dw="yt-dlp -t mp3"
 alias d="dua ."
 alias gr="git status"
 alias k="cd ~/Desktop/mp3"
+alias nt="noctalia msg panel-open a"
 
 #
 alias ap="cd /usr/share/applications/"
