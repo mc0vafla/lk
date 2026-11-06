@@ -68,8 +68,11 @@ binds {
     Alt+2 { screenshot-screen show-pointer=false; }
     print { screenshot-screen show-pointer=false; }
     Alt+3 { screenshot-window show-pointer=false; }
-    Alt+4 { spawn-sh "noctalia msg panel-toggle oldirtty/color_picker:panel"; }
+    Alt+4 { spawn-sh "noctalia msg plugin oldirtty/color_picker:service all pick"; }
+
+    Mod+k { spawn-sh "noctalia msg panel-toggle oldirtty/color_picker:panel"; }
     Mod+j { spawn-sh "noctalia msg panel-toggle nocode-96/cmd-runner:panel"; }
+    Mod+i { spawn-sh "noctalia msg panel-toggle liamwh/emoji-picker:wide"; }
 
     Mod+m { quit; }
 }
