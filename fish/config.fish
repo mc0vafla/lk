@@ -4,6 +4,7 @@ set -gx WLR_NO_HARDWARE_CURSORS 1
 export QT_QPA_PLATFORMTHEME=qt5ct QT_STYLE_OVERRIDE=kvantum
 set -gx YDOTOOL_SOCKET /run/user/1000/.ydotool_socket
 set -gx EDITOR nvim
+set -gx YDOTOOL_SOCKET /tmp/.ydotool_socket
 
 alias nr="dbus-run-session niri --session"
 
