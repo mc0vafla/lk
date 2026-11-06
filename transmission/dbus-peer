@@ -1,0 +1,3 @@
+bus-name=:1.228
+interface=com.transmissionbt.Transmission
+path=/com/transmissionbt/Transmission
