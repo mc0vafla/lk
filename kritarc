@@ -1,13 +1,13 @@
 AlsoSaveAsKra=false
 ArtColorSel.ColorSpace=0
 ArtColorSel.InversedSaturation=false
-ArtColorSel.Light=0.6457085566145442
+ArtColorSel.Light=0.9528980630191008
 ArtColorSel.LightPieces=11
 ArtColorSel.NumRings=7
 ArtColorSel.RingPieces=12
-ArtColorSel.SelColorH=0.5633290097435185
-ArtColorSel.SelColorS=0.8892440267652882
-ArtColorSel.SelColorX=0.6457085566145442
+ArtColorSel.SelColorH=0.2780824700385946
+ArtColorSel.SelColorS=0.0532905396229382
+ArtColorSel.SelColorX=0.9528980630191008
 ArtColorSel.defaultHueSteps=12
 ArtColorSel.defaultSaturationSteps=7
 ArtColorSel.defaultValueScaleSteps=11
@@ -19,7 +19,7 @@ ArtColorSel.lumaR=0.2126
 ArtColorSel.showBgColor=true
 ArtColorSel.showValueScale=false
 CanvasOnlyActive=false
-ExportConfiguration-image/jpeg=<!DOCTYPE params>\n<params>\n <param name="baseline" type="internal">true</param>\n <param name="exif" type="internal">true</param>\n <param name="filters" type="string"><![CDATA[]]></param>\n <param name="forceSRGB" type="internal">false</param>\n <param name="iptc" type="internal">true</param>\n <param name="optimize" type="internal">true</param>\n <param name="progressive" type="internal">false</param>\n <param name="quality" type="internal">100</param>\n <param name="saveProfile" type="internal">true</param>\n <param name="smoothing" type="internal">0</param>\n <param name="storeAuthor" type="internal">false</param>\n <param name="storeMetaData" type="internal">false</param>\n <param name="subsampling" type="internal">0</param>\n <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>\n<color>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-g10.icc"/>\n</color>\n]]></param>\n <param name="xmp" type="internal">true</param>\n</params>\n
+ExportConfiguration-image/jpeg=<!DOCTYPE params>\n<params>\n <param name="baseline" type="internal">true</param>\n <param name="exif" type="internal">true</param>\n <param name="filters" type="string"><![CDATA[]]></param>\n <param name="forceSRGB" type="internal">false</param>\n <param name="iptc" type="internal">true</param>\n <param name="optimize" type="internal">true</param>\n <param name="progressive" type="internal">false</param>\n <param name="quality" type="internal">85</param>\n <param name="saveProfile" type="internal">true</param>\n <param name="smoothing" type="internal">0</param>\n <param name="storeAuthor" type="internal">false</param>\n <param name="storeMetaData" type="internal">false</param>\n <param name="subsampling" type="internal">0</param>\n <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>\n<color>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-g10.icc"/>\n</color>\n]]></param>\n <param name="xmp" type="internal">true</param>\n</params>\n
 ExportConfiguration-image/png=<!DOCTYPE params>\n<params>\n <param name="alpha" type="internal">true</param>\n <param name="compression" type="internal">1</param>\n <param name="downsample" type="internal">false</param>\n <param name="forceSRGB" type="internal">true</param>\n <param name="indexed" type="internal">false</param>\n <param name="interlaced" type="internal">false</param>\n <param name="saveAsHDR" type="internal">false</param>\n <param name="saveSRGBProfile" type="internal">false</param>\n <param name="storeAuthor" type="internal">false</param>\n <param name="storeMetaData" type="internal">false</param>\n <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>\n<color>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-g10.icc"/>\n</color>\n]]></param>\n</params>\n
 GamutMasks.viewMode=0
 Krita/Ocio/DisplayDevice=sRGB
@@ -32,9 +32,9 @@ Krita/Ocio/OcioLockColorVisualRepresentation=false
 Krita/Ocio/OcioLutPath=
 Krita/Ocio/UseOcio=false
 LastBackGroundColor=<!DOCTYPE LastBackGroundColor>\n<LastBackGroundColor>\n <RGB b="0" g="0" r="0" space="sRGB-elle-V2-srgbtrc.icc"/>\n</LastBackGroundColor>\n
-LastColorHistory=<!DOCTYPE LastColorHistory>\n<colors>\n <RGB b="0.854901969432831" g="0.701960802078247" r="0.227450981736183" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0" g="0" r="0" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-srgbtrc.icc"/>\n</colors>\n
-LastForeGroundColor=<!DOCTYPE LastForeGroundColor>\n<LastForeGroundColor>\n <RGB b="0.854901969432831" g="0.701960802078247" r="0.227450981736183" space="sRGB-elle-V2-srgbtrc.icc"/>\n</LastForeGroundColor>\n
-LastPreset_-1=b) Basic-1
+LastColorHistory=<!DOCTYPE LastColorHistory>\n<colors>\n <RGB b="0.945098042488098" g="0.95686274766922" r="0.949019610881805" space="sRGB"/>\n <RGB b="0.945098042488098" g="0.960784316062927" r="0.941176474094391" space="sRGB"/>\n <RGB b="0.933333337306976" g="0.949019610881805" r="0.929411768913269" space="sRGB"/>\n <RGB b="0.929411768913269" g="0.945098042488098" r="0.925490200519562" space="sRGB"/>\n <RGB b="0.929411768913269" g="0.941176474094391" r="0.933333337306976" space="sRGB"/>\n <RGB b="0.925490200519562" g="0.941176474094391" r="0.921568632125854" space="sRGB"/>\n <RGB b="0.937254905700684" g="0.952941179275513" r="0.933333337306976" space="sRGB"/>\n <RGB b="0.937254905700684" g="0.949019610881805" r="0.941176474094391" space="sRGB"/>\n <RGB b="0.933333337306976" g="0.945098042488098" r="0.937254905700684" space="sRGB"/>\n <RGB b="0.87058824300766" g="0.886274516582489" r="0.866666674613953" space="sRGB"/>\n <RGB b="0.866666674613953" g="0.882352948188782" r="0.862745106220245" space="sRGB"/>\n <RGB b="0.898039221763611" g="0.901960790157318" r="0.886274516582489" space="sRGB"/>\n <RGB b="0.901960790157318" g="0.905882358551025" r="0.890196084976196" space="sRGB"/>\n <RGB b="0.878431379795074" g="0.894117653369904" r="0.874509811401367" space="sRGB"/>\n <RGB b="0.882352948188782" g="0.898039221763611" r="0.878431379795074" space="sRGB"/>\n <RGB b="0.874509811401367" g="0.878431379795074" r="0.862745106220245" space="sRGB"/>\n <RGB b="0.894117653369904" g="0.898039221763611" r="0.882352948188782" space="sRGB"/>\n <RGB b="0.890196084976196" g="0.886274516582489" r="0.87058824300766" space="sRGB"/>\n <RGB b="0.996078431606293" g="0.996078431606293" r="0.996078431606293" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.854901969432831" g="0.701960802078247" r="0.227450981736183" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0" g="0" r="0" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-srgbtrc.icc"/>\n</colors>\n
+LastForeGroundColor=<!DOCTYPE LastForeGroundColor>\n<LastForeGroundColor>\n <RGB b="0.945098042488098" g="0.95686274766922" r="0.949019610881805" space="sRGB"/>\n</LastForeGroundColor>\n
+LastPreset_-1=b) Basic-5 Size
 LineSmoothingDelayDistance=50
 LineSmoothingDistanceKeepAspectRatio=true
 LineSmoothingDistanceMax=50
@@ -118,7 +118,7 @@ onionSkinState_9=false
 onionSkinTintColorBackward=255,0,0
 onionSkinTintFactor=191
 presetStripVisible=true
-presethistory=b) Basic-5 Size Opacity,b) Basic-1,b) Basic-5 Size,d) Ink-2 Fineliner
+presethistory=b) Basic-5 Size Opacity,b) Basic-1,b) Basic-5 Size,d) Ink-2 Fineliner,y) Screentones Regular,y) Screentone Pressure,d) Ink-1 Precision
 scratchpadVisible=true
 selectionActionBarOrientation=0
 selectionActionBarPosition=0
@@ -435,9 +435,11 @@ pinControls=true
 File1[$e]=/mnt/d.jpg
 File2[$e]=/mnt/das.jpg
 File3[$e]=$HOME/.local/share/PrismLauncher/instances/26.3/minecraft/cachedImages/capes/Mouse3D.png
+File4[$e]=/mnt/300.jpg
 Name1=d.jpg
 Name2=das.jpg
 Name3=Mouse3D.png
+Name4=300.jpg
 maxRecentFileItems=100
 
 [SelectedTags]
