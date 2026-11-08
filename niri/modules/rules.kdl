@@ -48,6 +48,10 @@ window-rule {
     open-on-workspace "if"
 }
 window-rule {
+    match app-id="zen"
+    default-column-width { proportion 1.0; }
+}
+window-rule {
     match title="(?i)minecraft"
     default-column-width { proportion 1.0; }
     open-fullscreen true
