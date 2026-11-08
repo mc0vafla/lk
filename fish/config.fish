@@ -210,13 +210,10 @@ alias h="cd ~/jj/l/; nvim ./src/main.c"
 
 #
 alias ap="cd /usr/share/applications/"
-alias cotl="umu-run '~/Desktop/Cult of the Lamb/Cult Of The Lamb.exe'"
 alias fah1="umu-run '~/Desktop/fah1/Game.exe'"
 alias fah2="umu-run '~/Desktop/fah2/Game.exe'"
 alias votv="umu-run '~/Desktop/votv/VotV.exe'"
-alias backpack="umu-run '~/Desktop/Backpack Hero/Backpack Hero/Backpack Hero.exe'"
-alias crow="umu-run '~/Desktop/Crow Country/Crow Country.exe'"
-alias everdeep="umu-run '~/Desktop/Everdeep Aurora/Everdeep Aurora.exe'"
+alias crow="umu-run '~/Desktop/crow/Crow Country.exe'"
 alias isaac="cd ~/Desktop/isaac > /dev/null 2>&1; echo starting Tboi; umu-run isaac-ng.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 #
 
