@@ -8,7 +8,6 @@
   "shell": "fish",
   // Available special escape sequences in actions: \n or \r (Enter), \t (Tab), \b (Backspace), \e (Escape)
   "binds": [
-    { "key": "v", "mods": "ctrl+shift", "action": "paste" },
     { "key": "equal", "mods": "ctrl", "action": "font_increase" },
     { "key": "minus", "mods": "ctrl", "action": "font_decrease" },
     { "key": "x", "mods": "alt", "actions": ["u", "\r"] },
