@@ -6,6 +6,9 @@ set -gx YDOTOOL_SOCKET /run/user/1000/.ydotool_socket
 set -gx EDITOR nvim
 set -gx YDOTOOL_SOCKET /tmp/.ydotool_socket
 
+bind --erase \ev >/dev/null 2>&1
+bind --erase M-v >/dev/null 2>&1
+
 alias nr="dbus-run-session niri --session"
 
 if test (tty) = "/dev/tty1"
