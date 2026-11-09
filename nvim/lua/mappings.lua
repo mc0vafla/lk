@@ -92,3 +92,11 @@ map({ "n", "t", "i" }, "<C-a>", function()
   end
   api.tree.open()
 end, { desc = "Toggle focus between code and NvimTree" })
+
+map("n", "x", '"_x', { desc = "Delete char without copying" })
+map("n", "d", '"_d', { desc = "Delete without copying" })
+map("n", "D", '"_D', { desc = "Delete to EOL without copying" })
+map("v", "d", '"_d', { desc = "Delete visual without copying" })
+
+map("n", "c", '"_c', { desc = "Change without copying" })
+map("v", "c", '"_c', { desc = "Change visual without copying" })
