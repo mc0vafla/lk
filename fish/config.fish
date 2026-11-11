@@ -214,6 +214,7 @@ alias fah2="umu-run '~/Desktop/fah2/Game.exe'"
 alias votv="umu-run '~/Desktop/votv/VotV.exe'"
 alias crow="umu-run '~/Desktop/crow/Crow Country.exe'"
 alias isaac="cd ~/Desktop/isaac > /dev/null 2>&1; echo starting Tboi; umu-run isaac-ng.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
+alias er="cd ~/Desktop/er/; umu-run eldenring.exe"
 #
 
 function fish_user_key_bindings
