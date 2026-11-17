@@ -95,7 +95,7 @@ end
 alias "..."="cd ..; cd .."
 alias "...."="cd ..; cd ..; cd .."
 alias gd="git diff"
-alias na="j pcmanfm ."
+alias na="j fm ."
 alias x="ping google.com"
 alias xx="ip link"
 alias qd="doas dua i / -i /mnt"
