@@ -1,13 +1,13 @@
 AlsoSaveAsKra=false
 ArtColorSel.ColorSpace=0
 ArtColorSel.InversedSaturation=false
-ArtColorSel.Light=0.4842986453903052
+ArtColorSel.Light=0.7180523808288916
 ArtColorSel.LightPieces=11
 ArtColorSel.NumRings=7
 ArtColorSel.RingPieces=12
-ArtColorSel.SelColorH=0.030016730636748357
-ArtColorSel.SelColorS=0.2609080147038616
-ArtColorSel.SelColorX=0.4842986453903052
+ArtColorSel.SelColorH=0.03300811525485547
+ArtColorSel.SelColorS=0.20884082178711483
+ArtColorSel.SelColorX=0.7180523808288916
 ArtColorSel.defaultHueSteps=12
 ArtColorSel.defaultSaturationSteps=7
 ArtColorSel.defaultValueScaleSteps=11
@@ -32,8 +32,8 @@ Krita/Ocio/OcioLockColorVisualRepresentation=false
 Krita/Ocio/OcioLutPath=
 Krita/Ocio/UseOcio=false
 LastBackGroundColor=<!DOCTYPE LastBackGroundColor>\n<LastBackGroundColor>\n <RGB b="0" g="0" r="0" space="sRGB-elle-V2-srgbtrc.icc"/>\n</LastBackGroundColor>\n
-LastColorHistory=<!DOCTYPE LastColorHistory>\n<colors>\n <RGB b="0.423529416322708" g="0.458823531866074" r="0.588235318660736" space="sRGB"/>\n <RGB b="0.878431379795074" g="0.890196084976196" r="0.866666674613953" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="0.905882358551025" g="0.91372549533844" r="0.894117653369904" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="0.866666674613953" g="0.882352948188782" r="0.862745106220245" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="0.945098042488098" g="0.95686274766922" r="0.949019610881805" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.945098042488098" g="0.960784316062927" r="0.941176474094391" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.933333337306976" g="0.949019610881805" r="0.929411768913269" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.929411768913269" g="0.945098042488098" r="0.925490200519562" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.929411768913269" g="0.941176474094391" r="0.933333337306976" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.925490200519562" g="0.941176474094391" r="0.921568632125854" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.937254905700684" g="0.952941179275513" r="0.933333337306976" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.937254905700684" g="0.949019610881805" r="0.941176474094391" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.933333337306976" g="0.945098042488098" r="0.937254905700684" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.87058824300766" g="0.886274516582489" r="0.866666674613953" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.866666674613953" g="0.882352948188782" r="0.862745106220245" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.898039221763611" g="0.901960790157318" r="0.886274516582489" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.901960790157318" g="0.905882358551025" r="0.890196084976196" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.878431379795074" g="0.894117653369904" r="0.874509811401367" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.882352948188782" g="0.898039221763611" r="0.878431379795074" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.874509811401367" g="0.878431379795074" r="0.862745106220245" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.894117653369904" g="0.898039221763611" r="0.882352948188782" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.890196084976196" g="0.886274516582489" r="0.87058824300766" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.996078431606293" g="0.996078431606293" r="0.996078431606293" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.854901969432831" g="0.701960802078247" r="0.227450981736183" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0" g="0" r="0" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-srgbtrc.icc"/>\n</colors>\n
-LastForeGroundColor=<!DOCTYPE LastForeGroundColor>\n<LastForeGroundColor>\n <RGB b="0.423529416322708" g="0.458823531866074" r="0.588235318660736" space="sRGB"/>\n</LastForeGroundColor>\n
+LastColorHistory=<!DOCTYPE LastColorHistory>\n<colors>\n <RGB b="0.423529416322708" g="0.458823531866074" r="0.588235318660736" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.878431379795074" g="0.890196084976196" r="0.866666674613953" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="0.905882358551025" g="0.91372549533844" r="0.894117653369904" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="0.866666674613953" g="0.882352948188782" r="0.862745106220245" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="0.945098042488098" g="0.95686274766922" r="0.949019610881805" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.945098042488098" g="0.960784316062927" r="0.941176474094391" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.933333337306976" g="0.949019610881805" r="0.929411768913269" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.929411768913269" g="0.945098042488098" r="0.925490200519562" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.929411768913269" g="0.941176474094391" r="0.933333337306976" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.925490200519562" g="0.941176474094391" r="0.921568632125854" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.937254905700684" g="0.952941179275513" r="0.933333337306976" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.937254905700684" g="0.949019610881805" r="0.941176474094391" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.933333337306976" g="0.945098042488098" r="0.937254905700684" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.87058824300766" g="0.886274516582489" r="0.866666674613953" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.866666674613953" g="0.882352948188782" r="0.862745106220245" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.898039221763611" g="0.901960790157318" r="0.886274516582489" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.901960790157318" g="0.905882358551025" r="0.890196084976196" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.878431379795074" g="0.894117653369904" r="0.874509811401367" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.882352948188782" g="0.898039221763611" r="0.878431379795074" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.874509811401367" g="0.878431379795074" r="0.862745106220245" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.894117653369904" g="0.898039221763611" r="0.882352948188782" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.890196084976196" g="0.886274516582489" r="0.87058824300766" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.996078431606293" g="0.996078431606293" r="0.996078431606293" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0.854901969432831" g="0.701960802078247" r="0.227450981736183" space="sRGB-elle-V2-srgbtrc.icc"/>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="0" g="0" r="0" space="sRGB-elle-V2-g10.icc"/>\n <RGB b="1" g="1" r="1" space="sRGB-elle-V2-srgbtrc.icc"/>\n</colors>\n
+LastForeGroundColor=<!DOCTYPE LastForeGroundColor>\n<LastForeGroundColor>\n <RGB b="0.423529416322708" g="0.458823531866074" r="0.588235318660736" space="sRGB-elle-V2-g10.icc"/>\n</LastForeGroundColor>\n
 LastPreset_-1=b) Basic-5 Size
 LineSmoothingDelayDistance=50
 LineSmoothingDistanceKeepAspectRatio=true
@@ -435,9 +435,11 @@ pinControls=true
 File1[$e]=$HOME/.local/share/PrismLauncher/instances/26.3/minecraft/cachedImages/capes/Mouse3D.png
 File2[$e]=/mnt/img/zdjęcie.png
 File3[$e]=$HOME/Pictures/ld.jpg
+File4[$e]=$HOME/Pictures/Screenshots/lk.png
 Name1=Mouse3D.png
 Name2=zdjęcie.png
 Name3=ld.jpg
+Name4=lk.png
 maxRecentFileItems=100
 
 [SelectedTags]
