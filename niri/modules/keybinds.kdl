@@ -15,6 +15,7 @@ binds {
     Mod+Shift+s   { spawn-sh "noctalia msg media toggle"; }
 
     Mod+Return { spawn-sh "l-term"; }
+    Mod+Shift+Return { spawn-sh "l-term"; }
     Mod+v { spawn-sh "noctalia msg panel-toggle launcher"; }
 
     Mod+Tab repeat=false { toggle-overview; }
