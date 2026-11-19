@@ -21,7 +21,7 @@
     { "key": "a", "mods": "alt", "actions": ["upd-grub\n"] },
     { "key": "c", "mods": "alt", "actions": ["gss\n"] },
     { "key": "w", "mods": "alt", "actions": ["na\n"] },
-    { "key": "s", "mods": "alt", "actions": ["dua i\n"] }
+    { "key": "s", "mods": "alt", "actions": ["dua i\n"] },
     { "key": "q", "mods": "alt", "actions": ["h\n"] },
     { "key": "j", "mods": "alt", "actions": [" > /dev/null 2>&1"] },
     { "key": "f", "mods": "ctrl", "actions": ["tmux\n"] },
