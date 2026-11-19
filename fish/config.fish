@@ -210,13 +210,6 @@ alias rate="wlr-randr"
 # nvidia
 # env __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia __VK_LAYER_NV_optimus=NVIDIA_only
 
-# alias re="git log"
-# alias qf="uptime -p"
-# alias imdumb="paru -S --mflags '--skipchecksums'"
-# alias y="tint --theme monokaipro-classic --image"
-# alias yy="tint --theme everforest-dark --image"
-# alias yyy="tint --theme gruvbox-dark --image"
-
 #
 alias ap="cd /usr/share/applications/"
 alias fah1="umu-run '~/Desktop/fah1/Game.exe'"
