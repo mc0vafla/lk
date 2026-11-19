@@ -149,15 +149,8 @@ function git-wipe
   cd > /dev/null 2>&1
 end
 
-functions -e u
 function u
-  set -l filter '(ignoring package upgrade|skipping devel update check \(ignored\))'
-  if test (count $argv) -eq 0
-    paru --color always -Syu 2>&1 | grep --line-buffered -vE $filter
-  else
-    paru --color always $argv 2>&1 | grep --line-buffered -vE $filter
-  end
-  return $pipestatus[1]
+  doas pacman -Syu
 end
 
 function uu 
