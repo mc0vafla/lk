@@ -160,6 +160,10 @@ function u
   return $pipestatus[1]
 end
 
+function uu 
+  paru -Syu
+end
+
 alias rg="rg -. -S"
 alias v="duf"
 alias gl="git remote add origin git@github.com:mc0vafla/lk.git"

@@ -23,7 +23,8 @@
     { "key": "w", "mods": "alt", "actions": ["na\n"] },
     { "key": "s", "mods": "alt", "actions": ["dua i\n"] }
     { "key": "q", "mods": "alt", "actions": ["h\n"] },
-    { "key": "j", "mods": "alt", "actions": [" > /dev/null 2>&1"] }
+    { "key": "j", "mods": "alt", "actions": [" > /dev/null 2>&1"] },
     { "key": "f", "mods": "ctrl", "actions": ["tmux\n"] },
+    { "key": "x", "mods": "shift+alt", "actions": ["uu\n"] }
   ]
 }
