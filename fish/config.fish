@@ -116,7 +116,6 @@ alias del="doas pacman -Rsnv"
 alias fr="nvim ~/.config/fastfetch/config.jsonc"
 alias 321='doas reboot'
 alias 123='doas poweroff'
-alias u="paru -Syu"
 alias q="br"
 alias s="git clone"
 alias n="nvidia-smi"
@@ -148,6 +147,17 @@ function git-wipe
   git branch -m el 
   git push --set-upstream origin el -f
   cd > /dev/null 2>&1
+end
+
+functions -e u
+function u
+  set -l filter '(ignoring package upgrade|skipping devel update check \(ignored\))'
+  if test (count $argv) -eq 0
+    paru --color always -Syu 2>&1 | grep --line-buffered -vE $filter
+  else
+    paru --color always $argv 2>&1 | grep --line-buffered -vE $filter
+  end
+  return $pipestatus[1]
 end
 
 alias rg="rg -. -S"
