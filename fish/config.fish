@@ -3,6 +3,7 @@ export GIT_SSH_COMMAND="ssh -i /home/helminth/.ssh/id_ed25519"
 set -gx WLR_NO_HARDWARE_CURSORS 1 
 set -gx EDITOR nvim
 export QT_QPA_PLATFORMTHEME=qt5ct QT_STYLE_OVERRIDE=kvantum
+fish_add_path ~/.local/bin
 
 # set -Ux WINEDLLOVERRIDES "dinput8=n,b"
 
