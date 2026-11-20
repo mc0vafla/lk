@@ -1,12 +1,12 @@
 zoxide init fish | source
 export GIT_SSH_COMMAND="ssh -i /home/helminth/.ssh/id_ed25519"
 set -gx WLR_NO_HARDWARE_CURSORS 1 
-export QT_QPA_PLATFORMTHEME=qt5ct QT_STYLE_OVERRIDE=kvantum
 set -gx EDITOR nvim
+export QT_QPA_PLATFORMTHEME=qt5ct QT_STYLE_OVERRIDE=kvantum
+
 # set -Ux WINEDLLOVERRIDES "dinput8=n,b"
 
 alias nr="dbus-run-session niri --session"
-
 if test (tty) = "/dev/tty1"
   clear
   nr > /dev/null 2>&1
@@ -212,5 +212,16 @@ alias isaac="cd ~/Desktop/isaac > /dev/null 2>&1; echo starting Tboi; umu-run is
 #
 
 function fish_user_key_bindings
+  bind shift-alt-d "nvim ~/.config/niri/modules/keybinds.kdl; rp"
+  bind ctrl-alt-d "nvim ~/.config/tmux/tmux.conf; rp"
   bind ctrl-q "q; rp"
+  bind ctrl-f "tmux; rp"
+  bind alt-s "dua i; rp"
+  bind alt-c "gss; rp"
+  bind alt-a "upd-grub; rp"
+  bind alt-d "nvim ~/.config/l/config.json; rp"
+  bind alt-f "nvim ~/.config/fish/config.fish; rp"
+  bind alt-r "doas nvim /etc/pacman.d/mirrorlist; rp"
+  bind alt-e "nvim ~/.config/nvim/lua/mappings.lua; rp"
+  bind alt-w "na; rp"
 end

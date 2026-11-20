@@ -10,21 +10,9 @@
   "binds": [
     { "key": "equal", "mods": "ctrl", "action": "font_increase" },
     { "key": "minus", "mods": "ctrl", "action": "font_decrease" },
-    { "key": "d", "mods": "shift+alt", "actions": ["nvim ~/.config/niri/modules/keybinds.kdl\n"] },
-    { "key": "d", "mods": "ctrl+alt", "actions": ["nvim ~/.config/tmux/tmux.conf\n"] },
-    { "key": "e", "mods": "alt", "actions": ["nvim ~/.config/nvim/lua/mappings.lua\n"] },
-    { "key": "r", "mods": "alt", "actions": ["doas nvim /etc/pacman.d/mirrorlist\n"] },
-    { "key": "f", "mods": "alt", "actions": ["nvim ~/.config/fish/config.fish\n"] },
-    { "key": "d", "mods": "alt", "actions": ["nvim ~/.config/l/config.json\n"] },
     { "key": "x", "mods": "alt", "actions": ["u", "\r"] },
     { "key": "z", "mods": "alt", "actions": ["dell", "\r"] },
-    { "key": "a", "mods": "alt", "actions": ["upd-grub\n"] },
-    { "key": "c", "mods": "alt", "actions": ["gss\n"] },
-    { "key": "w", "mods": "alt", "actions": ["na\n"] },
-    { "key": "s", "mods": "alt", "actions": ["dua i\n"] },
-    { "key": "q", "mods": "alt", "actions": ["h\n"] },
     { "key": "j", "mods": "alt", "actions": [" > /dev/null 2>&1"] },
-    { "key": "f", "mods": "ctrl", "actions": ["tmux\n"] },
     { "key": "x", "mods": "shift+alt", "actions": ["uu\n"] }
   ]
 }

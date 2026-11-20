@@ -1,4 +1,0 @@
-# This file contains fish universal variable definitions.
-# VERSION: 3.0
-SETUVAR --export WINEDLLOVERRIDES:dinput8\x3dn\x2cb
-SETUVAR fish_user_paths:/home/helminth/\x2elocal/bin
