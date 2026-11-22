@@ -1,10 +1,12 @@
 zoxide init fish | source
-export PROTONPATH=~/.local/share/Steam/compatibilitytools.d/UMU-Proton-10.0-4/
+set -gx PROTONPATH ~/.local/share/Steam/compatibilitytools.d/UMU-Proton-10.0-4/
+set -gx WLR_NO_HARDWARE_CURSORS 1 
+set -gx UMU_RUNTIME_UPDATE 0
+set -gx UMU_HTTP_RETRIES 0
+set -gx EDITOR nvim
 export GIT_SSH_COMMAND="ssh -i /home/helminth/.ssh/id_ed25519"
 export QT_QPA_PLATFORMTHEME=qt5ct QT_STYLE_OVERRIDE=kvantum
 fish_add_path ~/.local/bin
-set -gx WLR_NO_HARDWARE_CURSORS 1 
-set -gx EDITOR nvim
 
 # set -Ux WINEDLLOVERRIDES "dinput8=n,b"
 
