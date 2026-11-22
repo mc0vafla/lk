@@ -214,6 +214,8 @@ alias fah1="umu-run '~/Desktop/fah1/Game.exe'"
 alias fah2="umu-run '~/Desktop/fah2/Game.exe'"
 alias votv="umu-run '~/Desktop/votv/VotV.exe'"
 alias isaac="cd ~/Desktop/isaac > /dev/null 2>&1; echo starting Tboi; umu-run isaac-ng.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
+alias dsr="cd ~/Desktop/dsr/ > /dev/null 2>&1; umu-run DarkSoulsRemastered.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
+alias cu="cd ~/Desktop/cu/ > /dev/null 2>&1; umu-run CasualtiesUnknown.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 #
 
 
