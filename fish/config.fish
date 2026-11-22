@@ -96,7 +96,6 @@ end
 alias "..."="cd ..; cd .."
 alias "...."="cd ..; cd ..; cd .."
 alias gd="git diff"
-alias na="j fm ."
 alias x="ping google.com"
 alias xx="ip link"
 alias qd="doas dua i / -i /mnt"
@@ -211,6 +210,10 @@ alias fah2="umu-run '~/Desktop/fah2/Game.exe'"
 alias votv="umu-run '~/Desktop/votv/VotV.exe'"
 alias isaac="cd ~/Desktop/isaac > /dev/null 2>&1; echo starting Tboi; umu-run isaac-ng.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 #
+
+function na 
+  fm $PWD
+end
 
 function fish_user_key_bindings
   bind shift-alt-d "nvim ~/.config/niri/modules/keybinds.kdl; rp"
