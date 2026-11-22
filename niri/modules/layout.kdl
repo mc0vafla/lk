@@ -12,7 +12,8 @@ layout {
         proportion 0.6
     }
     insert-hint {
-        color "#db6d6d80"
+        // color "#db6d6d80"
+        color "#db6d6d00"
     }
 	
     struts {
