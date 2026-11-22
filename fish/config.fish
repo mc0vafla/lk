@@ -1,4 +1,5 @@
 zoxide init fish | source
+export PROTONPATH=~/.local/share/Steam/compatibilitytools.d/UMU-Proton-10.0-4/
 export GIT_SSH_COMMAND="ssh -i /home/helminth/.ssh/id_ed25519"
 set -gx WLR_NO_HARDWARE_CURSORS 1 
 set -gx EDITOR nvim
