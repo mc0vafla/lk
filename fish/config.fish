@@ -149,6 +149,10 @@ function git-wipe
   cd > /dev/null 2>&1
 end
 
+function na 
+  j fm $PWD
+end
+
 function u
   doas pacman -Syu
 end
@@ -211,9 +215,6 @@ alias votv="umu-run '~/Desktop/votv/VotV.exe'"
 alias isaac="cd ~/Desktop/isaac > /dev/null 2>&1; echo starting Tboi; umu-run isaac-ng.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 #
 
-function na 
-  fm $PWD
-end
 
 function fish_user_key_bindings
   bind shift-alt-d "nvim ~/.config/niri/modules/keybinds.kdl; rp"
