@@ -13,7 +13,7 @@ layout {
     }
     insert-hint {
         // color "#db6d6d80"
-        color "#db6d6d00"
+        color "#00000000"
     }
 	
     struts {
