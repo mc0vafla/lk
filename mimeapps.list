@@ -27,7 +27,7 @@ audio/mpeg=userapp-alacritty -e vd.desktop
 application/octet-stream=nvim.desktop
 application/x-xar=xarchiver.desktop
 application/zip=xarchiver.desktop
-image/svg+xml=imv.desktop
+image/svg+xml=mg.desktop
 application/json=nvim.desktop
 image/jpg=mg.desktop
 image/bmp=mg.desktop
@@ -39,28 +39,29 @@ video/quicktime=vd.desktop
 video/x-msvideo=vd.desktop
 video/mpeg=vd.desktop
 video/ogg=vd.desktop
+image/svg=mg.desktop
 
 [Added Associations]
 x-scheme-handler/http=zen.desktop;xfce4-web-browser.desktop;
 x-scheme-handler/https=zen.desktop;xfce4-web-browser.desktop;
-image/png=imv.desktop;
-image/webp=imv.desktop;
+image/png=mg.desktop;
+image/webp=mg.desktop;
 inode/directory=xarchiver.desktop;
 x-scheme-handler/trash=xfce4-file-manager.desktop;
 inode/symlink=userapp-proton-launcher run-BB41S3.desktop;proton-launcher-config.desktop;
 application/vnd.microsoft.portable-executable=nvim.desktop;userapp-umu-run-2VIQU3.desktop;userapp-proton-launcher run-EATZS3.desktop;
 x-scheme-handler/chrome=zen.desktop;
-text/plain=userapp-imv-MEW3V3.desktop;
+text/plain=userapp-mg-MEW3V3.desktop;
 image/jpeg=userapp-alacritty -e fish -c y-TTVBT3.desktop;userapp-fish -c y-Y577S3.desktop;
 application/x-7z-compressed=xarchiver.desktop;
-image/gif=vlc.desktop;imv.desktop;
+image/gif=vlc.desktop;mg.desktop;
 application/x-msdownload=userapp-fish -c "umu-run-HNOWX3.desktop;userapp-fish -c umu-run-0Q4YX3.desktop;userapp-umu-run-8BNVV3.desktop;userapp-umu-run-625LU3.desktop;userapp-sh -c umu-run-TILRU3.desktop;userapp-alacritty -e fish -c umu-run-NW0PU3.desktop;userapp-alacritty -e umu-run-TGI6U3.desktop;userapp-alacritty -e fish -c umu-run-DHFBY3.desktop;
 audio/mpeg=userapp-alacritty -e vd.desktop;
-application/octet-stream=nvim.desktop;userapp-imv-WR9AV3.desktop;
+application/octet-stream=nvim.desktop;userapp-mg-WR9AV3.desktop;
 application/vnd.tcpdump.pcap=nvim.desktop;
 application/x-xar=xarchiver.desktop;
 application/zip=xarchiver.desktop;
-image/svg+xml=imv.desktop;
+image/svg+xml=mg.desktop;
 application/json=nvim.desktop;
 
 [Removed Associations]

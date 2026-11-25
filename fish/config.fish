@@ -153,7 +153,7 @@ function git-wipe
 end
 
 function na 
-  j fm $PWD
+  fm $PWD
 end
 
 function u
@@ -195,9 +195,9 @@ alias aurwha="pacman -Qm"
 alias upd-grub="doas grub-mkconfig -o /boot/grub/grub.cfg"
 alias rp="commandline -f repaint"
 alias mr="doas nvim /etc/pacman.d/mirrorlist"
-alias dwvd="yt-dlp --merge-output-format mp4 -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]'"
+alias dwvd="yt-dlp --extractor-args 'youtube:player_js_variant=tv' --merge-output-format mp4 -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]'"
 alias qp="pacman -Qtt | fzf"
-alias dw="yt-dlp -t mp3"
+alias dw="yt-dlp --extractor-args 'youtube:player_js_variant=tv' -t mp3"
 alias d="dua ."
 alias gr="git status"
 alias k="cd ~/Desktop/mp3"
@@ -218,6 +218,7 @@ alias votv="umu-run '~/Desktop/votv/VotV.exe'"
 alias isaac="cd ~/Desktop/isaac > /dev/null 2>&1; echo starting Tboi; umu-run isaac-ng.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 alias dsr="cd ~/Desktop/dsr/ > /dev/null 2>&1; umu-run DarkSoulsRemastered.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 alias cu="cd ~/Desktop/cu/ > /dev/null 2>&1; umu-run CasualtiesUnknown.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
+alias er="cd ~/Desktop/er/ > /dev/null 2>&1; umu-run eldenring.exe > /dev/null 2>&1; cd > /dev/null 2>&1"
 #
 
 
