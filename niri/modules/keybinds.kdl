@@ -8,6 +8,7 @@ binds {
     Mod+Shift+e     { spawn-sh "noctalia msg settings-toggle"; }
     Mod+e           { spawn-sh "noctalia msg panel-toggle control-center"; }
     Mod+Escape      { spawn-sh "fm"; }
+    Alt+Escape      { spawn-sh "l-term"; }
     Mod+b           { spawn-sh "l-term -e 'btop'"; }
     Mod+r           { spawn-sh "noctalia msg session lock"; }
 
